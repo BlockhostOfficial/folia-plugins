@@ -1,5 +1,5 @@
 # folia-plugins
-List of plugins that support [Folia](https://github.com/PaperMC/Folia)
+List of plugins that support / are working on it [Folia](https://github.com/PaperMC/Folia)
 
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion/commit/c46bb5bcf5e88a415dc045271fe1a174c3a623f4)
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards)
