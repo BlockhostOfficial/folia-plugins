@@ -11,6 +11,7 @@ List of popular plugins that support / are working on supporting [Folia](https:/
 - [GSit](https://github.com/Gecolay/GSit)
 - [Grim](https://github.com/GrimAnticheat/Grim)
 - [InvSee++](https://github.com/Jannyboy11/InvSee-plus-plus)
+- [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
 - [Maintenance](https://github.com/kennytv/Maintenance)
 - [MiniMOTD](https://github.com/jpenilla/MiniMOTD)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
