@@ -9,6 +9,7 @@ List of popular plugins that support / are working on supporting [Folia](https:/
 - [Floodgate](https://github.com/GeyserMC/Floodgate)
 - [GeyserMC](https://github.com/GeyserMC/Geyser)
 - [GSit](https://github.com/Gecolay/GSit)
+- Grim
 - [InvSee++](https://github.com/Jannyboy11/InvSee-plus-plus)
 - [Maintenance](https://github.com/kennytv/Maintenance)
 - [MiniMOTD](https://github.com/jpenilla/MiniMOTD)
