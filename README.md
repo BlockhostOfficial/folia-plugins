@@ -20,4 +20,7 @@ List of popular plugins that support / are working on supporting [Folia](https:/
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards)
 - [ViaRewind](https://github.com/ViaVersion/ViaRewind)
 
+Libraries and frameworks:
+[PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
+
 Support discord: https://discord.gg/GcemTB848R
