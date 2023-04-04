@@ -2,6 +2,7 @@
 List of popular plugins that support / are working on supporting [Folia](https://github.com/PaperMC/Folia)
 
 - [AdvancedServerList](https://github.com/Andre601/AdvancedServerList)
+- BlueMap
 - [EssentialsX](https://github.com/EssentialsX/Essentials)
 - [ChestShop3](https://github.com/ChestShop-authors/ChestShop-3)
 - [Chunky](https://github.com/pop4959/Chunky)
@@ -15,6 +16,7 @@ List of popular plugins that support / are working on supporting [Folia](https:/
 - [Maintenance](https://github.com/kennytv/Maintenance)
 - [MiniMOTD](https://github.com/jpenilla/MiniMOTD)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
+- Plasmo-voice
 - [SimpleVoiceChat](https://github.com/henkelmax/simple-voice-chat)
 - [Spark](https://github.com/lucko/spark)
 - [ViaVersion](https://github.com/ViaVersion)
