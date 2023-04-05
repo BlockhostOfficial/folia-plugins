@@ -20,6 +20,7 @@ List of popular plugins that support / are working on supporting [Folia](https:/
 - [Plasmo-voice](https://github.com/plasmoapp/plasmo-voice)
 - [SimpleVoiceChat](https://github.com/henkelmax/simple-voice-chat)
 - [Spark](https://github.com/lucko/spark)
+- Vault
 - [ViaVersion](https://github.com/ViaVersion)
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards)
 - [ViaRewind](https://github.com/ViaVersion/ViaRewind)
