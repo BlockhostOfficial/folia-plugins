@@ -8,6 +8,7 @@ List of popular plugins that support / are working on supporting [Folia](https:/
 - [Chunky](https://github.com/pop4959/Chunky)
 - [FarmControl](https://github.com/froobynooby/FarmControl)
 - [Floodgate](https://github.com/GeyserMC/Floodgate)
+- [FreedomChat](https://github.com/e-im/FreedomChat)
 - [GeyserMC](https://github.com/GeyserMC/Geyser)
 - [GSit](https://github.com/Gecolay/GSit)
 - [Grim](https://github.com/GrimAnticheat/Grim)
