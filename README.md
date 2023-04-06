@@ -26,6 +26,7 @@ List of popular plugins that support [Folia](https://github.com/PaperMC/Folia):
 
 List of plugins that are working on supporting Folia:
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
+- FastAsyncWorldEdit
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia)
