@@ -30,6 +30,7 @@ List of plugins that are working on supporting Folia:
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia)
+- [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX)
 
 
 Libraries and frameworks:
