@@ -9,7 +9,7 @@ List of popular plugins that support [Folia](https://github.com/PaperMC/Folia):
 - [FarmControl](https://github.com/froobynooby/FarmControl)
 - [Floodgate](https://github.com/GeyserMC/Floodgate)
 - [FreedomChat](https://github.com/e-im/FreedomChat)
-- [GeyserMC](https://github.com/GeyserMC/Geyser)
+- [Geyser](https://github.com/GeyserMC/Geyser)
 - [GSit](https://github.com/Gecolay/GSit)
 - [Grim](https://github.com/GrimAnticheat/Grim)
 - [InvSee++](https://github.com/Jannyboy11/InvSee-plus-plus)
