@@ -35,4 +35,6 @@ List of plugins that are working on supporting Folia:
 Libraries and frameworks:
 - [PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
 
-Support discord: https://discord.gg/GcemTB848R
+Support Discord Server:
+
+[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
