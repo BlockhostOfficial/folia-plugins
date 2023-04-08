@@ -6,7 +6,7 @@ List of popular plugins that support [Folia](https://github.com/PaperMC/Folia):
 - [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)
 - [ChestShop3](https://github.com/ChestShop-authors/ChestShop-3)
 - [Chunky](https://github.com/pop4959/Chunky) (You need to compile it yourself)
-- DiscordSRV
+- [DiscordSRV](https://snapshot.discordsrv.com/)
 - [FarmControl](https://github.com/froobynooby/FarmControl)
 - [Floodgate](https://github.com/GeyserMC/Floodgate)
 - [FreedomChat](https://github.com/e-im/FreedomChat)
@@ -21,9 +21,8 @@ List of popular plugins that support [Folia](https://github.com/PaperMC/Folia):
 - [PvPManager](https://github.com/ChanceSD/PvPManager) (Use dev build)
 - [SimpleVoiceChat](https://github.com/henkelmax/simple-voice-chat)
 - [Vault (Fork)](https://github.com/Geolykt/Vault)
-- [ViaVersion](https://github.com/ViaVersion/ViaVersion)
-- [ViaBackwards](https://github.com/ViaVersion/ViaBackwards)
-- [ViaRewind](https://github.com/ViaVersion/ViaRewind)
+- [ViaVersion](https://ci.viaversion.com/job/ViaVersion-DEV/)
+- [ViaBackwards](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/)
 
 List of plugins that are working on supporting Folia:
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
