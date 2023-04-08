@@ -29,6 +29,7 @@ List of plugins that are working on supporting Folia:
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
+- [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/issues/2281)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia)
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX)
 
