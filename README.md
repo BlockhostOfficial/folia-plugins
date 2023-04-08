@@ -6,6 +6,7 @@ List of popular plugins that support [Folia](https://github.com/PaperMC/Folia):
 - [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)
 - [ChestShop3](https://github.com/ChestShop-authors/ChestShop-3)
 - [Chunky](https://github.com/pop4959/Chunky) (You need to compile it yourself)
+- DiscordSRV
 - [FarmControl](https://github.com/froobynooby/FarmControl)
 - [Floodgate](https://github.com/GeyserMC/Floodgate)
 - [FreedomChat](https://github.com/e-im/FreedomChat)
