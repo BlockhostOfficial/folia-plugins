@@ -9,6 +9,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | Name  | GitHub | Download |
 | ------------- | ------------- | ------------- |
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) |
+| [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) |
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | Compile it from GitHub |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
@@ -50,6 +51,7 @@ Libraries and frameworks for plugin developers.
 | [PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
 
 ### List of libraries and frameworks that are working on support for Folia
+| [FurnitureLib](https://github.com/Ste3et/FurnitureLib/tree/folia)
 | [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
 
 Our Discord Server:
