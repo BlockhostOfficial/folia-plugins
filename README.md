@@ -1,10 +1,10 @@
 # Folia Plugins
 [Folia](https://github.com/PaperMC/Folia) is a brand new server software made by the team behind [PaperMC](https://papermc.io), a SpigotMC fork. Folia is a new multithreaded version of PaperMC. With Folia you can handle way more players than you normally could. It requires powerful hardware and the plugins must be updated to support Folia.
 
-# Plugins
+## Plugins
 List of popular plugins that are working on supporting Folia or they already support it.
 
-## List of plugins that support Folia
+### List of plugins that support Folia
 These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using GitHub Issues or their Discord Servers.
 - [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) - [GitHub](https://github.com/jpenilla/AnnouncerPlus) - [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/)
 - [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) - [GitHub](https://github.com/jpenilla/AnnouncerPlus) - [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases)
@@ -29,7 +29,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 - [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) - [GitHub](https://github.com/ViaVersion/ViaBackwards) - [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/)
 - [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) - [Compile it from GitHub](https://github.com/ViaVersion/ViaRewind)
 
-## List of plugins that are working on support for Folia
+### List of plugins that are working on support for Folia
 These plugins don't fully support Folia yet but it's in the plans or the development has already started.
 - [AdvancedServerList](https://github.com/Andre601/AdvancedServerList)
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
@@ -41,12 +41,13 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX)
 
 
-# Libraries and frameworks
+## Libraries and frameworks
+Libraries and frameworks for plugin developers.
 
-## List of libraries and frameworks that support Folia
+### List of libraries and frameworks that support Folia
 - [PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
 
-## List of libraries and frameworks that are working on support for Folia
+### List of libraries and frameworks that are working on support for Folia
 - [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
 
 Our Discord Server:
