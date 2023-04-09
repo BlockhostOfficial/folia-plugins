@@ -1,7 +1,7 @@
 # folia-plugins
 
 List of popular plugins that support [Folia](https://github.com/PaperMC/Folia):
-- [AdvancedServerList](https://github.com/Andre601/AdvancedServerList)
+- [AdvancedServerList](https://github.com/Andre601/AdvancedServerList) - Download
 - [AnnouncerPlus](https://github.com/jpenilla/AnnouncerPlus) (Use dev build)
 - [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)
 - [ChestShop3](https://github.com/ChestShop-authors/ChestShop-3)
