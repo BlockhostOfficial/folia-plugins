@@ -23,8 +23,9 @@ List of popular plugins that support [Folia](https://github.com/PaperMC/Folia):
 - [Vault (Fork)](https://github.com/Geolykt/Vault)
 - [ViaVersion](https://ci.viaversion.com/job/ViaVersion-DEV/)
 - [ViaBackwards](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/)
+- [ViaRewind](https://github.com/ViaVersion/ViaRewind) (You need to compile it yourself) 
 
-List of plugins that are working on supporting Folia:
+List of plugins that are working on support for Folia:
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
@@ -36,6 +37,9 @@ List of plugins that are working on supporting Folia:
 
 Libraries and frameworks:
 - [PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
+
+Libraries and frameworks that are working on support for Folia:
+- [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
 
 Support Discord Server:
 
