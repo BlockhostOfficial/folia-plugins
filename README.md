@@ -39,6 +39,7 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
+- [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/issues/2281)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia)
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
