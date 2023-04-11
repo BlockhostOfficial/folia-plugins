@@ -41,7 +41,7 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/issues/2281)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia)
-- [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX)
+- [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
 
 
 ## Libraries and frameworks
