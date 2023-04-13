@@ -43,6 +43,7 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [ArmorStandEditor](https://github.com/Wolfieheart/ArmorStandEditor/tree/dev/folia-experimental)
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
+- [LibertyBans](https://github.com/A248/LibertyBans/tree/folia-support)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
