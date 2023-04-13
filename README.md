@@ -62,7 +62,7 @@ Libraries and frameworks for plugin developers.
 | [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
 
 ## How can I add Folia support to my plugin?
-Check out the [README file](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the (PaperMC Documentations)[https://docs.papermc.io/folia] for more information.
+Check out the [README file](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the [PaperMC Documentations](https://docs.papermc.io/folia) for more information.
 
 Our Discord Server:
 
