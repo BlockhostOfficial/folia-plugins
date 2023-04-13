@@ -10,6 +10,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | ------------- | ------------- | ------------- |
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
+| [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [Download](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions)
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) |
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | Compile it from GitHub |
@@ -40,7 +41,6 @@ These plugins should work with Folia but please note that Folia just recently ca
 ### List of plugins that are working on support for Folia
 These plugins don't fully support Folia yet but it's in the plans or the development has already started.
 - [AdvancedServerList](https://github.com/Andre601/AdvancedServerList)
-- [ArmorStandEditor](https://github.com/Wolfieheart/ArmorStandEditor/tree/dev/folia-experimental)
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
 - [LibertyBans](https://github.com/A248/LibertyBans/tree/folia-support)
