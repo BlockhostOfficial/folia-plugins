@@ -26,6 +26,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/) | [GitHub](https://github.com/jpenilla/MiniMOTD) | [Download](https://github.com/jpenilla/MiniMOTD/actions) |
 | [MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders) | [GitHub](https://github.com/MiniPlaceholders/MiniPlaceholders/) | [Download](https://modrinth.com/plugin/miniplaceholders/versions#all-versions) |
 | [MineStore](https://minestorecms.com) | [GitHub](https://github.com/ChromMob/MineStoreRecode) | [Download](https://js.chrommob.fun/job/MineStore/) |
+| [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) |
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) |
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) |
 | [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) |
@@ -59,6 +60,9 @@ Libraries and frameworks for plugin developers.
 ### List of libraries and frameworks that are working on support for Folia
 | [FurnitureLib](https://github.com/Ste3et/FurnitureLib/tree/folia)
 | [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
+
+## How can I add Folia support to my plugin?
+Check out the [README file](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the (PaperMC Documentations)[https://docs.papermc.io/folia] for more information.
 
 Our Discord Server:
 
