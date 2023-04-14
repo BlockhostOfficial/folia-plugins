@@ -16,6 +16,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | Compile it from GitHub |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) |
+| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile it from GitHub  |
 | [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) | [GitHub](https://github.com/DiscordSRV/DiscordSRV/) | [Download](https://snapshot.discordsrv.com/) |
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) |
 | [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) |
