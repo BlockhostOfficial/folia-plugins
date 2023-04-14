@@ -49,6 +49,7 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/issues/2281)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia)
+- TAB
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
 
 
