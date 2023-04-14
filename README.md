@@ -50,7 +50,7 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/issues/2281)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia)
-- [TAB](https://github.com/NEZNAMY/TAB/tree/v4)
+- [TAB](https://github.com/NEZNAMY/TAB/tree/v4), you can also use this [download](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) for semi functional plugin
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
 
 
