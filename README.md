@@ -25,6 +25,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) |
 | [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) |
 | [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) |
+| [LiberyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | Compile it from GitHub |
 | [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/) | [GitHub](https://github.com/jpenilla/MiniMOTD) | [Download](https://github.com/jpenilla/MiniMOTD/actions) |
 | [MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders) | [GitHub](https://github.com/MiniPlaceholders/MiniPlaceholders/) | [Download](https://modrinth.com/plugin/miniplaceholders/versions#all-versions) |
@@ -45,7 +46,6 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [AdvancedServerList](https://github.com/Andre601/AdvancedServerList)
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
-- [LibertyBans](https://github.com/A248/LibertyBans/tree/folia-support)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
@@ -68,6 +68,6 @@ Libraries and frameworks for plugin developers.
 ## How can I add Folia support to my plugin?
 Check out the [README file](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the [PaperMC Documentations](https://docs.papermc.io/folia) for more information.
 
-Our Discord Server:
+## Our Discord Server:
 
 [![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
