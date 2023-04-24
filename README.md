@@ -44,6 +44,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 ### List of plugins that are working on support for Folia
 These plugins don't fully support Folia yet but it's in the plans or the development has already started.
 - [AdvancedServerList](https://github.com/Andre601/AdvancedServerList)
+- [DiscordSRV](https://github.com/DiscordSRV/Ascension)
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
