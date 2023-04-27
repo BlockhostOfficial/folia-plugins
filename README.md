@@ -1,6 +1,10 @@
 # Folia Plugins
 [Folia](https://github.com/PaperMC/Folia) is a brand new server software made by the team behind [PaperMC](https://papermc.io), a SpigotMC fork. Folia is a new multithreaded version of PaperMC. With Folia you can handle way more players than you normally could. It requires powerful hardware and the plugins must be updated to support Folia.
 
+## Our Discord Server:
+
+[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
+
 ## Plugins
 List of popular plugins that are working on supporting Folia or they already support it.
 
@@ -15,6 +19,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | Compile it from GitHub |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
+| [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Download](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) |
 | [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile it from GitHub  |
 | [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) | [GitHub](https://github.com/DiscordSRV/DiscordSRV/) | [Download](https://snapshot.discordsrv.com/) |
@@ -44,17 +49,21 @@ These plugins should work with Folia but please note that Folia just recently ca
 ### List of plugins that are working on support for Folia
 These plugins don't fully support Folia yet but it's in the plans or the development has already started.
 - [AdvancedServerList](https://github.com/Andre601/AdvancedServerList)
+- [AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded/pull/2701)
 - [DiscordSRV](https://github.com/DiscordSRV/Ascension)
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
+- [HuskHomes2](https://github.com/WiIIiam278/HuskHomes2/issues/342)
+- [HuskSync](https://github.com/WiIIiam278/HuskSync/issues/131)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
+- [Multiverse-Core](https://github.com/Multiverse/Multiverse-Core/issues/2901)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/issues/2281)
-- [Spark](https://github.com/lucko/spark/tree/feat/folia)
-- [Towny](https://github.com/TownyAdvanced/Towny/tree/feat/folia)
-- [TAB](https://github.com/NEZNAMY/TAB/tree/v4), you can also use this [download](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) for semi functional plugin
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
+- [Spark](https://github.com/lucko/spark/tree/feat/folia),Built into Folia
+- [TAB](https://github.com/NEZNAMY/TAB/tree/v4), you can also use this [download](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) for semi functional plugin
+- [Towny](https://github.com/TownyAdvanced/Towny/tree/feat/folia)
 
 
 ## Libraries and frameworks
