@@ -9,7 +9,7 @@
 List of popular plugins that are working on supporting Folia or they already support it.
 
 ### List of plugins that support Folia
-These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using [GitHub Issues](https://github.com/PaperMC/Folia/issues) or their [Discord](https://discord.gg/papermc) Servers.  
+These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using GitHub Issues or their Discord Servers.  
 | Name  | GitHub | Download |
 | ------------- | ------------- | ------------- |
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) |
