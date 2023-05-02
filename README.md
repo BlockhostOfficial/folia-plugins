@@ -9,7 +9,7 @@
 List of popular plugins that are working on supporting Folia or they already support it.
 
 ### List of plugins that support Folia
-These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using GitHub Issues or their Discord Servers.  
+These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using [GitHub Issues](https://github.com/PaperMC/Folia/issues) or their [Discord](https://discord.gg/papermc) Servers.  
 | Name  | GitHub | Download |
 | ------------- | ------------- | ------------- |
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) |
@@ -40,6 +40,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) |
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) |
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) |
+| [PrismRefracted (Fork)](https://beta.mcbbs.net/resource/servermod/qcnedi83) | [GitHub](https://github.com/Rothes/PrismRefracted) | [Download](https://github.com/Rothes/PrismRefracted/releases) |
 | [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) |
 | [Scoreboard (Fork)](https://github.com/okocraft/Scoreboard-Folia) | [GitHub](https://github.com/okocraft/Scoreboard-Folia) | [Download](https://github.com/okocraft/Scoreboard-Folia/releases) |
 | [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [Download](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit) |
