@@ -19,11 +19,11 @@
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [下载](https://github.com/BetterGUI-MC/BetterGUI/releases) |
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [下载](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [下载](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
-| [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | 从 GitHub 编译 |
+| [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | 从 GitHub 编译下载 |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [下载](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
 | [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [下载](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [下载](https://github.com/cavallium/CoordinatesObfuscator/releases) |
-| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | 下载从 GitHub 编译  |
+| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | 从 GitHub 编译下载  |
 | [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) | [GitHub](https://github.com/DiscordSRV/DiscordSRV/) | [下载](https://snapshot.discordsrv.com/) |
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [下载](https://ci.froobworld.com/job/FarmControl/) |
 | [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [下载](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) |
@@ -48,7 +48,7 @@
 | [UltimateServerProtector](https://www.spigotmc.org/resources/ultimateserverprotector-admins-operators-security-plugin-lightweight-and-async.105237/) | [GitHub](https://github.com/Overwrite987/UltimateServerProtector) | [下载](https://github.com/Overwrite987/UltimateServerProtector/releases) |
 | [Vault (Fork)](https://github.com/Geolykt/Vault) | [GitHub](https://github.com/Geolykt/Vault) | [下载](https://github.com/Geolykt/Vault/releases/tag/v1.7.3-folia) |
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [下载](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
-| [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | 下载从 GitHub 编译 |
+| [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | 从 GitHub 编译下载 |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [下载](https://ci.viaversion.com/job/ViaVersion-DEV/) |
 
 
