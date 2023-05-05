@@ -19,6 +19,7 @@
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [下载](https://modrinth.com/plugin/authmevelocity/versions#all-versions)          |
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [下载](https://github.com/BetterGUI-MC/BetterGUI/releases)                        |
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [下载](https://github.com/BlueMap-Minecraft/BlueMap/releases)                     |
+| [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf)) | [Download](https://ci.loohpjames.com/job/Bookshelf/)                        |
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [下载](https://github.com/RenYuan-MC/CatSeedLogin/releases)                       |
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | 从 GitHub 编译下载                                                                   |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [下载](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/)                  |
