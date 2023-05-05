@@ -17,6 +17,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) |
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
+| [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [Download](https://ci.loohpjames.com/job/Bookshelf/) |
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [Download](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | Compile it from GitHub |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
