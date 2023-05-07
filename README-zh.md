@@ -65,7 +65,6 @@
 - [DiscordSRV](https://github.com/DiscordSRV/Ascension)
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
-- [HuskHomes2](https://github.com/WiIIiam278/HuskHomes2/issues/342)
 - [HuskSync](https://github.com/WiIIiam278/HuskSync/issues/131)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
 - [Multiverse-Core](https://github.com/Multiverse/Multiverse-Core/issues/2901)
