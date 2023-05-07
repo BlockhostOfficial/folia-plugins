@@ -16,11 +16,11 @@
 | --- | --- |---------------------------------------------------------------------------------|
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [下载](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/)                           |
 | [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [下载](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions) |
-| [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [下载](https://modrinth.com/plugin/authmevelocity/versions#all-versions)          |
 | [AuthMeReloaded (Fork)](https://github.com/HaHaWTH/AuthMeReReloaded/) | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded/) | [下载](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) |
+| [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [下载](https://modrinth.com/plugin/authmevelocity/versions#all-versions)          |
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [下载](https://github.com/BetterGUI-MC/BetterGUI/releases)                        |
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [下载](https://github.com/BlueMap-Minecraft/BlueMap/releases)                     |
-| [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf)) | [下载](https://ci.loohpjames.com/job/Bookshelf/)                        |
+| [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [下载](https://ci.loohpjames.com/job/Bookshelf/)                        |
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [下载](https://github.com/RenYuan-MC/CatSeedLogin/releases)                       |
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | 从 GitHub 编译下载                                                                   |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [下载](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/)                  |
@@ -35,6 +35,8 @@
 | [Geyser](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/) | [GitHub](https://github.com/GeyserMC/Geyser) | [下载](https://geysermc.org/下载)                                                   |
 | [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [下载](https://www.spigotmc.org/resources/grim-anticheat.99923/)                  |
 | [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [下载](https://github.com/Gecolay/GSit/releases)                                  |
+| [HuskHomes2](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | [GitHub](https://github.com/WiIIiam278/HuskHomes2) | [下载](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) |
+| [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | 非开源插件 | [付费购买](https://www.spigotmc.org/resources/interactiveboard.77114/)                             |
 | [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [下载](https://github.com/Jannyboy11/InvSee-plus-plus/releases)                   |
 | [LiberyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [下载](https://ci.hahota.net/job/LibertyBans/)                                    |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [下载](https://hangar.papermc.io/kennytv/Maintenance/versions)                    |
