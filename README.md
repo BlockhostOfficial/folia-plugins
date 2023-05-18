@@ -55,7 +55,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile it from GitHub |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
-
+| [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | [GitHub](https://github.com/handy-git/RiceMotd) | [Download](https://github.com/handy-git/RiceMotd/releases)                             |
 
 ### List of plugins that are working on support for Folia
 These plugins don't fully support Folia yet but it's in the plans or the development has already started.
