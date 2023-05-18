@@ -70,6 +70,7 @@
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
 - [HuskSync](https://github.com/WiIIiam278/HuskSync/issues/131)
+- [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API/issues/225)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
 - [Multiverse-Core](https://github.com/Multiverse/Multiverse-Core/issues/2901)
 - [PacketEvents API](https://github.com/retrooper/packetevents/pull/583)
@@ -77,8 +78,8 @@
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/issues/2281)
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
-- [Spark](https://github.com/lucko/spark/tree/feat/folia)，未来将内置于 Folia
-- [TAB](https://github.com/NEZNAMY/TAB/tree/v4)，你也可以使用此[下载链接](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar)获取功能不完整的插件
+- [Spark](https://github.com/lucko/spark/tree/feat/folia), 未来将内置于Folia
+- [TAB](https://github.com/NEZNAMY/TAB/tree/v4), 您可以从此处下载功能不完全的版本 [download](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) for semi functional plugin
 - [Towny](https://github.com/TownyAdvanced/Towny/tree/feat/folia)
 
 ## 插件开发所需的库和框架

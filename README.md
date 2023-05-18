@@ -70,6 +70,7 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
 - [HuskSync](https://github.com/WiIIiam278/HuskSync/issues/131)
+- [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API/issues/225)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/tree/feat/folia)
 - [Multiverse-Core](https://github.com/Multiverse/Multiverse-Core/issues/2901)
 - [PacketEvents API](https://github.com/retrooper/packetevents/pull/583)
