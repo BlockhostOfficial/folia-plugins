@@ -50,7 +50,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) |
 | [PrismRefracted (Fork)](https://beta.mcbbs.net/resource/servermod/qcnedi83) | [GitHub](https://github.com/Rothes/PrismRefracted) | [Download](https://github.com/Rothes/PrismRefracted/releases) |
 | [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) |
-| [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | Non open source | [Download](https://www.mcbbs.net/thread-1442905-1-1.html) |
+| [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | [GitHub](https://github.com/handy-git/RiceMotd) | [Download](https://github.com/handy-git/RiceMotd/releases)                             |
 | [Scoreboard (Fork)](https://github.com/okocraft/Scoreboard-Folia) | [GitHub](https://github.com/okocraft/Scoreboard-Folia) | [Download](https://github.com/okocraft/Scoreboard-Folia/releases) |
 | [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [Download](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit) |
 | [SternalBoard (Fork)](https://github.com/jdkeke142/SternalBoard-Folia) | [GitHub](https://github.com/jdkeke142/SternalBoard-Folia) | [Download](https://github.com/jdkeke142/SternalBoard-Folia/releases/tag/2.2.0-Folia) |
@@ -60,7 +60,6 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile it from GitHub |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
-
 
 ### List of plugins that are working on support for Folia
 These plugins don't fully support Folia yet but it's in the plans or the development has already started.

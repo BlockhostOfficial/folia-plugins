@@ -51,7 +51,7 @@
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [下载](https://github.com/plasmoapp/plasmo-voice/releases)                                                                                               |
 | [PrismRefracted (Fork)](https://beta.mcbbs.net/resource/servermod/qcnedi83) | [GitHub](https://github.com/Rothes/PrismRefracted) | [下载](https://github.com/Rothes/PrismRefracted/releases)                                                                                                |
 | [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [下载](https://ci.codemc.io/job/ChanceSD/job/PvPManager/)                                                                                                |
-| [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | 非开源插件 | [下载](https://www.mcbbs.net/thread-1442905-1-1.html) |
+| [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | [GitHub](https://github.com/handy-git/RiceMotd) | [下载](https://github.com/handy-git/RiceMotd/releases)                             |
 | [Scoreboard (Fork)](https://github.com/okocraft/Scoreboard-Folia) | [GitHub](https://github.com/okocraft/Scoreboard-Folia) | [下载](https://github.com/okocraft/Scoreboard-Folia/releases)                                                                                            |
 | [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [下载](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit)                                                                                  |
 | [SurvivalPlots](https://www.spigotmc.org/resources/survival-plots.108627/) | [GitHub](https://github.com/destial/SurvivalPlots) | [下载](https://www.spigotmc.org/resources/survival-plots.108627/)                                                                                        |
@@ -60,7 +60,6 @@
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [下载](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/)                                                                                |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | 从 GitHub 编译下载                                                                                                                                          |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [下载](https://ci.viaversion.com/job/ViaVersion-DEV/)                                                                                                    |
-
 
 ### 正在为 Folia 提供支持的插件列表
 这些插件还没有完全支持 Folia，但计划已经在进行中，或者开发已经开始了。
