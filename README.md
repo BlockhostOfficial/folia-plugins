@@ -18,19 +18,25 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) |
 | [BetterRTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | [GitHub](https://www.mcbbs.net/thread-1442905-1-1.html) | [Download](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) |
+| [BlockCompressor](https://www.spigotmc.org/resources/block-compressor.88448/) | [GitHub](https://www.spigotmc.org/resources/block-compressor.88448/) | [Download](https://www.spigotmc.org/resources/block-compressor.88448/) |
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/BlueMap-Minecraft/BlueMap) | [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
+| [BlueSlimeCore](https://www.spigotmc.org/resources/blueslimecore.83189/) | [GitHub](https://github.com/SirBlobman/BlueSlimeCore) | [Download](https://www.spigotmc.org/resources/blueslimecore.83189/) |
 | [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [Download](https://ci.loohpjames.com/job/Bookshelf/) |
+| [BucketsX](https://www.spigotmc.org/resources/bucketsx.84361/) | Non open source | [Paid purchase](https://www.spigotmc.org/resources/bucketsx.84361/) |
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [Download](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | Compile it from GitHub |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
 | [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Download](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
+| [CooldownsX](https://www.spigotmc.org/resources/cooldownsx.41981/) | [GitHub](https://github.com/SirBlobman/CooldownsX) | [Download](https://www.spigotmc.org/resources/cooldownsx.41981/) |
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) |
 | [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile it from GitHub  |
+| [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [Download](https://www.spigotmc.org/resources/disco-armor.60700/) |
 | [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) | [GitHub](https://github.com/DiscordSRV/DiscordSRV/) | [Download](https://snapshot.discordsrv.com/) |
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) |
 | [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) |
 | [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [Download](https://github.com/JNNGL/framedImage/releases) |
 | [FreedomChat](https://modrinth.com/plugin/freedomchat) | [GitHub](https://github.com/e-im/FreedomChat) | [Download](https://modrinth.com/plugin/freedomchat/versions#all-versions) |
+| [Freeze](https://www.spigotmc.org/resources/freeze.31822/) | [GitHub](https://github.com/SirBlobman/Freeze) | [Download](https://www.spigotmc.org/resources/freeze.31822/) |
 | [Geyser](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/) | [GitHub](https://github.com/GeyserMC/Geyser) | [Download](https://geysermc.org/download) |
 | [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) |
 | [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) |
@@ -45,6 +51,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [MineStore](https://minestorecms.com) | [GitHub](https://github.com/ChromMob/MineStoreRecode) | [Download](https://js.chrommob.fun/job/MineStore/) |
 | [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/) | [GitHub](https://github.com/jpenilla/MiniMOTD) | [Download](https://github.com/jpenilla/MiniMOTD/actions) |
 | [MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders) | [GitHub](https://github.com/MiniPlaceholders/MiniPlaceholders/) | [Download](https://modrinth.com/plugin/miniplaceholders/versions#all-versions) |
+| [MountsX](https://www.spigotmc.org/resources/mountsx.81299/) | Non open source | [Paid purchase](https://www.spigotmc.org/resources/mountsx.81299/) |
 | [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) |
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) |
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) |
