@@ -24,6 +24,7 @@
 | [BlockCompressor](https://www.spigotmc.org/resources/block-compressor.88448/) | [GitHub](https://www.spigotmc.org/resources/block-compressor.88448/) | [下载](https://www.spigotmc.org/resources/block-compressor.88448/) |
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/BlueMap-Minecraft/BlueMap) | [下载](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
 | [BlueSlimeCore](https://www.spigotmc.org/resources/blueslimecore.83189/) | [GitHub](https://github.com/SirBlobman/BlueSlimeCore) | [下载](https://www.spigotmc.org/resources/blueslimecore.83189/) |
+| [BlockLocker](https://www.spigotmc.org/resources/blocklocker.3268/) | [GitHub](https://github.com/rutgerkok/BlockLocker) | [下载](https://github.com/rutgerkok/BlockLocker/releases/tag/v1.12-folia) |
 | [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [下载](https://ci.loohpjames.com/job/Bookshelf/) |
 | [BucketsX](https://www.spigotmc.org/resources/bucketsx.84361/) | 非开源插件 | [付费购买](https://www.spigotmc.org/resources/bucketsx.84361/) |
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [下载](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
