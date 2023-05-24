@@ -47,6 +47,7 @@
 | [HynseBackup](https://github.com/MidnightTale/HynseBackup) | [GitHub](https://github.com/MidnightTale/HynseBackup) | [下载](https://modrinth.com/plugin/hynsebackup) |
 | [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | 非开源插件 | [付费购买](https://www.spigotmc.org/resources/interactiveboard.77114/) |
 | [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [下载](https://github.com/Jannyboy11/InvSee-plus-plus/releases) |
+| [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [下载](https://github.com/RIvance/LaggRemoverRemastered/releases) |
 | [LiberyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [下载](https://ci.hahota.net/job/LibertyBans/) |
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | 非开源插件 | [付费购买](https://www.spigotmc.org/resources/litebans.3715/) |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [下载](https://hangar.papermc.io/kennytv/Maintenance/versions) |
