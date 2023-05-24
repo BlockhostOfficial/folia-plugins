@@ -13,8 +13,10 @@
 您可以使用 GitHub Issues 或它们的 Discord 服务器向插件作者报告问题。
 | 名称 | GitHub | 下载                                                                                                                                                     |
 | --- | --- |--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | 从 GitHub 编译下载 |
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [下载](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) |
 | [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [下载](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions)
+| [Ascension](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | 从 GitHub 编译下载 |
 | [AuthMeReloaded (Fork)](https://github.com/HaHaWTH/AuthMeReReloaded/) | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded/) | [下载](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [下载](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [下载](https://github.com/BetterGUI-MC/BetterGUI/releases) |
@@ -25,12 +27,12 @@
 | [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [下载](https://ci.loohpjames.com/job/Bookshelf/) |
 | [BucketsX](https://www.spigotmc.org/resources/bucketsx.84361/) | 非开源插件 | [付费购买](https://www.spigotmc.org/resources/bucketsx.84361/) |
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [下载](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
-| [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | 从 GitHub 编译下载  |
+| [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | 从 GitHub 编译下载 |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [下载](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
 | [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [下载](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
 | [CooldownsX](https://www.spigotmc.org/resources/cooldownsx.41981/) | [GitHub](https://github.com/SirBlobman/CooldownsX) | [下载](https://www.spigotmc.org/resources/cooldownsx.41981/) |
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [下载](https://github.com/cavallium/CoordinatesObfuscator/releases) |
-| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | 从 GitHub 编译下载   |
+| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | 从 GitHub 编译下载 |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [下载](https://www.spigotmc.org/resources/disco-armor.60700/) |
 | [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) | [GitHub](https://github.com/DiscordSRV/DiscordSRV/) | [下载](https://snapshot.discordsrv.com/) |
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [下载](https://ci.froobworld.com/job/FarmControl/) |
@@ -63,17 +65,16 @@
 | [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [下载](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit) |
 | [SternalBoard (Fork)](https://github.com/jdkeke142/SternalBoard-Folia) | [GitHub](https://github.com/jdkeke142/SternalBoard-Folia) | [下载](https://github.com/jdkeke142/SternalBoard-Folia/releases/tag/2.2.0-Folia) |
 | [SurvivalPlots](https://www.spigotmc.org/resources/survival-plots.108627/) | [GitHub](https://github.com/destial/SurvivalPlots) | [下载](https://www.spigotmc.org/resources/survival-plots.108627/) |
+| [Towny](https://www.spigotmc.org/resources/towny-advanced.72694/) | [GitHub](https://github.com/TownyAdvanced/Towny) | [下载](https://github.com/TownyAdvanced/Towny/releases/) |
 | [UltimateServerProtector](https://www.spigotmc.org/resources/ultimateserverprotector-admins-operators-security-plugin-lightweight-and-async.105237/) | [GitHub](https://github.com/Overwrite987/UltimateServerProtector) | [下载](https://github.com/Overwrite987/UltimateServerProtector/releases) |
 | [Vault (Fork)](https://github.com/Geolykt/Vault) | [GitHub](https://github.com/Geolykt/Vault) | [下载](https://github.com/Geolykt/Vault/releases/tag/v1.7.3-folia) |
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [下载](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
-| [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | 从 GitHub 编译下载  |
+| [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | 从 GitHub 编译下载 |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [下载](https://ci.viaversion.com/job/ViaVersion-DEV/) |                                                                                              |
 
 ### 正在为 Folia 提供支持的插件列表
 这些插件还没有完全支持 Folia，但计划已经在进行中，或者开发已经开始了。
-- [AdvancedServerList](https://github.com/Andre601/AdvancedServerList)
 - [AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded/pull/2701)
-- [DiscordSRV](https://github.com/DiscordSRV/Ascension)
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
 - [HuskSync](https://github.com/WiIIiam278/HuskSync/issues/131)
@@ -87,7 +88,6 @@
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia), 未来将内置于Folia
 - [TAB](https://github.com/NEZNAMY/TAB/tree/v4), 您可以从此处下载功能不完全的版本 [download](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) for semi functional plugin
-- [Towny](https://github.com/TownyAdvanced/Towny/tree/feat/folia)
 
 ## 插件开发所需的库和框架
 为插件开发者提供的库和框架。
