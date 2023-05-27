@@ -19,9 +19,11 @@
 | [Ascension](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | 从 GitHub 编译下载 |
 | [AuthMeReloaded (Fork)](https://github.com/HaHaWTH/AuthMeReReloaded/) | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded/) | [下载](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [下载](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
+| [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [下载](https://github.com/SirBlobman/Basic-Economy/releases) |
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [下载](https://github.com/BetterGUI-MC/BetterGUI/releases) |
 | [BetterRTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | [GitHub](https://www.mcbbs.net/thread-1442905-1-1.html) | [下载](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) |
 | [BlockCompressor](https://www.spigotmc.org/resources/block-compressor.88448/) | [GitHub](https://www.spigotmc.org/resources/block-compressor.88448/) | [下载](https://www.spigotmc.org/resources/block-compressor.88448/) |
+| [BlockLocker](https://www.spigotmc.org/resources/blocklocker.3268/) | [GitHub](https://github.com/rutgerkok/BlockLocker) | [下载](https://github.com/rutgerkok/BlockLocker/releases/tag/v1.12-folia) |
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/BlueMap-Minecraft/BlueMap) | [下载](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
 | [BlueSlimeCore](https://www.spigotmc.org/resources/blueslimecore.83189/) | [GitHub](https://github.com/SirBlobman/BlueSlimeCore) | [下载](https://www.spigotmc.org/resources/blueslimecore.83189/) |
 | [BlockLocker](https://www.spigotmc.org/resources/blocklocker.3268/) | [GitHub](https://github.com/rutgerkok/BlockLocker) | [下载](https://github.com/rutgerkok/BlockLocker/releases/tag/v1.12-folia) |
@@ -36,6 +38,8 @@
 | [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | 从 GitHub 编译下载 |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [下载](https://www.spigotmc.org/resources/disco-armor.60700/) |
 | [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) | [GitHub](https://github.com/DiscordSRV/DiscordSRV/) | [下载](https://snapshot.discordsrv.com/) |
+| [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | 从 GitHub 编译下载 |
+| [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [下载](https://github.com/FancyMcPlugins/FancyHolograms/releases) |
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [下载](https://ci.froobworld.com/job/FarmControl/) |
 | [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [下载](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) |
 | [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [下载](https://github.com/JNNGL/framedImage/releases) |
@@ -70,6 +74,7 @@
 | [Towny](https://www.spigotmc.org/resources/towny-advanced.72694/) | [GitHub](https://github.com/TownyAdvanced/Towny) | [下载](https://github.com/TownyAdvanced/Towny/releases/) |
 | [UltimateServerProtector](https://www.spigotmc.org/resources/ultimateserverprotector-admins-operators-security-plugin-lightweight-and-async.105237/) | [GitHub](https://github.com/Overwrite987/UltimateServerProtector) | [下载](https://github.com/Overwrite987/UltimateServerProtector/releases) |
 | [Vault (Fork)](https://github.com/Geolykt/Vault) | [GitHub](https://github.com/Geolykt/Vault) | [下载](https://github.com/Geolykt/Vault/releases/tag/v1.7.3-folia) |
+| [Vault-Folia (Fork)](https://github.com/SirBlobman/Vault-Folia) | [GitHub](https://github.com/SirBlobman/Vault-Folia) | [下载](https://github.com/SirBlobman/Vault-Folia/releases) |
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [下载](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | 从 GitHub 编译下载 |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [下载](https://ci.viaversion.com/job/ViaVersion-DEV/) |                                                                                              |
