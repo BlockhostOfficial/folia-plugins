@@ -9,8 +9,7 @@
 List of popular plugins that are working on supporting Folia or they already support it.
 
 ### List of plugins that support Folia
-These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using GitHub Issues or their Discord Servers.  
-If you want to obtain more Folia plugins, please use [modrinth](https://modrinth.com/plugins?g=categories:%27folia%27)
+These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using GitHub Issues or their Discord Servers.
 | Name  | GitHub | Download |
 | ------------- | ------------- | ------------- |
 | [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | Compile it from GitHub |
@@ -94,6 +93,7 @@ If you want to obtain more Folia plugins, please use [modrinth](https://modrinth
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile it from GitHub |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
 
+##### If you want to obtain more Folia plugins, please use [modrinth](https://modrinth.com/plugins?g=categories:%27folia%27)
 
 ### List of plugins that are working on support for Folia
 These plugins don't fully support Folia yet but it's in the plans or the development has already started.

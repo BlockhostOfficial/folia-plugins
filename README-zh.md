@@ -11,7 +11,6 @@
 ### 支持 Folia 的插件列表
 这些插件应该可以在 Folia 上运行，但请注意 Folia 最近才推出，可能会出现很多问题，并且API非常不稳定。
 您可以使用 GitHub Issues 或它们的 Discord 服务器向插件作者报告问题。
-如果想获取更多Folia插件请使用[modrinth](https://modrinth.com/plugins?g=categories:%27folia%27)
 | 名称 | GitHub | 下载                                                                                                                                                     |
 | --- | --- |--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | 从 GitHub 编译下载 |
@@ -95,6 +94,7 @@
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | 从 GitHub 编译下载 |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [下载](https://ci.viaversion.com/job/ViaVersion-DEV/) |
 
+##### 如果想获取更多Folia插件请使用[modrinth](https://modrinth.com/plugins?g=categories:%27folia%27)
 
 ### 正在为 Folia 提供支持的插件列表
 这些插件还没有完全支持 Folia，但计划已经在进行中，或者开发已经开始了。
