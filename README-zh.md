@@ -93,7 +93,7 @@
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [下载](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | 从 GitHub 编译下载 |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [下载](https://ci.viaversion.com/job/ViaVersion-DEV/) |
-## 如果想获取更多Folia插件请使用[modrinth](https://modrinth.com/plugins?g=categories:%27folia%27)
+# 如果想获取更多Folia插件请使用[modrinth](https://modrinth.com/plugins?g=categories:%27folia%27)
 
 ### 正在为 Folia 提供支持的插件列表
 这些插件还没有完全支持 Folia，但计划已经在进行中，或者开发已经开始了。
