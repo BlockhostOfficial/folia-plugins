@@ -63,6 +63,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [LiberyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) |
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Non open source | [Paid purchase](https://www.spigotmc.org/resources/litebans.3715/) |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) |
+| [Matrix](https://matrix.rip) | Non open source | [Paid purchase](https://builtbybit.com/resources/matrix-anticheat.13999/)
 | [MCEEW](https://www.spigotmc.org/resources/mceew-earthquake-early-warning.104549/) | [GitHub](https://github.com/TenkyuChimata/MCEEW/) | [Download](https://github.com/TenkyuChimata/MCEEW/releases) |
 | [mclo.gs](https://www.spigotmc.org/resources/mclo-gs.47502/) | [GitHub](https://github.com/aternosorg/mclogs-bukkit) | [Download](https://www.spigotmc.org/resources/mclo-gs.47502/) |
 | [MineStore](https://minestorecms.com) | [GitHub](https://github.com/ChromMob/MineStoreRecode) | [Download](https://js.chrommob.fun/job/MineStore/) |
