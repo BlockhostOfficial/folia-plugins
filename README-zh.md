@@ -73,6 +73,7 @@
 | [MountsX](https://www.spigotmc.org/resources/mountsx.81299/) | 非开源插件 | [付费购买](https://www.spigotmc.org/resources/mountsx.81299/) |
 | [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [下载](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) |
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [下载](https://github.com/ds58/Panilla/releases) |
+| [PixelPlayerWorld](https://www.mcbbs.net/forum.php?mod=viewthread&tid=1449338&page=1&extra=#pid28549519)| [非开源插件] | [下载](https://www.mcbbs.net/forum.php?mod=viewthread&tid=1449338&page=1&extra=#pid28549519) |
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [下载](https://github.com/plasmoapp/plasmo-voice/releases) |
 | [PosCommands](https://www.spigotmc.org/resources/topper.101325/) | [GitHub](https://github.com/Loving11ish/PosCommands) | [下载](https://www.spigotmc.org/resources/poscommands-1-19-4-support.85571/) |
 | [PrefiX](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | [GitHub](https://gitlab.com/martijnpu/prefix) | [下载](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) |
