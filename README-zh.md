@@ -64,6 +64,7 @@
 | [LiberyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [下载](https://ci.hahota.net/job/LibertyBans/) |
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | 非开源插件 | [付费购买](https://www.spigotmc.org/resources/litebans.3715/) |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [下载](https://hangar.papermc.io/kennytv/Maintenance/versions) |
+| [Matrix](https://matrix.rip) | 非开源插件 | [付费购买](https://builtbybit.com/resources/matrix-anticheat.13999/)
 | [MCEEW](https://www.spigotmc.org/resources/mceew-earthquake-early-warning.104549/) | [GitHub](https://github.com/TenkyuChimata/MCEEW/) | [下载](https://github.com/TenkyuChimata/MCEEW/releases) |
 | [mclo.gs](https://www.spigotmc.org/resources/mclo-gs.47502/) | [GitHub](https://github.com/aternosorg/mclogs-bukkit) | [下载](https://www.spigotmc.org/resources/mclo-gs.47502/) |
 | [MineStore](https://minestorecms.com) | [GitHub](https://github.com/ChromMob/MineStoreRecode) | [下载](https://js.chrommob.fun/job/MineStore/) |
