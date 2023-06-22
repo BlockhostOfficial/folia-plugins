@@ -52,6 +52,8 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [Download](https://github.com/JNNGL/framedImage/releases) |
 | [FreedomChat](https://modrinth.com/plugin/freedomchat) | [GitHub](https://github.com/e-im/FreedomChat) | [Download](https://modrinth.com/plugin/freedomchat/versions#all-versions) |
 | [Freeze](https://www.spigotmc.org/resources/freeze.31822/) | [GitHub](https://github.com/SirBlobman/Freeze) | [Download](https://www.spigotmc.org/resources/freeze.31822/) |
+| [Fancy Npcs](https://modrinth.com/plugin/fancynpcs) | [GitHub](https://github.com/FancyMcPlugins/FancyNpcs) | [Download](https://modrinth.com/plugin/fancynpcs/versions#all-versions) |
+| [ForgeMend](https://modrinth.com/plugin/forgemend) | [GitHub](https://github.com/Hynse/ForgeMend) | [Download](https://modrinth.com/plugin/forgemend/versions#all-versions) |
 | [Geyser](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/) | [GitHub](https://github.com/GeyserMC/Geyser) | [Download](https://geysermc.org/download) |
 | [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) |
 | [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) |
@@ -78,6 +80,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [PrefiX](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | [GitHub](https://gitlab.com/martijnpu/prefix) | [Download](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) |
 | [PrismRefracted (Fork)](https://beta.mcbbs.net/resource/servermod/qcnedi83) | [GitHub](https://github.com/Rothes/PrismRefracted) | [Download](https://github.com/Rothes/PrismRefracted/releases) |
 | [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) |
+| [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://ci.codemc.io/job/AlexProgrammerDE/job/PistonChat/) |
 | [Residence (Fork)](https://github.com/Folium-MC/Residence-Maven/tree/feat/folia) | [GitHub](https://github.com/Folium-MC/Residence-Maven/tree/feat/folia) | Compile it from GitHub |
 | [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | [GitHub](https://github.com/handy-git/RiceMotd) | [Download](https://github.com/handy-git/RiceMotd/releases)                             |
 | [Scoreboard (Fork)](https://github.com/okocraft/Scoreboard-Folia) | [GitHub](https://github.com/okocraft/Scoreboard-Folia) | [Download](https://github.com/okocraft/Scoreboard-Folia/releases) |
