@@ -42,6 +42,7 @@
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [下载](https://github.com/cavallium/CoordinatesObfuscator/releases) |
 | [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | 从 GitHub 编译下载  |
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [下载](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
+| [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | 非开源插件 | [从HelpChat Discord下载](https://helpch.at/discord) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [下载](https://www.spigotmc.org/resources/disco-armor.60700/) |
 | [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) | [GitHub](https://github.com/DiscordSRV/DiscordSRV/) | [下载](https://snapshot.discordsrv.com/) |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | 从 GitHub 编译下载 |
