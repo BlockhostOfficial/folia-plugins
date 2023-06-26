@@ -42,6 +42,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile it from GitHub  |
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [Download](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [Download](https://www.spigotmc.org/resources/disco-armor.60700/) |
+| [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) | [GitHub](https://github.com/DiscordSRV/DiscordSRV/) | [Download](https://snapshot.discordsrv.com/) |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | Compile it from GitHub |
 | [EditableSigns](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) | [GitHub](https://gist.github.com/LOOHP/550f861ab4ad219cf74dc18c214ba530) | [Download](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) |
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [Download](https://www.spigotmc.org/resources/fallavert.40289/) |
