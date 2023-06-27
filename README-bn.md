@@ -119,7 +119,7 @@
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/issues/2281)
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
-- [Spark](https://github.com/lucko/spark/tree/feat/folia), In the future, it will be built into Folia
+- [Spark](https://github.com/lucko/spark/tree/feat/folia), ভবিষ্যতে, এটি [ফোলিয়াতে](https://github.com/PaperMC/Folia) নির্মিত হবে।
 - [TAB](https://github.com/NEZNAMY/TAB/tree/v4), আপনি আধা কার্যকরী প্লাগইনের জন্য এই [ডাউনলোডটিও](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) ব্যবহার করতে।
 
 ## লাইব্রেরিস এবং ফ্রেমওয়ারকস
