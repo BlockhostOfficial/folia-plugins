@@ -1,12 +1,12 @@
 # Folia Plugins
-[Folia](https://github.com/PaperMC/Folia) is a brand new server software made by the team behind [PaperMC](https://papermc.io), a SpigotMC fork. Folia is a new multithreaded version of PaperMC. With Folia you can handle way more players than you normally could. It requires powerful hardware and the plugins must be updated to support Folia.
+[Folia](https://github.com/PaperMC/Folia) is a brand new server software made by the team behind [PaperMC](https://papermc.io), a SpigotMC fork. Folia is a new multithreaded version of PaperMC. With Folia, you can handle way more players than you normally could. It requires powerful hardware and the plugins must be updated to support Folia.
 
 ## Our Discord Server:
 
-[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
+[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner3)](https://discord.gg/GcemTB848R)
 
 ## Plugins
-List of popular plugins that are working on supporting Folia or they already support it.
+List of popular plugins that are working on supporting Folia or already support it.
 
 ### List of plugins that support Folia
 These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using GitHub Issues or their Discord Servers.
@@ -96,7 +96,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile it from GitHub |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
 
-#### If you want to obtain more Folia plugins, please use [modrinth](https://modrinth.com/plugins?g=categories:%27folia%27)
+#### If you want to obtain more Folia plugins, please use [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
 
 ### List of plugins that are working on support for Folia
 These plugins don't fully support Folia yet but it's in the plans or the development has already started.
@@ -127,8 +127,8 @@ Libraries and frameworks for plugin developers.
 | [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
 
 ## How can I add Folia support to my plugin?
-Check out the [README file](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the [PaperMC Documentations](https://docs.papermc.io/folia) for more information.
+Check out the [README File](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the [PaperMC Documentations](https://docs.papermc.io/folia) for more information.
 
 ## Our Discord Server:
 
-[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
+[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner3)](https://discord.gg/GcemTB848R)

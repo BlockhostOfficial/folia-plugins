@@ -3,7 +3,7 @@
 
 ## 我们的 Discord 服务器：
 
-[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
+[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner3)](https://discord.gg/GcemTB848R)
 
 ## 插件
 正在支持 Folia 或已经支持它的插件列表。
@@ -43,7 +43,6 @@
 | [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | 从 GitHub 编译下载  |
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [下载](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [下载](https://www.spigotmc.org/resources/disco-armor.60700/) |
-| [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) | [GitHub](https://github.com/DiscordSRV/DiscordSRV/) | [下载](https://snapshot.discordsrv.com/) |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | 从 GitHub 编译下载 |
 | [EditableSigns](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) | [GitHub](https://gist.github.com/LOOHP/550f861ab4ad219cf74dc18c214ba530) | [下载](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) |
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [下载](https://www.spigotmc.org/resources/fallavert.40289/) |
@@ -98,7 +97,7 @@
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | 从 GitHub 编译下载 |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [下载](https://ci.viaversion.com/job/ViaVersion-DEV/) |
 
-#### 如果想获取更多Folia插件请使用[modrinth](https://modrinth.com/plugins?g=categories:%27folia%27)
+#### 如果想获取更多Folia插件请使用[Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27)
 
 ### 正在为 Folia 提供支持的插件列表
 这些插件还没有完全支持 Folia，但计划已经在进行中，或者开发已经开始了。
@@ -132,4 +131,4 @@
 
 ## 我们的 Discord 服务器：
 
-[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
+[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner3)](https://discord.gg/GcemTB848R)
