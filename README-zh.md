@@ -21,7 +21,6 @@
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [下载](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) |
 | [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [下载](https://modrinth.com/plugin/antipopup) |
 | [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [下载](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions)
-| [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [下载](https://discord.com/invite/HGAdJEumxC) |
 | [AuthMeReloaded (Fork)](https://github.com/HaHaWTH/AuthMeReReloaded/) | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded/) | [下载](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [下载](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
 | [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [下载](https://github.com/SirBlobman/Basic-Economy/releases) |
@@ -49,6 +48,7 @@
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [下载](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
 | [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | [非开源插件](https://encyclopedia.kaspersky.com/glossary/closed-source/) | [下载](https://discord.gg/helpchat) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [下载](https://www.spigotmc.org/resources/disco-armor.60700/) |
+| [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [গিটহাব](https://github.com/DiscordSRV/Ascension) | [ডাউনলোড](https://discord.com/invite/HGAdJEumxC) |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | 从 [GitHub](https://github.com/mani1232/EcoItems) 编译下载 |
 | [EditableSigns](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) | [GitHub](https://gist.github.com/LOOHP/550f861ab4ad219cf74dc18c214ba530) | [下载](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) |
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [下载](https://www.spigotmc.org/resources/fallavert.40289/) |

@@ -20,7 +20,6 @@
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [গিটহাব](https://github.com/jpenilla/AnnouncerPlus) | [ডাউনলোড](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) |
 | [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [গিটহাব](https://github.com/KaspianDev/AntiPopup) | [ডাউনলোড](https://modrinth.com/plugin/antipopup) |
 | [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [গিটহাব](https://github.com/Wolfieheart/ArmorStandEditor) | [ডাউনলোড](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions)
-| [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [গিটহাব](https://github.com/DiscordSRV/Ascension) | [ডাউনলোড](https://discord.com/invite/HGAdJEumxC) |
 | [AuthMeReloaded (Fork)](https://github.com/HaHaWTH/AuthMeReReloaded/) | [গিটহাব](https://github.com/HaHaWTH/AuthMeReReloaded/) | [ডাউনলোড](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [গিটহাব](https://github.com/4drian3d/AuthMeVelocity) | [ডাউনলোড](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
 | [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [গিটহাব](https://github.com/SirBlobman/Basic-Economy) | [ডাউনলোড](https://github.com/SirBlobman/Basic-Economy/releases) |
@@ -48,6 +47,7 @@
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [গিটহাব](https://github.com/YufiriaMazenta/Craftorithm) | [ডাউনলোড](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
 | [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | [ক্লোসড সোর্স](https://encyclopedia.kaspersky.com/glossary/closed-source/) | [ডাউনলোড](https://discord.gg/helpchat) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [গিটহাব](https://github.com/SirBlobman/DiscoArmor) | [ডাউনলোড](https://www.spigotmc.org/resources/disco-armor.60700/) |
+| [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [গিটহাব](https://github.com/DiscordSRV/Ascension) | [ডাউনলোড](https://discord.com/invite/HGAdJEumxC) |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [গিটহাব](https://github.com/mani1232/EcoItems) | [গিটহাব](https://github.com/mani1232/EcoItems) থেকে কম্পাইল করুন |
 | [EditableSigns](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) | [গিটহাব](https://gist.github.com/LOOHP/550f861ab4ad219cf74dc18c214ba530) | [ডাউনলোড](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) |
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [গিটহাব](https://github.com/SirBlobman/FallAvert) | [ডাউনলোড](https://www.spigotmc.org/resources/fallavert.40289/) |
