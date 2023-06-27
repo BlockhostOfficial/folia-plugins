@@ -12,7 +12,7 @@ List of popular plugins that are working on supporting Folia or already support 
 These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using GitHub Issues or their Discord Servers.
 | Name | GitHub | Download |
 | ------------- | ------------- | ------------- |
-| [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | Compile it from GitHub |
+| [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) |
 | [AdvancedTeleport](https://www.spigotmc.org/resources/advancedteleport.64139/) | [GitHub](https://github.com/Niestrat99/AT-Rewritten/) | [Download](https://modrinth.com/plugin/advancedteleport) |
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) |
 | [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [Download](https://modrinth.com/plugin/antipopup) |
@@ -31,20 +31,20 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [Download](https://ci.loohpjames.com/job/Bookshelf/) |
 | [BucketsX](https://www.spigotmc.org/resources/bucketsx.84361/) | [Closed Source](https://encyclopedia.kaspersky.com/glossary/closed-source/) | [Paid](https://www.spigotmc.org/resources/bucketsx.84361/) |
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [Download](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
-| [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | Compile it from GitHub |
+| [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | Compile from [GitHub](https://github.com/ChestShop-authors/ChestShop-3) |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
 | [CleanPing](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) | [GitHub](https://github.com/frafol/CleanPing/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) |
 | [CleanScreenShare](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/) | [GitHub](https://github.com/frafol/CleanScreenShare/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/updates) |
-| [CMILib (Fork)](https://github.com/Folium-MC/CMILib) | [GitHub](https://github.com/Folium-MC/CMILib) | Compile it from GitHub |
+| [CMILib (Fork)](https://github.com/Folium-MC/CMILib) | [GitHub](https://github.com/Folium-MC/CMILib) | [Download](https://github.com/Folium-MC/CMILib/releases) |
 | [CombatLogX](https://www.spigotmc.org/resources/combatlogx.31689/) | [GitHub](https://github.com/SirBlobman/CombatLogX) | [Download](https://www.spigotmc.org/resources/combatlogx.31689/) |
 | [CommandSpy](https://www.spigotmc.org/resources/commandspy.67508/) | [Closed Source](https://encyclopedia.kaspersky.com/glossary/closed-source/) | [Download](https://www.spigotmc.org/resources/commandspy.67508/) |
 | [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Download](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
 | [CooldownsX](https://www.spigotmc.org/resources/cooldownsx.41981/) | [GitHub](https://github.com/SirBlobman/CooldownsX) | [Download](https://www.spigotmc.org/resources/cooldownsx.41981/) |
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) |
-| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile it from GitHub  |
+| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile from [GitHub](https://github.com/PlayPro/CoreProtect/)  |
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [Download](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [Download](https://www.spigotmc.org/resources/disco-armor.60700/) |
-| [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | Compile it from GitHub |
+| [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | Compile from [GitHub](https://github.com/mani1232/EcoItems) |
 | [EditableSigns](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) | [GitHub](https://gist.github.com/LOOHP/550f861ab4ad219cf74dc18c214ba530) | [Download](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) |
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [Download](https://www.spigotmc.org/resources/fallavert.40289/) |
 | [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [Download](https://github.com/FancyMcPlugins/FancyHolograms/releases) |
@@ -83,7 +83,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [PrismRefracted (Fork)](https://beta.mcbbs.net/resource/servermod/qcnedi83) | [GitHub](https://github.com/Rothes/PrismRefracted) | [Download](https://github.com/Rothes/PrismRefracted/releases) |
 | [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) |
 | [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://ci.codemc.io/job/AlexProgrammerDE/job/PistonChat/) |
-| [Residence (Fork)](https://github.com/Folium-MC/Residence-Maven/tree/feat/folia) | [GitHub](https://github.com/Folium-MC/Residence-Maven/tree/feat/folia) | Compile it from GitHub |
+| [Residence (Fork)](https://github.com/Folium-MC/Residence-Maven/tree/feat/folia) | [GitHub](https://github.com/Folium-MC/Residence-Maven/tree/feat/folia) | [Download](https://github.com/Folium-MC/Residence-Maven/releases) |
 | [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | [GitHub](https://github.com/handy-git/RiceMotd) | [Download](https://github.com/handy-git/RiceMotd/releases)                             |
 | [Scoreboard (Fork)](https://github.com/okocraft/Scoreboard-Folia) | [GitHub](https://github.com/okocraft/Scoreboard-Folia) | [Download](https://github.com/okocraft/Scoreboard-Folia/releases) |
 | [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [Download](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit) |
@@ -96,7 +96,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [Vault (Fork)](https://github.com/Geolykt/Vault) | [GitHub](https://github.com/Geolykt/Vault) | [Download](https://github.com/Geolykt/Vault/releases/tag/v1.7.3-folia) |
 | [Vault-Folia (Fork)](https://github.com/SirBlobman/Vault-Folia) | [GitHub](https://github.com/SirBlobman/Vault-Folia) | [Download](https://github.com/SirBlobman/Vault-Folia/releases) |
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
-| [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile it from GitHub |
+| [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile from [GitHub](https://github.com/ViaVersion/ViaRewind) |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
 
 #### If you want to obtain more Folia plugins, please use [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
