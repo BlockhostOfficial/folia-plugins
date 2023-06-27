@@ -10,7 +10,7 @@
 
 ### ফোলিয়া সাপোর্ট করে এমন প্লাগইনগুলির তালিকা
 এই প্লাগইনগুলি ফোলিয়ার সাথে কাজ করা উচিত তবে দয়া করে মনে রাখবেন যে ফোলিয়া নতুন বেরিয়েছে এবং সমস্যা হতে পারে। প্লাগইন এর ব্যাপারে আপনি গিটহাব বা ডিসকর্ড সার্ভার ব্যবহার করে প্লাগইন ডেভেলপারদের কাছে সমস্যাগুলি রিপোর্ট করতে পারেন।
-| নাম  | গিটহাব | ডাউনলোড |
+| নাম | গিটহাব | ডাউনলোড |
 | ------------- | ------------- | ------------- |
 | [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [গিটহাব](https://github.com/Andre601/AdvancedServerList) | গিটহাব থেকে এটি কম্পাইল করুন |
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [গিটহাব](https://github.com/jpenilla/AnnouncerPlus) | [ডাউনলোড](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) |
