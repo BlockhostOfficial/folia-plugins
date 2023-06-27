@@ -129,12 +129,12 @@
 
 ### 支持 Folia 的库和框架列表
 
-| [PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
+- [PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
 
 ### 正在为 Folia 提供支持的库和框架列表
 
-| [FurnitureLib](https://github.com/Ste3et/FurnitureLib/tree/folia)
-| [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
+- [FurnitureLib](https://github.com/Ste3et/FurnitureLib/tree/folia)
+- [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
 
 ## 如何为我的插件添加 Folia 支持？
 

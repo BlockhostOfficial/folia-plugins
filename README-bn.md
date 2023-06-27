@@ -1,6 +1,6 @@
 # ফোলিয়া প্লাগইনস
 
-[ফোলিয়া](https://github.com/PaperMC/Folia) [পেপারএমসির](https://papermc.io) পিছনে দল দ্বারা তৈরি একটি নতুন সার্ভার সফ্টওয়্যার। এটি একটি স্পিগটএমসি ফর্ক। ফোলিয়া পেপারএমসির একটি নতুন মাল্টিথ্রেডেড সংস্করণ। ফোলিয়ার সাহায্যে আপনি স্বাভাবিকের চেয়ে অনেক বেশি খেলোয়াড় পরিচালনা করতে পারেন। এর জন্য শক্তিশালী হার্ডওয়্যার প্রয়োজন এবং ফোলিয়া সাপোর্ট করার জন্য প্লাগইনগুলি অবশ্যই আপডেট করতে হবে।
+[ফোলিয়া](https://github.com/PaperMC/Folia) [পেপারএমসির](https://papermc.io) পিছনে দল দ্বারা তৈরি একটি নতুন সার্ভার সফ্টওয়্যার। ফোলিয়া পেপারএমসির একটি নতুন মাল্টিথ্রেডেড সংস্করণ। ফোলিয়ার সাহায্যে আপনি স্বাভাবিকের চেয়ে অনেক বেশি খেলোয়াড় পরিচালনা করতে পারেন। এর জন্য শক্তিশালী হার্ডওয়্যার প্রয়োজন এবং ফোলিয়া সাপোর্ট করার জন্য প্লাগইনগুলি অবশ্যই আপডেট করতে হবে।
 
 ## আমাদের ডিসকর্ড সার্ভার:
 
@@ -44,7 +44,7 @@
 | [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [গিটহাব](https://github.com/YouHaveTrouble/CommandWhitelist) | [ডাউনলোড](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
 | [CooldownsX](https://www.spigotmc.org/resources/cooldownsx.41981/) | [গিটহাব](https://github.com/SirBlobman/CooldownsX) | [ডাউনলোড](https://www.spigotmc.org/resources/cooldownsx.41981/) |
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [গিটহাব](https://github.com/Cavallium/CoordinatesObfuscator) | [ডাউনলোড](https://github.com/cavallium/CoordinatesObfuscator/releases) |
-| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [গিটহাব](https://github.com/PlayPro/CoreProtect/) | [গিটহাব](https://github.com/PlayPro/CoreProtect/)  থেকে কম্পাইল করুন |
+| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [গিটহাব](https://github.com/PlayPro/CoreProtect/) | [গিটহাব](https://github.com/PlayPro/CoreProtect/) থেকে কম্পাইল করুন |
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [গিটহাব](https://github.com/YufiriaMazenta/Craftorithm) | [ডাউনলোড](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [গিটহাব](https://github.com/SirBlobman/DiscoArmor) | [ডাউনলোড](https://www.spigotmc.org/resources/disco-armor.60700/) |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [গিটহাব](https://github.com/mani1232/EcoItems) | [গিটহাব](https://github.com/mani1232/EcoItems) থেকে কম্পাইল করুন |
@@ -128,12 +128,12 @@
 
 ### ফোলিয়া সমর্থন করে এমন লাইব্রেরি এবং ফ্রেমওয়ার্কগুলির তালিকা
 
-| [PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
+- [PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
 
 ### ফোলিয়ার সমর্থনে কাজ করছে এমন লাইব্রেরি এবং ফ্রেমওয়ার্কগুলির তালিকা
 
-| [FurnitureLib](https://github.com/Ste3et/FurnitureLib/tree/folia)
-| [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
+- [FurnitureLib](https://github.com/Ste3et/FurnitureLib/tree/folia)
+- [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
 
 ## আমি কিভাবে আমার প্লাগিনে ফোলিয়া সমর্থন যোগ করতে পারি?
 
