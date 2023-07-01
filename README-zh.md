@@ -48,7 +48,7 @@
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [下载](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
 | [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | [非开源插件](https://encyclopedia.kaspersky.com/glossary/closed-source/) | [下载](https://discord.gg/helpchat) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [下载](https://www.spigotmc.org/resources/disco-armor.60700/) |
-| [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [গিটহাব](https://github.com/DiscordSRV/Ascension) | [ডাউনলোড](https://discord.com/invite/HGAdJEumxC) |
+| [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [下载](https://discord.com/invite/HGAdJEumxC) |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | 从 [GitHub](https://github.com/mani1232/EcoItems) 编译下载 |
 | [EditableSigns](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) | [GitHub](https://gist.github.com/LOOHP/550f861ab4ad219cf74dc18c214ba530) | [下载](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) |
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [下载](https://www.spigotmc.org/resources/fallavert.40289/) |
