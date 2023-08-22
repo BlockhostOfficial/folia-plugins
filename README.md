@@ -73,6 +73,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [motd.gg](https://www.spigotmc.org/resources/motd-gg.106501/) | [GitHub](https://github.com/aternosorg/motdgg-bukkit/) | [Download](https://www.spigotmc.org/resources/motd-gg.106501/) |
 | [MountsX](https://www.spigotmc.org/resources/mountsx.81299/) | Non open source | [Paid purchase](https://www.spigotmc.org/resources/mountsx.81299/) |
 | [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) |
+| [NoDropX](https://www.spigotmc.org/resources/nodropx.111485/) | [GitHub](https://github.com/iRedTea/NoDropX/) | [Download](https://www.spigotmc.org/resources/nodropx.111485/) |
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) |
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) |
 | [PosCommands](https://www.spigotmc.org/resources/topper.101325/) | [GitHub](https://github.com/Loving11ish/PosCommands) | [Download](https://www.spigotmc.org/resources/poscommands-1-19-4-support.85571/) |
