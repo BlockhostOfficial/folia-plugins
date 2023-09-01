@@ -70,6 +70,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [HynseBackup](https://github.com/MidnightTale/HynseBackup) | [GitHub](https://github.com/MidnightTale/HynseBackup) | [Download](https://modrinth.com/plugin/hynsebackup) |
 | [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | Closed Source | [Paid](https://www.spigotmc.org/resources/interactiveboard.77114/) |
 | [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) |
+| [JobsReborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) | [GitHub](https://github.com/Zrips/Jobs) | [Download](https://www.spigotmc.org/resources/jobs-reborn.4216/) |
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) |
 | [LiberyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) |
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) |
@@ -93,7 +94,8 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [PrismRefracted (Fork)](https://beta.mcbbs.net/resource/servermod/qcnedi83) | [GitHub](https://github.com/Rothes/PrismRefracted) | [Download](https://github.com/Rothes/PrismRefracted/releases) |
 | [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) |
 | [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://ci.codemc.io/job/AlexProgrammerDE/job/PistonChat/) |
-| [Residence (Fork)](https://github.com/Folium-MC/Residence-Maven/tree/feat/folia) | [GitHub](https://github.com/Folium-MC/Residence-Maven/tree/feat/folia) | [Download](https://github.com/Folium-MC/Residence-Maven/releases) |
+| [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) | [GitHub](https://github.com/dmulloy2/ProtocolLib) | [Download](https://github.com/dmulloy2/ProtocolLib/releases) |
+| [Residence](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) | [GitHub](https://github.com/Zrips/Residence) | [Paid](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) |
 | [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | [GitHub](https://github.com/handy-git/RiceMotd) | [Download](https://github.com/handy-git/RiceMotd/releases) |
 | [Scoreboard (Fork)](https://github.com/okocraft/Scoreboard-Folia) | [GitHub](https://github.com/okocraft/Scoreboard-Folia) | [Download](https://github.com/okocraft/Scoreboard-Folia/releases) |
 | [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [Download](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit) |
@@ -107,6 +109,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [UltimateServerProtector](https://www.spigotmc.org/resources/ultimateserverprotector-admins-operators-security-plugin-lightweight-and-async.105237/) | [GitHub](https://github.com/Overwrite987/UltimateServerProtector) | [Download](https://github.com/Overwrite987/UltimateServerProtector/releases) |
 | [Vault (Fork)](https://github.com/Geolykt/Vault) | [GitHub](https://github.com/Geolykt/Vault) | [Download](https://github.com/Geolykt/Vault/releases/tag/v1.7.3-folia) |
 | [Vault-Folia (Fork)](https://github.com/SirBlobman/Vault-Folia) | [GitHub](https://github.com/SirBlobman/Vault-Folia) | [Download](https://github.com/SirBlobman/Vault-Folia/releases) |
+| [VelocityVanish](https://modrinth.com/plugin/velocityvanish) | [GitHub](https://github.com/Syrent/VelocityVanish) | [Download](https://github.com/Syrent/VelocityVanish/releases) |
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile from [GitHub](https://github.com/ViaVersion/ViaRewind) |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
@@ -128,7 +131,6 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [PacketEvents API](https://github.com/retrooper/packetevents/pull/583)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
-- [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/issues/2281)
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia), In the future, it will be built into Folia
 - [TAB](https://github.com/NEZNAMY/TAB/tree/v4), you can also use this [download](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) for semi functional plugin
