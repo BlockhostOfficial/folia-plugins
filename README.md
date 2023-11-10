@@ -115,6 +115,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile from [GitHub](https://github.com/ViaVersion/ViaRewind) |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
+| [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) | [GitHub](https://github.com/SkinsRestorer/SkinsRestorerX) | [Download](https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorerX-DEV/) |
 
 #### If you want to obtain more Folia plugins, please use [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
 
@@ -133,7 +134,6 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [PacketEvents API](https://github.com/retrooper/packetevents/pull/583)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
-- [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia), In the future, it will be built into Folia
 - [TAB](https://github.com/NEZNAMY/TAB/tree/v4), you can also use this [download](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) for semi functional plugin
 
