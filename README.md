@@ -104,6 +104,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [SpeedLimit](https://www.spigotmc.org/resources/speedlimit-1-20-1-support.75269/) | [GitHub](https://github.com/Loving11ish/SpeedLimit) | [Download](https://github.com/Loving11ish/SpeedLimit/releases) |
 | [SternalBoard (Fork)](https://github.com/jdkeke142/SternalBoard-Folia) | [GitHub](https://github.com/jdkeke142/SternalBoard-Folia) | [Download](https://github.com/jdkeke142/SternalBoard-Folia/releases/tag/2.2.0-Folia) |
 | [SurvivalPlots](https://www.spigotmc.org/resources/survival-plots.108627/) | [GitHub](https://github.com/destial/SurvivalPlots) | [Download](https://www.spigotmc.org/resources/survival-plots.108627/) |
+| [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) | [GitHub](https://github.com/SkinsRestorer/SkinsRestorerX) | [Download](https://github.com/SkinsRestorer/SkinsRestorerX/releases) |
 | [TabList](https://www.spigotmc.org/resources/animated-tab-tablist.46229/) | [GitHub](https://github.com/montlikadani/TabList) | [Download](https://github.com/montlikadani/TabList/releases) |
 | [To-Do List](https://www.spigotmc.org/resources/to-do-list.61183/) | [GitHub](https://www.spigotmc.org/resources/to-do-list.61183/) | [Download](https://www.spigotmc.org/resources/to-do-list.61183/) |
 | [Topper](https://www.spigotmc.org/resources/topper.101325/) | [GitHub](https://github.com/HSGamer/Topper) | [Download](https://www.spigotmc.org/resources/topper.101325/) |
@@ -115,7 +116,6 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile from [GitHub](https://github.com/ViaVersion/ViaRewind) |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
-| [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) | [GitHub](https://github.com/SkinsRestorer/SkinsRestorerX) | [Download](https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorerX-DEV/) |
 
 #### If you want to obtain more Folia plugins, please use [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
 
