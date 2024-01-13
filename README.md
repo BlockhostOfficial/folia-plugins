@@ -42,13 +42,13 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [CleanScreenShare](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/) | [GitHub](https://github.com/frafol/CleanScreenShare/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548) |
 | [CMILib (Fork)](https://github.com/Folium-MC/CMILib) | [GitHub](https://github.com/Folium-MC/CMILib) | [Download](https://github.com/Folium-MC/CMILib/releases) |
 | [CombatLogX](https://www.spigotmc.org/resources/combatlogx.31689/) | [GitHub](https://github.com/SirBlobman/CombatLogX) | [Download](https://www.spigotmc.org/resources/combatlogx.31689/) |
-| [CommandSpy](https://www.spigotmc.org/resources/commandspy.67508/) | Closed Source |
+| [CommandSpy](https://www.spigotmc.org/resources/commandspy.67508/) | Closed Source | [Download](https://www.spigotmc.org/resources/commandspy.67508/) |
 | [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Download](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
 | [CooldownsX](https://www.spigotmc.org/resources/cooldownsx.41981/) | [GitHub](https://github.com/SirBlobman/CooldownsX) | [Download](https://www.spigotmc.org/resources/cooldownsx.41981/) |
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) |
 | [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile from [GitHub](https://github.com/PlayPro/CoreProtect/) |
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [Download](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
-| [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | Closed Source | [Download](https://discord.gg/helpchat) |
+| [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | [GitHub](https://github.com/HelpChat/DeluxeMenus) | [Discord](https://discord.gg/helpchat) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [Download](https://www.spigotmc.org/resources/disco-armor.60700/) |
 | [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [Download](https://discord.com/invite/HGAdJEumxC) |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | Compile from [GitHub](https://github.com/mani1232/EcoItems) |
@@ -118,8 +118,9 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [VelocityVanish](https://modrinth.com/plugin/velocityvanish) | [GitHub](https://github.com/Syrent/VelocityVanish) | [Download](https://github.com/Syrent/VelocityVanish/releases) |
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile from [GitHub](https://github.com/ViaVersion/ViaRewind) |
-| [VoidWorldGenerator](https://github.com/HydrolienF/VoidWorldGenerator) | [GitHub](https://github.com/HydrolienF/VoidWorldGenerator) | [Download](https://hangar.papermc.io/Hydrolien/VoidWorldGenerator) |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
+| [VoidWorldGenerator](https://github.com/HydrolienF/VoidWorldGenerator) | [GitHub](https://github.com/HydrolienF/VoidWorldGenerator) | [Download](https://hangar.papermc.io/Hydrolien/VoidWorldGenerator) |
+| [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/) | [GitHub](https://github.com/BenCodez/VotingPlugin) | [Download](https://www.spigotmc.org/resources/votingplugin.15358/) |
 | [WorldEdit-Folia (Fork)](https://github.com/Euphillya/WorldEdit-Folia) | [GitHub](https://github.com/Euphillya/WorldEdit-Folia) | [Download](https://github.com/Euphillya/WorldEdit-Folia/releases) |
 
 #### If you want to obtain more Folia plugins, please use [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
