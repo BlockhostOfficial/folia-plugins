@@ -56,6 +56,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [Download](https://www.spigotmc.org/resources/fallavert.40289/) |
 | [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [Download](https://github.com/FancyMcPlugins/FancyHolograms/releases) |
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) |
+| [FlagsH](https://github.com/HydrolienF/FlagsH) | [GitHub](https://github.com/HydrolienF/FlagsH) | [Download](https://hangar.papermc.io/Hydrolien/FlagsH) |
 | [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) |
 | [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [Download](https://github.com/JNNGL/framedImage/releases) |
 | [FreedomChat](https://modrinth.com/plugin/freedomchat) | [GitHub](https://github.com/e-im/FreedomChat) | [Download](https://modrinth.com/plugin/freedomchat/versions#all-versions) |
@@ -66,6 +67,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) |
 | [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) |
 | [HeadDrop](https://www.spigotmc.org/resources/✅-headdrop-free-1-16-1-20-fully-customizable.99976/) | [GitHub](https://github.com/RRS-9747/HeadDrop) | [Download](https://github.com/RRS-9747/HeadDrop/releases) |
+| [HorseTpWithMe (Fork)](https://github.com/Anon8281/HorseTpWithMe) | [GitHub](https://github.com/Anon8281/HorseTpWithMe) | [Download](https://github.com/Anon8281/HorseTpWithMe/releases) |
 | [HuskHomes2](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | [GitHub](https://github.com/WiIIiam278/HuskHomes2) | [Download](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) |
 | [Hynseeconomy](https://github.com/MidnightTale/hyeconomy) | [GitHub](https://github.com/MidnightTale/hyeconomy) | [Download](https://github.com/MidnightTale/hyeconomy) |
 | [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | Closed Source | [Paid](https://www.spigotmc.org/resources/interactiveboard.77114/) |
@@ -109,12 +111,14 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [To-Do List](https://www.spigotmc.org/resources/to-do-list.61183/) | [GitHub](https://www.spigotmc.org/resources/to-do-list.61183/) | [Download](https://www.spigotmc.org/resources/to-do-list.61183/) |
 | [Topper](https://www.spigotmc.org/resources/topper.101325/) | [GitHub](https://github.com/HSGamer/Topper) | [Download](https://www.spigotmc.org/resources/topper.101325/) |
 | [Towny](https://www.spigotmc.org/resources/towny-advanced.72694/) | [GitHub](https://github.com/TownyAdvanced/Towny) | [Download](https://github.com/TownyAdvanced/Towny/releases/) |
+| [TownyWaypoints](https://github.com/ewof/TownyWaypoints) | [GitHub](https://github.com/ewof/TownyWaypoints) | [Download](https://github.com/ewof/TownyWaypoints/releases) |
 | [UltimateServerProtector](https://www.spigotmc.org/resources/ultimateserverprotector-admins-operators-security-plugin-lightweight-and-async.105237/) | [GitHub](https://github.com/Overwrite987/UltimateServerProtector) | [Download](https://github.com/Overwrite987/UltimateServerProtector/releases) |
 | [Vault (Fork)](https://github.com/Geolykt/Vault) | [GitHub](https://github.com/Geolykt/Vault) | [Download](https://github.com/Geolykt/Vault/releases/tag/v1.7.3-folia) |
 | [Vault-Folia (Fork)](https://github.com/SirBlobman/Vault-Folia) | [GitHub](https://github.com/SirBlobman/Vault-Folia) | [Download](https://github.com/SirBlobman/Vault-Folia/releases) |
 | [VelocityVanish](https://modrinth.com/plugin/velocityvanish) | [GitHub](https://github.com/Syrent/VelocityVanish) | [Download](https://github.com/Syrent/VelocityVanish/releases) |
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile from [GitHub](https://github.com/ViaVersion/ViaRewind) |
+| [VoidWorldGenerator](https://github.com/HydrolienF/VoidWorldGenerator) | [GitHub](https://github.com/HydrolienF/VoidWorldGenerator) | [Download](https://hangar.papermc.io/Hydrolien/VoidWorldGenerator) |
 | [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
 | [WorldEdit-Folia (Fork)](https://github.com/Euphillya/WorldEdit-Folia) | [GitHub](https://github.com/Euphillya/WorldEdit-Folia) | [Download](https://github.com/Euphillya/WorldEdit-Folia/releases) |
 
