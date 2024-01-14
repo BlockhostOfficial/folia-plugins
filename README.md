@@ -56,6 +56,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [Download](https://www.spigotmc.org/resources/fallavert.40289/) |
 | [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [Download](https://github.com/FancyMcPlugins/FancyHolograms/releases) |
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) |
+| [ForcePack](https://www.spigotmc.org/resources/forcepack.45439/) | [GitHub](https://github.com/SamB440/ForcePack) | [Download](https://github.com/SamB440/ForcePack/releases) |
 | [FlagsH](https://github.com/HydrolienF/FlagsH) | [GitHub](https://github.com/HydrolienF/FlagsH) | [Download](https://hangar.papermc.io/Hydrolien/FlagsH) |
 | [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) |
 | [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [Download](https://github.com/JNNGL/framedImage/releases) |
@@ -78,6 +79,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) |
 | [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/)
+| [MyYSM] | [GitHub](https://github.com/Era4FunMC/MyYsmNonFull/)| [Download](https://github.com/Era4FunMC/MyYsmNonFull/releases)|
 | [MCEEW](https://www.spigotmc.org/resources/mceew-earthquake-early-warning.104549/) | [GitHub](https://github.com/TenkyuChimata/MCEEW/) | [Download](https://github.com/TenkyuChimata/MCEEW/releases) |
 | [MCKotlin](https://www.spigotmc.org/resources/mckotlin.107907/) | [GitHub](https://github.com/4drian3d/MCKotlin) | [Download](https://modrinth.com/plugin/mckotlin) |
 | [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) | [GitHub](https://github.com/mcMMO-Dev/mcMMO) | [Paid](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) |
@@ -100,6 +102,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) | [GitHub](https://github.com/dmulloy2/ProtocolLib) | [Download](https://github.com/dmulloy2/ProtocolLib/releases) |
 | [Residence](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) | [GitHub](https://github.com/Zrips/Residence) | [Paid](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) |
 | [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | [GitHub](https://github.com/handy-git/RiceMotd) | [Download](https://github.com/handy-git/RiceMotd/releases) |
+| [RayTranceAntiRay] | [GitHub](https://github.com/stonar96/RayTraceAntiXray/) | [Paid]([https://www.spigotmc.org/resources/skinoverlay.107967/](https://builtbybit.com/resources/raytraceantixray.24914/))|
 | [Scoreboard (Fork)](https://github.com/okocraft/Scoreboard-Folia) | [GitHub](https://github.com/okocraft/Scoreboard-Folia) | [Download](https://github.com/okocraft/Scoreboard-Folia/releases) |
 | [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [Download](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit) |
 | [SkinOverlay](https://www.spigotmc.org/resources/skinoverlay.107967/) | [GitHub](https://github.com/GeorgeV220/SkinOverlay) | [Paid](https://www.spigotmc.org/resources/skinoverlay.107967/) |
