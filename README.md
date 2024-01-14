@@ -24,6 +24,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [AuthMeReloaded (Fork 2)](https://github.com/cavallium/AuthMeFolia) | [GitHub](https://github.com/cavallium/AuthMeFolia) | [Download](https://github.com/cavallium/AuthMeFolia/releases) |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
 | [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [Download](https://github.com/SirBlobman/Basic-Economy/releases) |
+| [Boss™ - Unbelievable Custom Monsters] | (work_with_kaaiju)[Paid](https://builtbybit.com/resources/boss-unbelievable-custom-monsters.21619/)
 | [BetterBoard](https://www.spigotmc.org/resources/betterboard.96393/) | [GitHub](https://github.com/HSGamer/BetterBoard) | [Download](https://www.spigotmc.org/resources/betterboard.96393/) |
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) |
 | [BetterRTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | [GitHub](https://www.mcbbs.net/thread-1442905-1-1.html) | [Download](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) |
@@ -33,6 +34,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [BlueSlimeCore](https://www.spigotmc.org/resources/blueslimecore.83189/) | [GitHub](https://github.com/SirBlobman/BlueSlimeCore) | [Download](https://www.spigotmc.org/resources/blueslimecore.83189/) |
 | [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [Download](https://ci.loohpjames.com/job/Bookshelf/) |
 | [BucketsX](https://www.spigotmc.org/resources/bucketsx.84361/) | Closed Source | [Paid](https://www.spigotmc.org/resources/bucketsx.84361/) |
+| [ChunkHeat](https://modrinth.com/plugin/chunkheat/versions) | 
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [Download](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
 | [ChatControl Red](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) | Closed Source | [Paid](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) |
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | [Download](https://ci.minebench.de/job/ChestShop-3/) |
@@ -48,6 +50,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) |
 | [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile from [GitHub](https://github.com/PlayPro/CoreProtect/) |
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [Download](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
+| [DarkerNights] | Closed Source | [Paid](https://www.spigotmc.org/resources/darkernights.87814/)
 | [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | [GitHub](https://github.com/HelpChat/DeluxeMenus) | [Discord](https://discord.gg/helpchat) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [Download](https://www.spigotmc.org/resources/disco-armor.60700/) |
 | [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [Download](https://discord.com/invite/HGAdJEumxC) |
@@ -56,6 +59,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [Download](https://www.spigotmc.org/resources/fallavert.40289/) |
 | [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [Download](https://github.com/FancyMcPlugins/FancyHolograms/releases) |
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) |
+| [ForcePack](https://www.spigotmc.org/resources/forcepack.45439/) | [GitHub](https://github.com/SamB440/ForcePack) | [Download](https://github.com/SamB440/ForcePack/releases) |
 | [FlagsH](https://github.com/HydrolienF/FlagsH) | [GitHub](https://github.com/HydrolienF/FlagsH) | [Download](https://hangar.papermc.io/Hydrolien/FlagsH) |
 | [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) |
 | [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [Download](https://github.com/JNNGL/framedImage/releases) |
@@ -78,6 +82,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) |
 | [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/)
+| [MyYSM] | [GitHub](https://github.com/Era4FunMC/MyYsmNonFull/)| [Download](https://github.com/Era4FunMC/MyYsmNonFull/releases)|
 | [MCEEW](https://www.spigotmc.org/resources/mceew-earthquake-early-warning.104549/) | [GitHub](https://github.com/TenkyuChimata/MCEEW/) | [Download](https://github.com/TenkyuChimata/MCEEW/releases) |
 | [MCKotlin](https://www.spigotmc.org/resources/mckotlin.107907/) | [GitHub](https://github.com/4drian3d/MCKotlin) | [Download](https://modrinth.com/plugin/mckotlin) |
 | [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) | [GitHub](https://github.com/mcMMO-Dev/mcMMO) | [Paid](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) |
@@ -88,6 +93,8 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [motd.gg](https://www.spigotmc.org/resources/motd-gg.106501/) | [GitHub](https://github.com/aternosorg/motdgg-bukkit/) | [Download](https://www.spigotmc.org/resources/motd-gg.106501/) |
 | [MountsX](https://www.spigotmc.org/resources/mountsx.81299/) | Closed Source | [Paid](https://www.spigotmc.org/resources/mountsx.81299/) |
 | [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) |
+| [NetherCeiling] | [GitHub](https://github.com/xGinko/NetherCeiling)
+| [PixelPlayerWorld] | Closed Source | [paid](https://polymart.org/resource/pixelplayerworld-bungee-folia.4310)
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) |
 | [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://github.com/AlexProgrammerDE/PistonChat/actions) |
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) |
@@ -98,12 +105,15 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) |
 | [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://ci.codemc.io/job/AlexProgrammerDE/job/PistonChat/) |
 | [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) | [GitHub](https://github.com/dmulloy2/ProtocolLib) | [Download](https://github.com/dmulloy2/ProtocolLib/releases) |
+| [QuestAdder](https://www.spigotmc.org/resources/questadder-can-make-every-quest-you-can-imagine.112227/) | [GitHub](https://github.com/toxicity188/QuestAdder/)
 | [Residence](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) | [GitHub](https://github.com/Zrips/Residence) | [Paid](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) |
 | [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | [GitHub](https://github.com/handy-git/RiceMotd) | [Download](https://github.com/handy-git/RiceMotd/releases) |
+| [RayTranceAntiRay] | [GitHub](https://github.com/stonar96/RayTraceAntiXray/) | [Paid]([https://www.spigotmc.org/resources/skinoverlay.107967/](https://builtbybit.com/resources/raytraceantixray.24914/))|
 | [Scoreboard (Fork)](https://github.com/okocraft/Scoreboard-Folia) | [GitHub](https://github.com/okocraft/Scoreboard-Folia) | [Download](https://github.com/okocraft/Scoreboard-Folia/releases) |
 | [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [Download](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit) |
 | [SkinOverlay](https://www.spigotmc.org/resources/skinoverlay.107967/) | [GitHub](https://github.com/GeorgeV220/SkinOverlay) | [Paid](https://www.spigotmc.org/resources/skinoverlay.107967/) |
 | [SpeedLimit](https://www.spigotmc.org/resources/speedlimit-1-20-1-support.75269/) | [GitHub](https://github.com/Loving11ish/SpeedLimit) | [Download](https://github.com/Loving11ish/SpeedLimit/releases) |
+| [StackMob-5-Folia](https://www.spigotmc.org/resources/stackmob-enhance-your-servers-performance.29999/) | [Download](https://github.com/AltronMaxX/StackMob-5-Folia/releases)
 | [SternalBoard (Fork)](https://github.com/jdkeke142/SternalBoard-Folia) | [GitHub](https://github.com/jdkeke142/SternalBoard-Folia) | [Download](https://github.com/jdkeke142/SternalBoard-Folia/releases/tag/2.2.0-Folia) |
 | [SurvivalPlots](https://www.spigotmc.org/resources/survival-plots.108627/) | [GitHub](https://github.com/destial/SurvivalPlots) | [Download](https://www.spigotmc.org/resources/survival-plots.108627/) |
 | [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) | [GitHub](https://github.com/SkinsRestorer/SkinsRestorerX) | [Download](https://github.com/SkinsRestorer/SkinsRestorerX/releases) |
