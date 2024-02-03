@@ -98,6 +98,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) |
 | [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://ci.codemc.io/job/AlexProgrammerDE/job/PistonChat/) |
 | [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) | [GitHub](https://github.com/dmulloy2/ProtocolLib) | [Download](https://github.com/dmulloy2/ProtocolLib/releases) |
+| [RDQ](https://modrinth.com/plugin/rdq) | Closed Source | [Download](https://modrinth.com/plugin/rdq/versions) |
 | [Residence](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) | [GitHub](https://github.com/Zrips/Residence) | [Paid](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) |
 | [RiceMotd](https://www.mcbbs.net/thread-1442905-1-1.html) | [GitHub](https://github.com/handy-git/RiceMotd) | [Download](https://github.com/handy-git/RiceMotd/releases) |
 | [Scoreboard (Fork)](https://github.com/okocraft/Scoreboard-Folia) | [GitHub](https://github.com/okocraft/Scoreboard-Folia) | [Download](https://github.com/okocraft/Scoreboard-Folia/releases) |
