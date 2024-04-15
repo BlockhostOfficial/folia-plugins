@@ -41,6 +41,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [CleanStaffChat](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) | [GitHub](https://github.com/frafol/CleanStaffChat/) | [Download](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) |
 | [CleanScreenShare](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/) | [GitHub](https://github.com/frafol/CleanScreenShare/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548) |
 | [CMILib (Fork)](https://github.com/Folium-MC/CMILib) | [GitHub](https://github.com/Folium-MC/CMILib) | [Download](https://github.com/Folium-MC/CMILib/releases) |
+| [ColorfulMap](https://ssl.lunadeer.cn:14448/doc/26/) | [Source](https://ssl.lunadeer.cn:14446/zhangyuheng/ColorfulMap) | [Download](https://hangar.papermc.io/zhangyuheng/ColorfulMap) |
 | [CombatLogX](https://www.spigotmc.org/resources/combatlogx.31689/) | [GitHub](https://github.com/SirBlobman/CombatLogX) | [Download](https://www.spigotmc.org/resources/combatlogx.31689/) |
 | [CommandSpy](https://www.spigotmc.org/resources/commandspy.67508/) | Closed Source | [Download](https://www.spigotmc.org/resources/commandspy.67508/) |
 | [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Download](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
@@ -51,6 +52,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | [GitHub](https://github.com/HelpChat/DeluxeMenus) | [Discord](https://discord.gg/helpchat) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [Download](https://www.spigotmc.org/resources/disco-armor.60700/) |
 | [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [Download](https://discord.com/invite/HGAdJEumxC) |
+| [Dominion](https://ssl.lunadeer.cn:14448/doc/23/) | [Source](https://ssl.lunadeer.cn:14446/zhangyuheng/Dominion) | [Download](https://hangar.papermc.io/zhangyuheng/Dominion) |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | Compile from [GitHub](https://github.com/mani1232/EcoItems) |
 | [EditableSigns](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) | [GitHub](https://gist.github.com/LOOHP/550f861ab4ad219cf74dc18c214ba530) | [Download](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) |
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [Download](https://www.spigotmc.org/resources/fallavert.40289/) |
@@ -76,6 +78,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) |
 | [LiberyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) |
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) |
+| [LiteWorldEdit](https://ssl.lunadeer.cn:14448/doc/3/) | [Source](https://ssl.lunadeer.cn:14446/zhangyuheng/LiteWorldEdit) | [Download](https://hangar.papermc.io/zhangyuheng/LiteWorldEdit) |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) |
 | [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/)
 | [MCEEW](https://www.spigotmc.org/resources/mceew-earthquake-early-warning.104549/) | [GitHub](https://github.com/TenkyuChimata/MCEEW/) | [Download](https://github.com/TenkyuChimata/MCEEW/releases) |
@@ -85,6 +88,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [MineStore](https://minestorecms.com) | [GitHub](https://github.com/ChromMob/MineStoreRecode) | [Download](https://js.chrommob.fun/job/MineStore/) |
 | [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/) | [GitHub](https://github.com/jpenilla/MiniMOTD) | [Download](https://github.com/jpenilla/MiniMOTD/actions) |
 | [MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders) | [GitHub](https://github.com/MiniPlaceholders/MiniPlaceholders/) | [Download](https://modrinth.com/plugin/miniplaceholders/versions#all-versions) |
+| [MiniPlayerTitle](https://ssl.lunadeer.cn:14448/doc/2/) | [Source](https://ssl.lunadeer.cn:14446/zhangyuheng/MiniPlayerTitle) | [Download](https://hangar.papermc.io/zhangyuheng/MiniPlayerTitle) |
 | [motd.gg](https://www.spigotmc.org/resources/motd-gg.106501/) | [GitHub](https://github.com/aternosorg/motdgg-bukkit/) | [Download](https://www.spigotmc.org/resources/motd-gg.106501/) |
 | [MountsX](https://www.spigotmc.org/resources/mountsx.81299/) | Closed Source | [Paid](https://www.spigotmc.org/resources/mountsx.81299/) |
 | [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) |
