@@ -73,6 +73,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | Closed Source | [Paid](https://www.spigotmc.org/resources/interactiveboard.77114/) |
 | [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) |
 | [JobsReborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) | [GitHub](https://github.com/Zrips/Jobs) | [Download](https://www.spigotmc.org/resources/jobs-reborn.4216/) |
+| [Lands]([https://www.spigotmc.org/resources/jobs-reborn.4216/](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/)) | Closed Source | [Download](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) |
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) |
 | [LiberyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) |
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) |
