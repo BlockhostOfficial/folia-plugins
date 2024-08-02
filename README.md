@@ -126,6 +126,12 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [VoidWorldGenerator](https://github.com/HydrolienF/VoidWorldGenerator) | [GitHub](https://github.com/HydrolienF/VoidWorldGenerator) | [Download](https://hangar.papermc.io/Hydrolien/VoidWorldGenerator) |
 | [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/) | [GitHub](https://github.com/BenCodez/VotingPlugin) | [Download](https://www.spigotmc.org/resources/votingplugin.15358/) |
 | [WorldEdit-Folia (Fork)](https://github.com/Euphillya/WorldEdit-Folia) | [GitHub](https://github.com/Euphillya/WorldEdit-Folia) | [Download](https://github.com/Euphillya/WorldEdit-Folia/releases) |
+| [zAuctionHouse](https://www.spigotmc.org/resources/1-8-1-20-zauctionhouse-2000-servers-online.63010/) | Closed Source | [Download](https://www.spigotmc.org/resources/1-8-1-20-zauctionhouse-2000-servers-online.63010/) |
+| [zEssentials](https://github.com/Maxlego08/zEssentials) | [Github](https://github.com/Maxlego08/zEssentials) | [Download](https://www.spigotmc.org/resources/zessentials-best-essentials-cmi-sunlight-alternative.116293/) |
+| [zMenu](https://github.com/Maxlego08/zMenu) | [Github](https://github.com/Maxlego08/zMenu) | [Download](https://www.spigotmc.org/resources/zmenu-ultra-complete-menu-plugin.110402/) |
+| [zMenu+](https://www.spigotmc.org/resources/zmenu-premium-zmenu-addon.115533/) | Closed Source | [Download](https://www.spigotmc.org/resources/zmenu-premium-zmenu-addon.115533/) |
+| [zScheduler](https://github.com/Maxlego08/zSchedulers) | [Github](https://github.com/Maxlego08/zSchedulers) | [Download](https://www.spigotmc.org/resources/zschedulers.112705/) |
+| [zShop](https://github.com/Maxlego08/zShop) | [Github](https://github.com/Maxlego08/zShop) | [Download](https://www.spigotmc.org/resources/zshop-1-8-1-20-advanced-shop-plugin.74073/) |
 
 #### If you want to obtain more Folia plugins, please use [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
 
