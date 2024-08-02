@@ -91,6 +91,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) |
 | [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://github.com/AlexProgrammerDE/PistonChat/actions) |
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) |
+| [Pl3xmap](https://modrinth.com/plugin/pl3xmap) | [GitHub](https://github.com/granny/Pl3xMap) | [Download](https://modrinth.com/plugin/pl3xmap/versions) |
 | [PlugManX](https://www.spigotmc.org/resources/plugmanx.88135/) | [GitHub](https://github.com/TheBlackEntity/PlugManX) | [Download](https://github.com/TheBlackEntity/PlugManX/releases) |
 | [PosCommands](https://www.spigotmc.org/resources/topper.101325/) | [GitHub](https://github.com/Loving11ish/PosCommands) | [Download](https://www.spigotmc.org/resources/poscommands-1-19-4-support.85571/) |
 | [PrefiX](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | [GitHub](https://gitlab.com/martijnpu/prefix) | [Download](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) |
