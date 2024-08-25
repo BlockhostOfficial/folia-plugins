@@ -81,7 +81,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [Kryptonite](https://modrinth.com/plugin/kryptonite/) | [GitHub](https://github.com/lewmc/kryptonite) | [Download](https://modrinth.com/plugin/kryptonite/versions) |
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) |
 | [Lands](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) | Closed Source | [Paid](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) |
-| [LiberyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) |
+| [LibertyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) |
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) |
 | [LushRewards](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) | [GitHub](https://github.com/OakLoaf/LushRewards) | [Download](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) |
