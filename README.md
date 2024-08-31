@@ -169,6 +169,7 @@ Libraries and frameworks for plugin developers.
 ### List of libraries and frameworks that support Folia
 
 - [PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
+- [The New Menu Library](https://github.com/TheNewEconomy/TNML)
 
 ### List of libraries and frameworks that are working on support for Folia
 
