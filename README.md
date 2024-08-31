@@ -119,6 +119,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [SurvivalPlots](https://www.spigotmc.org/resources/survival-plots.108627/) | [GitHub](https://github.com/destial/SurvivalPlots) | [Download](https://www.spigotmc.org/resources/survival-plots.108627/) |
 | [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) | [GitHub](https://github.com/SkinsRestorer/SkinsRestorerX) | [Download](https://github.com/SkinsRestorer/SkinsRestorerX/releases) |
 | [TabList](https://www.spigotmc.org/resources/animated-tab-tablist.46229/) | [GitHub](https://github.com/montlikadani/TabList) | [Download](https://github.com/montlikadani/TabList/releases) |
+| [TheNewEconomy](https://modrinth.com/plugin/tne/versions) | [GitHub](https://github.com/TheNewEconomy/EconomyCore) | [Download](https://modrinth.com/plugin/tne/versions) |
 | [To-Do List](https://www.spigotmc.org/resources/to-do-list.61183/) | [GitHub](https://www.spigotmc.org/resources/to-do-list.61183/) | [Download](https://www.spigotmc.org/resources/to-do-list.61183/) |
 | [Topper](https://www.spigotmc.org/resources/topper.101325/) | [GitHub](https://github.com/HSGamer/Topper) | [Download](https://www.spigotmc.org/resources/topper.101325/) |
 | [Towny](https://www.spigotmc.org/resources/towny-advanced.72694/) | [GitHub](https://github.com/TownyAdvanced/Towny) | [Download](https://github.com/TownyAdvanced/Towny/releases/) |
@@ -126,6 +127,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [UltimateServerProtector](https://www.spigotmc.org/resources/ultimateserverprotector-admins-operators-security-plugin-lightweight-and-async.105237/) | [GitHub](https://github.com/Overwrite987/UltimateServerProtector) | [Download](https://github.com/Overwrite987/UltimateServerProtector/releases) |
 | [Vault (Fork)](https://github.com/Geolykt/Vault) | [GitHub](https://github.com/Geolykt/Vault) | [Download](https://github.com/Geolykt/Vault/releases/tag/v1.7.3-folia) |
 | [Vault-Folia (Fork)](https://github.com/SirBlobman/Vault-Folia) | [GitHub](https://github.com/SirBlobman/Vault-Folia) | [Download](https://github.com/SirBlobman/Vault-Folia/releases) |
+| [VaultUnlocked (Fork)](https://modrinth.com/plugin/vaultunlocked/versions) | [GitHub](https://github.com/TheNewEconomy/VaultUnlocked) | [Download](https://modrinth.com/plugin/vaultunlocked/versions) |
 | [VelocityVanish](https://modrinth.com/plugin/velocityvanish) | [GitHub](https://github.com/Syrent/VelocityVanish) | [Download](https://github.com/Syrent/VelocityVanish/releases) |
 | [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
 | [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile from [GitHub](https://github.com/ViaVersion/ViaRewind) |
