@@ -116,6 +116,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [SkinOverlay](https://www.spigotmc.org/resources/skinoverlay.107967/) | [GitHub](https://github.com/GeorgeV220/SkinOverlay) | [Paid](https://www.spigotmc.org/resources/skinoverlay.107967/) |
 | [SpeedLimit](https://www.spigotmc.org/resources/speedlimit-1-20-1-support.75269/) | [GitHub](https://github.com/Loving11ish/SpeedLimit) | [Download](https://github.com/Loving11ish/SpeedLimit/releases) |
 | [SternalBoard (Fork)](https://github.com/jdkeke142/SternalBoard-Folia) | [GitHub](https://github.com/jdkeke142/SternalBoard-Folia) | [Download](https://github.com/jdkeke142/SternalBoard-Folia/releases/tag/2.2.0-Folia) |
+| [SuperHarvest](https://www.spigotmc.org/resources/103034/) | [GitHub](https://github.com/BrilliantTeam/SuperHarvest) | [Download](https://www.spigotmc.org/resources/103034/) |
 | [SurvivalPlots](https://www.spigotmc.org/resources/survival-plots.108627/) | [GitHub](https://github.com/destial/SurvivalPlots) | [Download](https://www.spigotmc.org/resources/survival-plots.108627/) |
 | [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) | [GitHub](https://github.com/SkinsRestorer/SkinsRestorerX) | [Download](https://github.com/SkinsRestorer/SkinsRestorerX/releases) |
 | [TabList](https://www.spigotmc.org/resources/animated-tab-tablist.46229/) | [GitHub](https://github.com/montlikadani/TabList) | [Download](https://github.com/montlikadani/TabList/releases) |
