@@ -52,6 +52,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [Download](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
 | [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | [GitHub](https://github.com/HelpChat/DeluxeMenus) | [Discord](https://discord.gg/helpchat) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [Download](https://www.spigotmc.org/resources/disco-armor.60700/) |
+| [DiscordSRV](https://modrinth.com/plugin/discordsrv) | [GitHub](https://github.com/DiscordSRV/DiscordSRV) | [Download](https://modrinth.com/plugin/discordsrv/versions) |
 | [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [Download](https://discord.com/invite/HGAdJEumxC) |
 | [Dropedit 2](https://www.spigotmc.org/resources/%E2%9C%85-dropedit-2-advanced-drop-editor-%E2%9C%8D%EF%B8%8F-edit-drops-in-a-gui.60331/) | Closed Source | [Paid](https://www.spigotmc.org/resources/%E2%9C%85-dropedit-2-advanced-drop-editor-%E2%9C%8D%EF%B8%8F-edit-drops-in-a-gui.60331/) |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | Compile from [GitHub](https://github.com/mani1232/EcoItems) |
