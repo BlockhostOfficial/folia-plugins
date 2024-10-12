@@ -69,6 +69,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [Fancy Npcs](https://modrinth.com/plugin/fancynpcs) | [GitHub](https://github.com/FancyMcPlugins/FancyNpcs) | [Download](https://modrinth.com/plugin/fancynpcs/versions#all-versions) |
 | [ForgeMend](https://modrinth.com/plugin/forgemend) | [GitHub](https://github.com/Hynse/ForgeMend) | [Download](https://modrinth.com/plugin/forgemend/versions#all-versions) |
 | [Geyser](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/) | [GitHub](https://github.com/GeyserMC/Geyser) | [Download](https://geysermc.org/download) |
+| [GriefPrevention (Fork)](https://github.com/ssquadteam/GriefPrevention-Folia) | [GitHub](https://github.com/ssquadteam/GriefPrevention-Folia) | [Download](https://github.com/ssquadteam/GriefPrevention-Folia/releases) |
 | [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) |
 | [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) |
 | [HeadDrop](https://www.spigotmc.org/resources/✅-headdrop-free-1-16-1-20-fully-customizable.99976/) | [GitHub](https://github.com/RRS-9747/HeadDrop) | [Download](https://github.com/RRS-9747/HeadDrop/releases) |
