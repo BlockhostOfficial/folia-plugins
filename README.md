@@ -13,97 +13,114 @@ List of popular plugins that are working on supporting Folia or already support 
 ### Utility
 
 | Name | GitHub | Download | Official Project | Description |
-| ------------- | ------------- | ------------- | ----- | ------------- |
-| [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) | ✅ |
-| [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) | ✅ |
-| [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [Download](https://modrinth.com/plugin/antipopup) | ✅ |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) | ✅ | Server MOTD (Message Of The Day) |
+| [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [Download](https://modrinth.com/plugin/antipopup) | ✅ | Prevents the new 1.19 popup |
+| [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
+| [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [Download](https://discord.com/invite/HGAdJEumxC) |
+| [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [Download](https://github.com/FancyMcPlugins/FancyHolograms/releases) |
+| [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) |
+| [Fancy Npcs](https://modrinth.com/plugin/fancynpcs) | [GitHub](https://github.com/FancyMcPlugins/FancyNpcs) | [Download](https://modrinth.com/plugin/fancynpcs/versions#all-versions) |
+| [Geyser](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/) | [GitHub](https://github.com/GeyserMC/Geyser) | [Download](https://geysermc.org/download) |
+| [LibertyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) |
+| [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) |
+| [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) |
 
 ### Economy
 
-| Name | GitHub | Download | Official Project |
+| Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [Download](https://github.com/SirBlobman/Basic-Economy/releases) |
+| [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [Download](https://github.com/SirBlobman/Basic-Economy/releases) | Simple economy plugin |
+| [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | [Download](https://ci.minebench.de/job/ChestShop-3/) |
+| [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | Compile from [GitHub](https://github.com/mani1232/EcoItems) |
+| [Hynseeconomy](https://github.com/MidnightTale/hyeconomy) | [GitHub](https://github.com/MidnightTale/hyeconomy) | [Download](https://github.com/MidnightTale/hyeconomy) |
+| [JobsReborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) | [GitHub](https://github.com/Zrips/Jobs) | [Download](https://www.spigotmc.org/resources/jobs-reborn.4216/) |
+| [LushRewards](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) | [GitHub](https://github.com/OakLoaf/LushRewards) | [Download](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) |
 
 ### Features
 
-| Name | GitHub | Download | Official Project |
-| ------------- | ------------- | ------------- | ------------- |
+| Name | GitHub | Download | Official Project | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | [AdvancedTeleport](https://www.spigotmc.org/resources/advancedteleport.64139/) | [GitHub](https://github.com/Niestrat99/AT-Rewritten/) | [Download](https://modrinth.com/plugin/advancedteleport) | ✅ |
+| [AntiHealthIndicator](https://www.spigotmc.org/resources/antihealthindicator.114851/) | [GitHub](https://github.com/Bram1903/AntiHealthIndicator) | [Download](https://www.spigotmc.org/resources/antihealthindicator.114851/) | ✅ |
+| [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) | ✅ | Automatic chat, title, bossbar and others broadcast |
 | [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [Download](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions) | ✅ |
 | [AutoTreeChop](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | [GitHub](https://github.com/milkteamc/AutoTreeChop) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | ✅ |
 | [BetterBoard](https://www.spigotmc.org/resources/betterboard.96393/) | [GitHub](https://github.com/HSGamer/BetterBoard) | [Download](https://www.spigotmc.org/resources/betterboard.96393/) |
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) |
+| [BlockCompressor](https://www.spigotmc.org/resources/block-compressor.88448/) | [GitHub](https://www.spigotmc.org/resources/block-compressor.88448/) | [Download](https://www.spigotmc.org/resources/block-compressor.88448/) |
 | [BetterRTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | [GitHub](https://www.mcbbs.net/thread-1442905-1-1.html) | [Download](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) |
 | [BlockLocker](https://www.spigotmc.org/resources/blocklocker.3268/) | [GitHub](https://github.com/rutgerkok/BlockLocker) | [Download](https://github.com/rutgerkok/BlockLocker/releases/tag/v1.12-folia) |
 | [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/BlueMap-Minecraft/BlueMap) | [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
 | [BlueSlimeCore](https://www.spigotmc.org/resources/blueslimecore.83189/) | [GitHub](https://github.com/SirBlobman/BlueSlimeCore) | [Download](https://www.spigotmc.org/resources/blueslimecore.83189/) |
-
-### Customization
-
-| Name | GitHub | Download | Official Project |
-| ------------- | ------------- | ------------- | ------------- |
-| [AntiHealthIndicator](https://www.spigotmc.org/resources/antihealthindicator.114851/) | [GitHub](https://github.com/Bram1903/AntiHealthIndicator) | [Download](https://www.spigotmc.org/resources/antihealthindicator.114851/) | ✅ |
-| [BlockCompressor](https://www.spigotmc.org/resources/block-compressor.88448/) | [GitHub](https://www.spigotmc.org/resources/block-compressor.88448/) | [Download](https://www.spigotmc.org/resources/block-compressor.88448/) |
-
-These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using GitHub Issues or their Discord Servers.
-| Name | GitHub | Download |
-| ------------- | ------------- | ------------- |
-| [AuthMeReloaded (Fork)](https://github.com/HaHaWTH/AuthMeReReloaded/) | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded/) | [Download](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) |
-| [AuthMeReloaded (Fork 2)](https://github.com/cavallium/AuthMeFolia) | [GitHub](https://github.com/cavallium/AuthMeFolia) | [Download](https://github.com/cavallium/AuthMeFolia/releases) |
-| [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
 | [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [Download](https://ci.loohpjames.com/job/Bookshelf/) |
 | [BucketsX](https://www.spigotmc.org/resources/bucketsx.84361/) | Closed Source | [Paid](https://www.spigotmc.org/resources/bucketsx.84361/) |
-| [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [Download](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
-| [ChatControl Red](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) | Closed Source | [Paid](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) |
-| [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | [Download](https://ci.minebench.de/job/ChestShop-3/) |
-| [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
-| [CleanPing](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) | [GitHub](https://github.com/frafol/CleanPing/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) |
-| [CleanStaffChat](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) | [GitHub](https://github.com/frafol/CleanStaffChat/) | [Download](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) |
 | [CleanScreenShare](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/) | [GitHub](https://github.com/frafol/CleanScreenShare/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548) |
 | [CMILib (Fork)](https://github.com/Folium-MC/CMILib) | [GitHub](https://github.com/Folium-MC/CMILib) | [Download](https://github.com/Folium-MC/CMILib/releases) |
 | [CombatLogX](https://www.spigotmc.org/resources/combatlogx.31689/) | [GitHub](https://github.com/SirBlobman/CombatLogX) | [Download](https://www.spigotmc.org/resources/combatlogx.31689/) |
-| [CommandSpy](https://www.spigotmc.org/resources/commandspy.67508/) | Closed Source | [Download](https://www.spigotmc.org/resources/commandspy.67508/) |
-| [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Download](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
 | [CooldownsX](https://www.spigotmc.org/resources/cooldownsx.41981/) | [GitHub](https://github.com/SirBlobman/CooldownsX) | [Download](https://www.spigotmc.org/resources/cooldownsx.41981/) |
 | [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) |
 | [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile from [GitHub](https://github.com/PlayPro/CoreProtect/) |
 | [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [Download](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
 | [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | [GitHub](https://github.com/HelpChat/DeluxeMenus) | [Discord](https://discord.gg/helpchat) |
 | [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [Download](https://www.spigotmc.org/resources/disco-armor.60700/) |
-| [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [Download](https://discord.com/invite/HGAdJEumxC) |
 | [Dropedit 2](https://www.spigotmc.org/resources/%E2%9C%85-dropedit-2-advanced-drop-editor-%E2%9C%8D%EF%B8%8F-edit-drops-in-a-gui.60331/) | Closed Source | [Paid](https://www.spigotmc.org/resources/%E2%9C%85-dropedit-2-advanced-drop-editor-%E2%9C%8D%EF%B8%8F-edit-drops-in-a-gui.60331/) |
-| [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | Compile from [GitHub](https://github.com/mani1232/EcoItems) |
-| [EditableSigns](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) | [GitHub](https://gist.github.com/LOOHP/550f861ab4ad219cf74dc18c214ba530) | [Download](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) |
 | [Essence](https://modrinth.com/plugin/essence-plugin/) | [GitHub](https://github.com/lewmc/essence) | [Download](https://modrinth.com/plugin/essence-plugin/versions) |
+| [EditableSigns](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) | [GitHub](https://gist.github.com/LOOHP/550f861ab4ad219cf74dc18c214ba530) | [Download](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) |
 | [ExplodeAny](https://www.spigotmc.org/resources/explodeany-obsidian-breaker-tnt-explosion-modifier.85537/) | [GitHub](https://github.com/GuilleX7/ExplodeAny) | [Download](https://www.spigotmc.org/resources/explodeany-obsidian-breaker-tnt-explosion-modifier.85537/) |
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [Download](https://www.spigotmc.org/resources/fallavert.40289/) |
-| [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [Download](https://github.com/FancyMcPlugins/FancyHolograms/releases) |
-| [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) |
 | [FlagsH](https://github.com/HydrolienF/FlagsH) | [GitHub](https://github.com/HydrolienF/FlagsH) | [Download](https://hangar.papermc.io/Hydrolien/FlagsH) |
-| [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) |
 | [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [Download](https://github.com/JNNGL/framedImage/releases) |
-| [FreedomChat](https://modrinth.com/plugin/freedomchat) | [GitHub](https://github.com/e-im/FreedomChat) | [Download](https://modrinth.com/plugin/freedomchat/versions#all-versions) |
 | [Freeze](https://www.spigotmc.org/resources/freeze.31822/) | [GitHub](https://github.com/SirBlobman/Freeze) | [Download](https://www.spigotmc.org/resources/freeze.31822/) |
-| [Fancy Npcs](https://modrinth.com/plugin/fancynpcs) | [GitHub](https://github.com/FancyMcPlugins/FancyNpcs) | [Download](https://modrinth.com/plugin/fancynpcs/versions#all-versions) |
 | [ForgeMend](https://modrinth.com/plugin/forgemend) | [GitHub](https://github.com/Hynse/ForgeMend) | [Download](https://modrinth.com/plugin/forgemend/versions#all-versions) |
-| [Geyser](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/) | [GitHub](https://github.com/GeyserMC/Geyser) | [Download](https://geysermc.org/download) |
-| [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) |
 | [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) |
 | [HeadDrop](https://www.spigotmc.org/resources/✅-headdrop-free-1-16-1-20-fully-customizable.99976/) | [GitHub](https://github.com/RRS-9747/HeadDrop) | [Download](https://github.com/RRS-9747/HeadDrop/releases) |
 | [HorseTpWithMe (Fork)](https://github.com/Anon8281/HorseTpWithMe) | [GitHub](https://github.com/Anon8281/HorseTpWithMe) | [Download](https://github.com/Anon8281/HorseTpWithMe/releases) |
 | [HuskHomes2](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | [GitHub](https://github.com/WiIIiam278/HuskHomes2) | [Download](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) |
-| [Hynseeconomy](https://github.com/MidnightTale/hyeconomy) | [GitHub](https://github.com/MidnightTale/hyeconomy) | [Download](https://github.com/MidnightTale/hyeconomy) |
 | [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | Closed Source | [Paid](https://www.spigotmc.org/resources/interactiveboard.77114/) |
 | [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) |
-| [JobsReborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) | [GitHub](https://github.com/Zrips/Jobs) | [Download](https://www.spigotmc.org/resources/jobs-reborn.4216/) |
+| [Lands](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) | Closed Source | [Paid](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) |
+
+
+### Chat
+
+| Name | GitHub | Download | Official Project | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [ChatControl Red](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) | Closed Source | [Paid](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) |
+| [CleanPing](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) | [GitHub](https://github.com/frafol/CleanPing/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) |
+| [CleanStaffChat](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) | [GitHub](https://github.com/frafol/CleanStaffChat/) | [Download](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) |
+| [CommandSpy](https://www.spigotmc.org/resources/commandspy.67508/) | Closed Source | [Download](https://www.spigotmc.org/resources/commandspy.67508/) |
+| [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Download](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
+| [FreedomChat](https://modrinth.com/plugin/freedomchat) | [GitHub](https://github.com/e-im/FreedomChat) | [Download](https://modrinth.com/plugin/freedomchat/versions#all-versions) |
+
+### Security
+
+| Name | GitHub | Download | Official Project | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
+| [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [Download](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
+
+### Anti Cheat
+
+| Name | GitHub | Download | Official Project | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) |
+| [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/)
+
+### Optimisation
+
+| Name | GitHub | Download | Official Project | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) |
 | [Kryptonite](https://modrinth.com/plugin/kryptonite/) | [GitHub](https://github.com/lewmc/kryptonite) | [Download](https://modrinth.com/plugin/kryptonite/versions) |
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) |
-| [Lands](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) | Closed Source | [Paid](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) |
-| [LibertyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) |
-| [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) |
-| [LushRewards](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) | [GitHub](https://github.com/OakLoaf/LushRewards) | [Download](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) |
-| [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) |
-| [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/)
+
+
+These will be put in the correct categories soon:
+| Name | GitHub | Download |
+| ------------- | ------------- | ------------- |
+| [AuthMeReloaded (Fork)](https://github.com/HaHaWTH/AuthMeReReloaded/) | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded/) | [Download](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) |
+| [AuthMeReloaded (Fork 2)](https://github.com/cavallium/AuthMeFolia) | [GitHub](https://github.com/cavallium/AuthMeFolia) | [Download](https://github.com/cavallium/AuthMeFolia/releases) |
 | [MCEEW](https://www.spigotmc.org/resources/mceew-earthquake-early-warning.104549/) | [GitHub](https://github.com/TenkyuChimata/MCEEW/) | [Download](https://github.com/TenkyuChimata/MCEEW/releases) |
 | [MCKotlin](https://www.spigotmc.org/resources/mckotlin.107907/) | [GitHub](https://github.com/4drian3d/MCKotlin) | [Download](https://modrinth.com/plugin/mckotlin) |
 | [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) | [GitHub](https://github.com/mcMMO-Dev/mcMMO) | [Paid](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) |
