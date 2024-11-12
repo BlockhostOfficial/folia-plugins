@@ -12,31 +12,45 @@ List of popular plugins that are working on supporting Folia or already support 
 
 ### Utility
 
+| Name | GitHub | Download | Official Project | Description |
+| ------------- | ------------- | ------------- | ----- | ------------- |
+| [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) | ✅ |
+| [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) | ✅ |
+| [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [Download](https://modrinth.com/plugin/antipopup) | ✅ |
+
+### Economy
+
 | Name | GitHub | Download | Official Project |
 | ------------- | ------------- | ------------- | ------------- |
-| [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) | ✅ |
+| [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [Download](https://github.com/SirBlobman/Basic-Economy/releases) |
+
+### Features
+
+| Name | GitHub | Download | Official Project |
+| ------------- | ------------- | ------------- | ------------- |
+| [AdvancedTeleport](https://www.spigotmc.org/resources/advancedteleport.64139/) | [GitHub](https://github.com/Niestrat99/AT-Rewritten/) | [Download](https://modrinth.com/plugin/advancedteleport) | ✅ |
+| [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [Download](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions) | ✅ |
+| [AutoTreeChop](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | [GitHub](https://github.com/milkteamc/AutoTreeChop) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | ✅ |
+| [BetterBoard](https://www.spigotmc.org/resources/betterboard.96393/) | [GitHub](https://github.com/HSGamer/BetterBoard) | [Download](https://www.spigotmc.org/resources/betterboard.96393/) |
+| [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) |
+| [BetterRTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | [GitHub](https://www.mcbbs.net/thread-1442905-1-1.html) | [Download](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) |
+| [BlockLocker](https://www.spigotmc.org/resources/blocklocker.3268/) | [GitHub](https://github.com/rutgerkok/BlockLocker) | [Download](https://github.com/rutgerkok/BlockLocker/releases/tag/v1.12-folia) |
+| [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/BlueMap-Minecraft/BlueMap) | [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
+| [BlueSlimeCore](https://www.spigotmc.org/resources/blueslimecore.83189/) | [GitHub](https://github.com/SirBlobman/BlueSlimeCore) | [Download](https://www.spigotmc.org/resources/blueslimecore.83189/) |
+
+### Customization
+
+| Name | GitHub | Download | Official Project |
+| ------------- | ------------- | ------------- | ------------- |
+| [AntiHealthIndicator](https://www.spigotmc.org/resources/antihealthindicator.114851/) | [GitHub](https://github.com/Bram1903/AntiHealthIndicator) | [Download](https://www.spigotmc.org/resources/antihealthindicator.114851/) | ✅ |
+| [BlockCompressor](https://www.spigotmc.org/resources/block-compressor.88448/) | [GitHub](https://www.spigotmc.org/resources/block-compressor.88448/) | [Download](https://www.spigotmc.org/resources/block-compressor.88448/) |
 
 These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using GitHub Issues or their Discord Servers.
 | Name | GitHub | Download |
 | ------------- | ------------- | ------------- |
-| [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) |
-| [AdvancedTeleport](https://www.spigotmc.org/resources/advancedteleport.64139/) | [GitHub](https://github.com/Niestrat99/AT-Rewritten/) | [Download](https://modrinth.com/plugin/advancedteleport) |
-| [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) |
-| [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [Download](https://modrinth.com/plugin/antipopup) |
-| [AntiHealthIndicator](https://www.spigotmc.org/resources/antihealthindicator.114851/) | [GitHub](https://github.com/Bram1903/AntiHealthIndicator) | [Download](https://www.spigotmc.org/resources/antihealthindicator.114851/) |
-| [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [Download](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions)
 | [AuthMeReloaded (Fork)](https://github.com/HaHaWTH/AuthMeReReloaded/) | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded/) | [Download](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) |
 | [AuthMeReloaded (Fork 2)](https://github.com/cavallium/AuthMeFolia) | [GitHub](https://github.com/cavallium/AuthMeFolia) | [Download](https://github.com/cavallium/AuthMeFolia/releases) |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
-| [AutoTreeChop](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | [GitHub](https://github.com/milkteamc/AutoTreeChop) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) |
-| [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [Download](https://github.com/SirBlobman/Basic-Economy/releases) |
-| [BetterBoard](https://www.spigotmc.org/resources/betterboard.96393/) | [GitHub](https://github.com/HSGamer/BetterBoard) | [Download](https://www.spigotmc.org/resources/betterboard.96393/) |
-| [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) |
-| [BetterRTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | [GitHub](https://www.mcbbs.net/thread-1442905-1-1.html) | [Download](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) |
-| [BlockCompressor](https://www.spigotmc.org/resources/block-compressor.88448/) | [GitHub](https://www.spigotmc.org/resources/block-compressor.88448/) | [Download](https://www.spigotmc.org/resources/block-compressor.88448/) |
-| [BlockLocker](https://www.spigotmc.org/resources/blocklocker.3268/) | [GitHub](https://github.com/rutgerkok/BlockLocker) | [Download](https://github.com/rutgerkok/BlockLocker/releases/tag/v1.12-folia) |
-| [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/BlueMap-Minecraft/BlueMap) | [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
-| [BlueSlimeCore](https://www.spigotmc.org/resources/blueslimecore.83189/) | [GitHub](https://github.com/SirBlobman/BlueSlimeCore) | [Download](https://www.spigotmc.org/resources/blueslimecore.83189/) |
 | [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [Download](https://ci.loohpjames.com/job/Bookshelf/) |
 | [BucketsX](https://www.spigotmc.org/resources/bucketsx.84361/) | Closed Source | [Paid](https://www.spigotmc.org/resources/bucketsx.84361/) |
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [Download](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
