@@ -17,7 +17,10 @@ List of popular plugins that are working on supporting Folia or already support 
 | [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) | ✅ | Server MOTD (Message Of The Day) |
 | [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [Download](https://modrinth.com/plugin/antipopup) | ✅ | Prevents the new 1.19 popup |
 | [BetterBoard](https://www.spigotmc.org/resources/betterboard.96393/) | [GitHub](https://github.com/HSGamer/BetterBoard) | [Download](https://www.spigotmc.org/resources/betterboard.96393/) | ✅ | Simple scoreboard plugin |
+| [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) | ✅ | Custom GUI plugin |
+| [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/BlueMap-Minecraft/BlueMap) | [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases) | ✅ | Web map plugin |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) | ✅ | Pre generates chunks |
+| [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | [GitHub](https://github.com/HelpChat/DeluxeMenus) | [Discord](https://discord.gg/helpchat) | ✅ | Custom GUI plugin |
 | [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [Download](https://discord.com/invite/HGAdJEumxC) | ✅ | Connect Minecraft with your Discord server |
 | [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [Download](https://github.com/FancyMcPlugins/FancyHolograms/releases) | ✅ | Holograms |
 | [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) | ✅ | Extension for Geyser |
@@ -44,39 +47,28 @@ List of popular plugins that are working on supporting Folia or already support 
 | [AntiHealthIndicator](https://www.spigotmc.org/resources/antihealthindicator.114851/) | [GitHub](https://github.com/Bram1903/AntiHealthIndicator) | [Download](https://www.spigotmc.org/resources/antihealthindicator.114851/) | ✅ | Prevent hackers from seeing player health |
 | [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [Download](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions) | ✅ | Let players edit armor stands |
 | [AutoTreeChop](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | [GitHub](https://github.com/milkteamc/AutoTreeChop) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | ✅ | Immediately take down whole trees |
-| [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) |
-| [BlockCompressor](https://www.spigotmc.org/resources/block-compressor.88448/) | [GitHub](https://www.spigotmc.org/resources/block-compressor.88448/) | [Download](https://www.spigotmc.org/resources/block-compressor.88448/) |
-| [BetterRTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | [GitHub](https://www.mcbbs.net/thread-1442905-1-1.html) | [Download](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) |
-| [BlockLocker](https://www.spigotmc.org/resources/blocklocker.3268/) | [GitHub](https://github.com/rutgerkok/BlockLocker) | [Download](https://github.com/rutgerkok/BlockLocker/releases/tag/v1.12-folia) |
-| [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/) | [GitHub](https://github.com/BlueMap-Minecraft/BlueMap) | [Download](https://github.com/BlueMap-Minecraft/BlueMap/releases) |
-| [BlueSlimeCore](https://www.spigotmc.org/resources/blueslimecore.83189/) | [GitHub](https://github.com/SirBlobman/BlueSlimeCore) | [Download](https://www.spigotmc.org/resources/blueslimecore.83189/) |
-| [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [Download](https://ci.loohpjames.com/job/Bookshelf/) |
-| [BucketsX](https://www.spigotmc.org/resources/bucketsx.84361/) | Closed Source | [Paid](https://www.spigotmc.org/resources/bucketsx.84361/) |
-| [CleanScreenShare](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/) | [GitHub](https://github.com/frafol/CleanScreenShare/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548) |
-| [CMILib (Fork)](https://github.com/Folium-MC/CMILib) | [GitHub](https://github.com/Folium-MC/CMILib) | [Download](https://github.com/Folium-MC/CMILib/releases) |
-| [CombatLogX](https://www.spigotmc.org/resources/combatlogx.31689/) | [GitHub](https://github.com/SirBlobman/CombatLogX) | [Download](https://www.spigotmc.org/resources/combatlogx.31689/) |
-| [CooldownsX](https://www.spigotmc.org/resources/cooldownsx.41981/) | [GitHub](https://github.com/SirBlobman/CooldownsX) | [Download](https://www.spigotmc.org/resources/cooldownsx.41981/) |
-| [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) |
-| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile from [GitHub](https://github.com/PlayPro/CoreProtect/) |
-| [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [Download](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) |
-| [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/) | [GitHub](https://github.com/HelpChat/DeluxeMenus) | [Discord](https://discord.gg/helpchat) |
-| [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [Download](https://www.spigotmc.org/resources/disco-armor.60700/) |
-| [Dropedit 2](https://www.spigotmc.org/resources/%E2%9C%85-dropedit-2-advanced-drop-editor-%E2%9C%8D%EF%B8%8F-edit-drops-in-a-gui.60331/) | Closed Source | [Paid](https://www.spigotmc.org/resources/%E2%9C%85-dropedit-2-advanced-drop-editor-%E2%9C%8D%EF%B8%8F-edit-drops-in-a-gui.60331/) |
-| [Essence](https://modrinth.com/plugin/essence-plugin/) | [GitHub](https://github.com/lewmc/essence) | [Download](https://modrinth.com/plugin/essence-plugin/versions) |
-| [EditableSigns](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) | [GitHub](https://gist.github.com/LOOHP/550f861ab4ad219cf74dc18c214ba530) | [Download](https://www.spigotmc.org/resources/editablesigns-legacy-oneclass-edit-signs-without-having-to-break-it-and-place-it-again.93850/) |
-| [ExplodeAny](https://www.spigotmc.org/resources/explodeany-obsidian-breaker-tnt-explosion-modifier.85537/) | [GitHub](https://github.com/GuilleX7/ExplodeAny) | [Download](https://www.spigotmc.org/resources/explodeany-obsidian-breaker-tnt-explosion-modifier.85537/) |
-| [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [Download](https://www.spigotmc.org/resources/fallavert.40289/) |
-| [FlagsH](https://github.com/HydrolienF/FlagsH) | [GitHub](https://github.com/HydrolienF/FlagsH) | [Download](https://hangar.papermc.io/Hydrolien/FlagsH) |
-| [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [Download](https://github.com/JNNGL/framedImage/releases) |
-| [Freeze](https://www.spigotmc.org/resources/freeze.31822/) | [GitHub](https://github.com/SirBlobman/Freeze) | [Download](https://www.spigotmc.org/resources/freeze.31822/) |
-| [ForgeMend](https://modrinth.com/plugin/forgemend) | [GitHub](https://github.com/Hynse/ForgeMend) | [Download](https://modrinth.com/plugin/forgemend/versions#all-versions) |
-| [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) |
-| [HeadDrop](https://www.spigotmc.org/resources/✅-headdrop-free-1-16-1-20-fully-customizable.99976/) | [GitHub](https://github.com/RRS-9747/HeadDrop) | [Download](https://github.com/RRS-9747/HeadDrop/releases) |
-| [HorseTpWithMe (Fork)](https://github.com/Anon8281/HorseTpWithMe) | [GitHub](https://github.com/Anon8281/HorseTpWithMe) | [Download](https://github.com/Anon8281/HorseTpWithMe/releases) |
-| [HuskHomes2](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | [GitHub](https://github.com/WiIIiam278/HuskHomes2) | [Download](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) |
-| [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | Closed Source | [Paid](https://www.spigotmc.org/resources/interactiveboard.77114/) |
-| [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) |
-| [Lands](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) | Closed Source | [Paid](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) |
+| [BlockCompressor](https://www.spigotmc.org/resources/block-compressor.88448/) | [GitHub](https://www.spigotmc.org/resources/block-compressor.88448/) | [Download](https://www.spigotmc.org/resources/block-compressor.88448/) | ✅ | Compresses blocks |
+| [BetterRTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | [GitHub](https://www.mcbbs.net/thread-1442905-1-1.html) | [Download](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | ✅ | RTP |
+| [BlockLocker](https://www.spigotmc.org/resources/blocklocker.3268/) | [GitHub](https://github.com/rutgerkok/BlockLocker) | [Download](https://github.com/rutgerkok/BlockLocker/releases/tag/v1.12-folia) | ✅ | Protect chets, doors and more |
+| [Bookshelf](https://www.spigotmc.org/resources/bookshelf-store-books-inside-enchantment-table-boosting-supports-protection-plugins.75804/) | [GitHub](https://github.com/LOOHP/Bookshelf) | [Download](https://ci.loohpjames.com/job/Bookshelf/) | ✅ | Store books in bookshelves |
+| [BucketsX](https://www.spigotmc.org/resources/bucketsx.84361/) | Closed Source | [Paid](https://www.spigotmc.org/resources/bucketsx.84361/) | ✅ | Buckets that generate blocks |
+| [CombatLogX](https://www.spigotmc.org/resources/combatlogx.31689/) | [GitHub](https://github.com/SirBlobman/CombatLogX) | [Download](https://www.spigotmc.org/resources/combatlogx.31689/) | ✅ | Punish players for leaving fights |
+| [CooldownsX](https://www.spigotmc.org/resources/cooldownsx.41981/) | [GitHub](https://github.com/SirBlobman/CooldownsX) | [Download](https://www.spigotmc.org/resources/cooldownsx.41981/) | ✅ | Add cooldowns to using items |
+| [CoreProtect](https://modrinth.com/plugin/coreprotect) | [GitHub](https://github.com/PlayPro/CoreProtect/) | Compile from [GitHub](https://github.com/PlayPro/CoreProtect/) | ✅ | Protect areas |
+| [Craftorithm](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | [GitHub](https://github.com/YufiriaMazenta/Craftorithm) | [Download](https://www.spigotmc.org/resources/craftorithm-customized-crafting-management-plugin-1-13-1-19.108429/) | ✅ | Custom crafting |
+| [DiscoArmor](https://www.spigotmc.org/resources/disco-armor.60700/) | [GitHub](https://github.com/SirBlobman/DiscoArmor) | [Download](https://www.spigotmc.org/resources/disco-armor.60700/) | ✅ | Cosmetic color changing armor |
+| [Dropedit 2](https://www.spigotmc.org/resources/%E2%9C%85-dropedit-2-advanced-drop-editor-%E2%9C%8D%EF%B8%8F-edit-drops-in-a-gui.60331/) | Closed Source | [Paid](https://www.spigotmc.org/resources/%E2%9C%85-dropedit-2-advanced-drop-editor-%E2%9C%8D%EF%B8%8F-edit-drops-in-a-gui.60331/) | ✅ | Edit mob drops |
+| [Essence](https://modrinth.com/plugin/essence-plugin/) | [GitHub](https://github.com/lewmc/essence) | [Download](https://modrinth.com/plugin/essence-plugin/versions) | ✅ | Adds many classic commands |
+| [ExplodeAny](https://www.spigotmc.org/resources/explodeany-obsidian-breaker-tnt-explosion-modifier.85537/) | [GitHub](https://github.com/GuilleX7/ExplodeAny) | [Download](https://www.spigotmc.org/resources/explodeany-obsidian-breaker-tnt-explosion-modifier.85537/) | ✅ | Control explosions |
+| [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [Download](https://www.spigotmc.org/resources/fallavert.40289/) | ✅ | Prevent certain commands during falling |
+| [FlagsH](https://github.com/HydrolienF/FlagsH) | [GitHub](https://github.com/HydrolienF/FlagsH) | [Download](https://hangar.papermc.io/Hydrolien/FlagsH) | ✅ | Display banners as flags |
+| [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [Download](https://github.com/JNNGL/framedImage/releases) | ✅ | Map art plugin |
+| [ForgeMend](https://modrinth.com/plugin/forgemend) | [GitHub](https://github.com/Hynse/ForgeMend) | [Download](https://modrinth.com/plugin/forgemend/versions#all-versions) | ✅ | Repair items with XP points |
+| [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) | Sit plugin |
+| [HeadDrop](https://www.spigotmc.org/resources/✅-headdrop-free-1-16-1-20-fully-customizable.99976/) | [GitHub](https://github.com/RRS-9747/HeadDrop) | [Download](https://github.com/RRS-9747/HeadDrop/releases) | ✅ | Players and mobs drop heads |
+| [HuskHomes2](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | [GitHub](https://github.com/WiIIiam278/HuskHomes2) | [Download](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | ✅ | Homes plugin |
+| [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | Closed Source | [Paid](https://www.spigotmc.org/resources/interactiveboard.77114/) | ✅ | Interactive boards using maps |
+| [Lands](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) | Closed Source | [Paid](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) | ✅ | Claim lands |
 
 
 ### Chat
@@ -102,7 +94,11 @@ List of popular plugins that are working on supporting Folia or already support 
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [CleanScreenShare](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/) | [GitHub](https://github.com/frafol/CleanScreenShare/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548) | ✅ | Anti hacker screen share plugin |
+| [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) | ✅ | Hides real coordinates from the players |
+| [Freeze](https://www.spigotmc.org/resources/freeze.31822/) | [GitHub](https://github.com/SirBlobman/Freeze) | [Download](https://www.spigotmc.org/resources/freeze.31822/) | ✅ | Freeze players |
 | [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) | ✅ | Anti Cheat made in a new way |
+| [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) | ✅ | Check the inventory of players |
 | [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/)
 
 ### Optimisation
@@ -203,9 +199,10 @@ Libraries and frameworks for plugin developers.
 
 ### List of libraries and frameworks that are working on support for Folia
 
+- [BlueSlimeCore](https://www.spigotmc.org/resources/blueslimecore.83189/)
 - [FurnitureLib](https://github.com/Ste3et/FurnitureLib/tree/folia)
 - [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
-
+- 
 ## How can I add Folia support to my plugin?
 
 Check out the [README File](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the [PaperMC Documentations](https://docs.papermc.io/folia) for more information.
