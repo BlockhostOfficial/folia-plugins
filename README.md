@@ -16,6 +16,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) | ✅ | Server MOTD (Message Of The Day) |
 | [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [Download](https://modrinth.com/plugin/antipopup) | ✅ | Prevents the new 1.19 popup |
+| [BetterBoard](https://www.spigotmc.org/resources/betterboard.96393/) | [GitHub](https://github.com/HSGamer/BetterBoard) | [Download](https://www.spigotmc.org/resources/betterboard.96393/) | ✅ | Simple scoreboard plugin |
 | [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) | ✅ | Pre generates chunks |
 | [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [Download](https://discord.com/invite/HGAdJEumxC) | ✅ | Connect Minecraft with your Discord server |
 | [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [Download](https://github.com/FancyMcPlugins/FancyHolograms/releases) | ✅ | Holograms |
@@ -32,21 +33,17 @@ List of popular plugins that are working on supporting Folia or already support 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [Download](https://github.com/SirBlobman/Basic-Economy/releases) | ✅ | Simple economy plugin |
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | [Download](https://ci.minebench.de/job/ChestShop-3/) | ✅ | Sell items through chests |
-| [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | Compile from [GitHub](https://github.com/mani1232/EcoItems) |
-| [Hynseeconomy](https://github.com/MidnightTale/hyeconomy) | [GitHub](https://github.com/MidnightTale/hyeconomy) | [Download](https://github.com/MidnightTale/hyeconomy) |
-| [JobsReborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) | [GitHub](https://github.com/Zrips/Jobs) | [Download](https://www.spigotmc.org/resources/jobs-reborn.4216/) |
-| [LushRewards](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) | [GitHub](https://github.com/OakLoaf/LushRewards) | [Download](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) |
+| [JobsReborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) | [GitHub](https://github.com/Zrips/Jobs) | [Download](https://www.spigotmc.org/resources/jobs-reborn.4216/) | ✅ | Make money by working |
+| [LushRewards](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) | [GitHub](https://github.com/OakLoaf/LushRewards) | [Download](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) | ✅ | Playtime and login rewards |
 
 ### Features
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [AdvancedTeleport](https://www.spigotmc.org/resources/advancedteleport.64139/) | [GitHub](https://github.com/Niestrat99/AT-Rewritten/) | [Download](https://modrinth.com/plugin/advancedteleport) | ✅ | Teleporation |
-| [AntiHealthIndicator](https://www.spigotmc.org/resources/antihealthindicator.114851/) | [GitHub](https://github.com/Bram1903/AntiHealthIndicator) | [Download](https://www.spigotmc.org/resources/antihealthindicator.114851/) | ✅ |
-| [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) | ✅ | Automatic chat, title, bossbar and others broadcast |
-| [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [Download](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions) | ✅ |
-| [AutoTreeChop](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | [GitHub](https://github.com/milkteamc/AutoTreeChop) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | ✅ |
-| [BetterBoard](https://www.spigotmc.org/resources/betterboard.96393/) | [GitHub](https://github.com/HSGamer/BetterBoard) | [Download](https://www.spigotmc.org/resources/betterboard.96393/) |
+| [AdvancedTeleport](https://www.spigotmc.org/resources/advancedteleport.64139/) | [GitHub](https://github.com/Niestrat99/AT-Rewritten/) | [Download](https://modrinth.com/plugin/advancedteleport) | ✅ | /tpa, RTP and more |
+| [AntiHealthIndicator](https://www.spigotmc.org/resources/antihealthindicator.114851/) | [GitHub](https://github.com/Bram1903/AntiHealthIndicator) | [Download](https://www.spigotmc.org/resources/antihealthindicator.114851/) | ✅ | Prevent hackers from seeing player health |
+| [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [Download](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions) | ✅ | Let players edit armor stands |
+| [AutoTreeChop](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | [GitHub](https://github.com/milkteamc/AutoTreeChop) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8autotreechop-%E2%9A%A1-effortless-tree-harvesting-%E2%9A%A1.113071/) | ✅ | Immediately take down whole trees |
 | [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/) | [GitHub](https://github.com/BetterGUI-MC/BetterGUI/) | [Download](https://github.com/BetterGUI-MC/BetterGUI/releases) |
 | [BlockCompressor](https://www.spigotmc.org/resources/block-compressor.88448/) | [GitHub](https://www.spigotmc.org/resources/block-compressor.88448/) | [Download](https://www.spigotmc.org/resources/block-compressor.88448/) |
 | [BetterRTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | [GitHub](https://www.mcbbs.net/thread-1442905-1-1.html) | [Download](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) |
@@ -86,6 +83,7 @@ List of popular plugins that are working on supporting Folia or already support 
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) | ✅ | Automatic chat, title, bossbar and others broadcast |
 | [ChatControl Red](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) | Closed Source | [Paid](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) | ✅ | Big chat plugin |
 | [CleanPing](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) | [GitHub](https://github.com/frafol/CleanPing/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) |
 | [CleanStaffChat](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) | [GitHub](https://github.com/frafol/CleanStaffChat/) | [Download](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) |
