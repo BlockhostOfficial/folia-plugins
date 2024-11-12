@@ -10,7 +10,11 @@
 
 List of popular plugins that are working on supporting Folia or already support it.
 
-### List of plugins that support Folia
+### Utility
+
+| Name | GitHub | Download | Official Project |
+| ------------- | ------------- | ------------- | ------------- |
+| [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) | ✅ |
 
 These plugins should work with Folia but please note that Folia just recently came out and there might be issues. You can report the issues to the plugin authors using GitHub Issues or their Discord Servers.
 | Name | GitHub | Download |
