@@ -64,7 +64,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | [FlagsH](https://github.com/HydrolienF/FlagsH) | [GitHub](https://github.com/HydrolienF/FlagsH) | [Download](https://hangar.papermc.io/Hydrolien/FlagsH) | ✅ | Display banners as flags |
 | [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [Download](https://github.com/JNNGL/framedImage/releases) | ✅ | Map art plugin |
 | [ForgeMend](https://modrinth.com/plugin/forgemend) | [GitHub](https://github.com/Hynse/ForgeMend) | [Download](https://modrinth.com/plugin/forgemend/versions#all-versions) | ✅ | Repair items with XP points |
-| [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) | Sit plugin |
+| [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) | ✅ | Sit plugin |
 | [HeadDrop](https://www.spigotmc.org/resources/✅-headdrop-free-1-16-1-20-fully-customizable.99976/) | [GitHub](https://github.com/RRS-9747/HeadDrop) | [Download](https://github.com/RRS-9747/HeadDrop/releases) | ✅ | Players and mobs drop heads |
 | [HuskHomes2](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | [GitHub](https://github.com/WiIIiam278/HuskHomes2) | [Download](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | ✅ | Homes plugin |
 | [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | Closed Source | [Paid](https://www.spigotmc.org/resources/interactiveboard.77114/) | ✅ | Interactive boards using maps |
@@ -77,18 +77,17 @@ List of popular plugins that are working on supporting Folia or already support 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) | ✅ | Automatic chat, title, bossbar and others broadcast |
 | [ChatControl Red](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) | Closed Source | [Paid](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) | ✅ | Big chat plugin |
-| [CleanPing](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) | [GitHub](https://github.com/frafol/CleanPing/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) |
-| [CleanStaffChat](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) | [GitHub](https://github.com/frafol/CleanStaffChat/) | [Download](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) |
-| [CommandSpy](https://www.spigotmc.org/resources/commandspy.67508/) | Closed Source | [Download](https://www.spigotmc.org/resources/commandspy.67508/) |
-| [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Download](https://github.com/YouHaveTrouble/CommandWhitelist/releases) |
-| [FreedomChat](https://modrinth.com/plugin/freedomchat) | [GitHub](https://github.com/e-im/FreedomChat) | [Download](https://modrinth.com/plugin/freedomchat/versions#all-versions) |
+| [CleanPing](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) | [GitHub](https://github.com/frafol/CleanPing/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) | ✅ | /ping command |
+| [CleanStaffChat](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) | [GitHub](https://github.com/frafol/CleanStaffChat/) | [Download](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) | ✅ | Staff chat |
+| [CommandSpy](https://www.spigotmc.org/resources/commandspy.67508/) | Closed Source | [Download](https://www.spigotmc.org/resources/commandspy.67508/) | ✅ | Check what commands others are running |
+| [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Download](https://github.com/YouHaveTrouble/CommandWhitelist/releases) | ✅ | Customize what commands will be available in the chat command suggestions |
+| [FreedomChat](https://modrinth.com/plugin/freedomchat) | [GitHub](https://github.com/e-im/FreedomChat) | [Download](https://modrinth.com/plugin/freedomchat/versions#all-versions) | ✅ | Prevent messages from being available to Mojang |
 
 ### Security
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) | ✅ | Additional security for servers with AuthMe |
-| [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [Download](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
 
 ### Anti Cheat
 
@@ -99,15 +98,15 @@ List of popular plugins that are working on supporting Folia or already support 
 | [Freeze](https://www.spigotmc.org/resources/freeze.31822/) | [GitHub](https://github.com/SirBlobman/Freeze) | [Download](https://www.spigotmc.org/resources/freeze.31822/) | ✅ | Freeze players |
 | [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) | ✅ | Anti Cheat made in a new way |
 | [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) | ✅ | Check the inventory of players |
-| [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/)
+| [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/) | ✅ | Anti Cheat plugin |
 
 ### Optimisation
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) | ✅ | Control mob spawning |
-| [Kryptonite](https://modrinth.com/plugin/kryptonite/) | [GitHub](https://github.com/lewmc/kryptonite) | [Download](https://modrinth.com/plugin/kryptonite/versions) |
-| [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) |
+| [Kryptonite](https://modrinth.com/plugin/kryptonite/) | [GitHub](https://github.com/lewmc/kryptonite) | [Download](https://modrinth.com/plugin/kryptonite/versions) | ✅ | Brings new methods to prevent lag |
+| [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) | ✅ | Control lag in various ways |
 
 
 These will be put in the correct categories soon:
