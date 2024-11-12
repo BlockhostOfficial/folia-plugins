@@ -16,22 +16,22 @@ List of popular plugins that are working on supporting Folia or already support 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) | ✅ | Server MOTD (Message Of The Day) |
 | [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [Download](https://modrinth.com/plugin/antipopup) | ✅ | Prevents the new 1.19 popup |
-| [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) |
-| [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [Download](https://discord.com/invite/HGAdJEumxC) |
-| [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [Download](https://github.com/FancyMcPlugins/FancyHolograms/releases) |
-| [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) |
-| [Fancy Npcs](https://modrinth.com/plugin/fancynpcs) | [GitHub](https://github.com/FancyMcPlugins/FancyNpcs) | [Download](https://modrinth.com/plugin/fancynpcs/versions#all-versions) |
-| [Geyser](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/) | [GitHub](https://github.com/GeyserMC/Geyser) | [Download](https://geysermc.org/download) |
-| [LibertyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) |
-| [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) |
-| [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) |
+| [Chunky](https://www.spigotmc.org/resources/chunky.81534/) | [GitHub](https://github.com/pop4959/Chunky) | [Download](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) | ✅ | Pre generates chunks |
+| [DiscordSRV (Ascension)](https://github.com/DiscordSRV/Ascension) | [GitHub](https://github.com/DiscordSRV/Ascension) | [Download](https://discord.com/invite/HGAdJEumxC) | ✅ | Connect Minecraft with your Discord server |
+| [FancyHolograms](https://modrinth.com/plugin/fancyholograms) | [GitHub](https://github.com/FancyMcPlugins/FancyHolograms) | [Download](https://github.com/FancyMcPlugins/FancyHolograms/releases) | ✅ | Holograms |
+| [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) | ✅ | Extension for Geyser |
+| [Fancy Npcs](https://modrinth.com/plugin/fancynpcs) | [GitHub](https://github.com/FancyMcPlugins/FancyNpcs) | [Download](https://modrinth.com/plugin/fancynpcs/versions#all-versions) | ✅ | NPCs |
+| [Geyser](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/) | [GitHub](https://github.com/GeyserMC/Geyser) | [Download](https://geysermc.org/download) | ✅ | Add Bedrock edition support |
+| [LibertyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) | ✅ | Punishments |
+| [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) | ✅ | Punishments
+| [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) | ✅ | Temporarily remove access to your server |
 
 ### Economy
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [Download](https://github.com/SirBlobman/Basic-Economy/releases) | Simple economy plugin |
-| [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | [Download](https://ci.minebench.de/job/ChestShop-3/) |
+| [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [Download](https://github.com/SirBlobman/Basic-Economy/releases) | ✅ | Simple economy plugin |
+| [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | [Download](https://ci.minebench.de/job/ChestShop-3/) | ✅ | Sell items through chests |
 | [EcoItems (Fork)](https://github.com/mani1232/EcoItems) | [GitHub](https://github.com/mani1232/EcoItems) | Compile from [GitHub](https://github.com/mani1232/EcoItems) |
 | [Hynseeconomy](https://github.com/MidnightTale/hyeconomy) | [GitHub](https://github.com/MidnightTale/hyeconomy) | [Download](https://github.com/MidnightTale/hyeconomy) |
 | [JobsReborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) | [GitHub](https://github.com/Zrips/Jobs) | [Download](https://www.spigotmc.org/resources/jobs-reborn.4216/) |
@@ -41,7 +41,7 @@ List of popular plugins that are working on supporting Folia or already support 
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [AdvancedTeleport](https://www.spigotmc.org/resources/advancedteleport.64139/) | [GitHub](https://github.com/Niestrat99/AT-Rewritten/) | [Download](https://modrinth.com/plugin/advancedteleport) | ✅ |
+| [AdvancedTeleport](https://www.spigotmc.org/resources/advancedteleport.64139/) | [GitHub](https://github.com/Niestrat99/AT-Rewritten/) | [Download](https://modrinth.com/plugin/advancedteleport) | ✅ | Teleporation |
 | [AntiHealthIndicator](https://www.spigotmc.org/resources/antihealthindicator.114851/) | [GitHub](https://github.com/Bram1903/AntiHealthIndicator) | [Download](https://www.spigotmc.org/resources/antihealthindicator.114851/) | ✅ |
 | [AnnouncerPlus](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | [GitHub](https://github.com/jpenilla/AnnouncerPlus) | [Download](https://jenkins.jpenilla.xyz/job/AnnouncerPlus/) | ✅ | Automatic chat, title, bossbar and others broadcast |
 | [ArmorStandEditor](https://modrinth.com/plugin/armorstandeditor-reborn/) | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor) | [Download](https://modrinth.com/plugin/armorstandeditor-reborn/versions#all-versions) | ✅ |
@@ -86,7 +86,7 @@ List of popular plugins that are working on supporting Folia or already support 
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [ChatControl Red](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) | Closed Source | [Paid](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) |
+| [ChatControl Red](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) | Closed Source | [Paid](https://builtbybit.com/resources/chatcontrol-red-format-filter-chat.18217/) | ✅ | Big chat plugin |
 | [CleanPing](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) | [GitHub](https://github.com/frafol/CleanPing/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105475/) |
 | [CleanStaffChat](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) | [GitHub](https://github.com/frafol/CleanStaffChat/) | [Download](https://www.spigotmc.org/resources/✨-cleansc-•-best-staffchat-plugin-spigot-bungeecord-velocity-folia-and-redisbungee-support.105220/) |
 | [CommandSpy](https://www.spigotmc.org/resources/commandspy.67508/) | Closed Source | [Download](https://www.spigotmc.org/resources/commandspy.67508/) |
@@ -97,21 +97,21 @@ List of popular plugins that are working on supporting Folia or already support 
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) |
+| [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) | ✅ | Additional security for servers with AuthMe |
 | [CatSeedLogin (Fork)](https://github.com/RenYuan-MC/CatSeedLogin) | [GitHub](https://github.com/RenYuan-MC/CatSeedLogin) | [Download](https://github.com/RenYuan-MC/CatSeedLogin/releases) |
 
 ### Anti Cheat
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) |
+| [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) | ✅ | Anti Cheat made in a new way |
 | [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/)
 
 ### Optimisation
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) |
+| [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) | ✅ | Control mob spawning |
 | [Kryptonite](https://modrinth.com/plugin/kryptonite/) | [GitHub](https://github.com/lewmc/kryptonite) | [Download](https://modrinth.com/plugin/kryptonite/versions) |
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) |
 
