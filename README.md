@@ -30,6 +30,17 @@ List of popular plugins that are working on supporting Folia or already support 
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) | ✅ | Punishments
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) | ✅ | Temporarily remove access to your server |
 
+### Anti Cheat
+
+| Name | GitHub | Download | Official Project | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [CleanScreenShare](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/) | [GitHub](https://github.com/frafol/CleanScreenShare/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548) | ✅ | Anti hacker screen share plugin |
+| [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) | ✅ | Hides real coordinates from the players |
+| [Freeze](https://www.spigotmc.org/resources/freeze.31822/) | [GitHub](https://github.com/SirBlobman/Freeze) | [Download](https://www.spigotmc.org/resources/freeze.31822/) | ✅ | Freeze players |
+| [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) | ✅ | Anti Cheat made in a new way |
+| [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) | ✅ | Check the inventory of players |
+| [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/) | ✅ | Anti Cheat plugin |
+
 ### Economy
 
 | Name | GitHub | Download | Official Project | Description |
@@ -70,7 +81,6 @@ List of popular plugins that are working on supporting Folia or already support 
 | [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | Closed Source | [Paid](https://www.spigotmc.org/resources/interactiveboard.77114/) | ✅ | Interactive boards using maps |
 | [Lands](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) | Closed Source | [Paid](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) | ✅ | Claim lands |
 
-
 ### Chat
 
 | Name | GitHub | Download | Official Project | Description |
@@ -89,17 +99,6 @@ List of popular plugins that are working on supporting Folia or already support 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) | ✅ | Additional security for servers with AuthMe |
 
-### Anti Cheat
-
-| Name | GitHub | Download | Official Project | Description |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| [CleanScreenShare](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/) | [GitHub](https://github.com/frafol/CleanScreenShare/) | [Download](https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548) | ✅ | Anti hacker screen share plugin |
-| [Coordinates Obfuscator](https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/) | [GitHub](https://github.com/Cavallium/CoordinatesObfuscator) | [Download](https://github.com/cavallium/CoordinatesObfuscator/releases) | ✅ | Hides real coordinates from the players |
-| [Freeze](https://www.spigotmc.org/resources/freeze.31822/) | [GitHub](https://github.com/SirBlobman/Freeze) | [Download](https://www.spigotmc.org/resources/freeze.31822/) | ✅ | Freeze players |
-| [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) | ✅ | Anti Cheat made in a new way |
-| [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) | ✅ | Check the inventory of players |
-| [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/) | ✅ | Anti Cheat plugin |
-
 ### Optimisation
 
 | Name | GitHub | Download | Official Project | Description |
@@ -107,7 +106,6 @@ List of popular plugins that are working on supporting Folia or already support 
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) | ✅ | Control mob spawning |
 | [Kryptonite](https://modrinth.com/plugin/kryptonite/) | [GitHub](https://github.com/lewmc/kryptonite) | [Download](https://modrinth.com/plugin/kryptonite/versions) | ✅ | Brings new methods to prevent lag |
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) | ✅ | Control lag in various ways |
-
 
 These will be put in the correct categories soon:
 | Name | GitHub | Download |
