@@ -180,7 +180,7 @@ List of plugins that are working on Folia support, however you might find an uno
 - [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API/)
 
-### Find more Folia plugins: [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
+### Find more Folia plugins: [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27)
 
 ## How can I add Folia support to my plugin?
 
