@@ -186,7 +186,7 @@ List of plugins that are working on Folia support, however you might find an uno
 
 Check out the [README File](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the [PaperMC Documentations](https://docs.papermc.io/folia) for more information.
 
-### Folia Servers
+## Folia Servers
 
 Here is a list of servers that use Folia, make a pull request to add yours.
 
