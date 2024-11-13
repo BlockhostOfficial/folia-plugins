@@ -155,8 +155,6 @@ List of popular plugins that are working on supporting Folia or already support 
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) | ✅ | Control lag in various ways |
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) | ✅ | Removes heavy NBT items |
 
-#### Find more Folia plugins: [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
-
 ### List of plugins that are working on support for Folia
 
 List of plugins that are working on Folia support, however you might find an unofficial version in the list above:
@@ -181,6 +179,8 @@ List of plugins that are working on Folia support, however you might find an uno
 - [FurnitureLib](https://github.com/Ste3et/FurnitureLib/tree/folia)
 - [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API/)
+
+### Find more Folia plugins: [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
 
 ## How can I add Folia support to my plugin?
 
