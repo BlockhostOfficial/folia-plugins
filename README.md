@@ -204,6 +204,14 @@ Libraries and frameworks for plugin developers.
 
 Check out the [README File](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the [PaperMC Documentations](https://docs.papermc.io/folia) for more information.
 
+### Folia Servers
+
+Here is a list of servers that use Folia, make a pull request to add yours.
+
+| Name | Website | Gamemode | Player count | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+- 6b6t | [www.6b6t.org](https://www.6b6t.org/) | Anarchy | 150-250 | Biggest anarchy server in the world with 10+ render distance and no queue thanks to Folia |
+
 ## Our Discord Server:
 
 [![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner3)](https://discord.gg/GcemTB848R)
