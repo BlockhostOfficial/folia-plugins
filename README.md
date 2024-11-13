@@ -28,19 +28,19 @@ List of popular plugins that are working on supporting Folia or already support 
 | [LibertyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) | ✅ | Punishments |
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) | ✅ | Punishments
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) | ✅ | Temporarily remove access to your server |
-| [mclo.gs](https://www.spigotmc.org/resources/mclo-gs.47502/) | [GitHub](https://github.com/aternosorg/mclogs-bukkit) | [Download](https://www.spigotmc.org/resources/mclo-gs.47502/) |
-| [MineStore](https://minestorecms.com) | [GitHub](https://github.com/ChromMob/MineStoreRecode) | [Download](https://js.chrommob.fun/job/MineStore/) |
-| [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/) | [GitHub](https://github.com/jpenilla/MiniMOTD) | [Download](https://github.com/jpenilla/MiniMOTD/actions) |
-| [MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders) | [GitHub](https://github.com/MiniPlaceholders/MiniPlaceholders/) | [Download](https://modrinth.com/plugin/miniplaceholders/versions#all-versions) |
-| [motd.gg](https://www.spigotmc.org/resources/motd-gg.106501/) | [GitHub](https://github.com/aternosorg/motdgg-bukkit/) | [Download](https://www.spigotmc.org/resources/motd-gg.106501/) |
-| [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) |
-| [Pl3xmap](https://modrinth.com/plugin/pl3xmap) | [GitHub](https://github.com/granny/Pl3xMap) | [Download](https://modrinth.com/plugin/pl3xmap/versions) |
-| [PlugManX](https://www.spigotmc.org/resources/plugmanx.88135/) | [GitHub](https://github.com/TheBlackEntity/PlugManX) | [Download](https://github.com/TheBlackEntity/PlugManX/releases) |
-| [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) | [GitHub](https://github.com/dmulloy2/ProtocolLib) | [Download](https://github.com/dmulloy2/ProtocolLib/releases) |
-| [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [Download](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit) |
-| [SkinOverlay](https://www.spigotmc.org/resources/skinoverlay.107967/) | [GitHub](https://github.com/GeorgeV220/SkinOverlay) | [Paid](https://www.spigotmc.org/resources/skinoverlay.107967/) |
-| [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) | [GitHub](https://github.com/SkinsRestorer/SkinsRestorerX) | [Download](https://github.com/SkinsRestorer/SkinsRestorerX/releases) |
-| [TabList](https://www.spigotmc.org/resources/animated-tab-tablist.46229/) | [GitHub](https://github.com/montlikadani/TabList) | [Download](https://github.com/montlikadani/TabList/releases) |
+| [mclo.gs](https://www.spigotmc.org/resources/mclo-gs.47502/) | [GitHub](https://github.com/aternosorg/mclogs-bukkit) | [Download](https://www.spigotmc.org/resources/mclo-gs.47502/) | ✅ | Advanced Logging system by [Aternos](https://aternos.org/:en/) |
+| [MineStore](https://minestorecms.com) | [GitHub](https://github.com/ChromMob/MineStoreRecode) | [Download](https://js.chrommob.fun/job/MineStore/) | ✅ | Self Hosted Tebex alternative |
+| [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/) | [GitHub](https://github.com/jpenilla/MiniMOTD) | [Download](https://github.com/jpenilla/MiniMOTD/actions) | ✅ | Minimal MOTD plugin |
+| [MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders) | [GitHub](https://github.com/MiniPlaceholders/MiniPlaceholders/) | [Download](https://modrinth.com/plugin/miniplaceholders/versions#all-versions) | ✅ | New optimized placeholders plugin |
+| [motd.gg](https://www.spigotmc.org/resources/motd-gg.106501/) | [GitHub](https://github.com/aternosorg/motdgg-bukkit/) | [Download](https://www.spigotmc.org/resources/motd-gg.106501/) | ✅ | MOTD plugin |
+| [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) | ✅ | Voice chat plugin |
+| [Pl3xmap](https://modrinth.com/plugin/pl3xmap) | [GitHub](https://github.com/granny/Pl3xMap) | [Download](https://modrinth.com/plugin/pl3xmap/versions) | ✅ | Web map plugin |
+| [PlugManX](https://www.spigotmc.org/resources/plugmanx.88135/) | [GitHub](https://github.com/TheBlackEntity/PlugManX) | [Download](https://github.com/TheBlackEntity/PlugManX/releases) | ✅ | Reload plugins without server restart |
+| [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) | [GitHub](https://github.com/dmulloy2/ProtocolLib) | [Download](https://github.com/dmulloy2/ProtocolLib/releases) | ✅ | Required by many advanced plugins |
+| [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [Download](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit) | ✅ | Voice chat plugin |
+| [SkinOverlay](https://www.spigotmc.org/resources/skinoverlay.107967/) | [GitHub](https://github.com/GeorgeV220/SkinOverlay) | [Paid](https://www.spigotmc.org/resources/skinoverlay.107967/) | ✅ | Add overlays to your existing skin |
+| [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) | [GitHub](https://github.com/SkinsRestorer/SkinsRestorerX) | [Download](https://github.com/SkinsRestorer/SkinsRestorerX/releases) | ✅ | Change your skin fully |
+| [TabList](https://www.spigotmc.org/resources/animated-tab-tablist.46229/) | [GitHub](https://github.com/montlikadani/TabList) | [Download](https://github.com/montlikadani/TabList/releases) | ✅ | Lightweight TAB plugin |
 
 ### Anti Cheat
 
@@ -52,8 +52,8 @@ List of popular plugins that are working on supporting Folia or already support 
 | [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) | ✅ | Anti Cheat made in a new way |
 | [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) | ✅ | Check the inventory of players |
 | [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/) | ✅ | Anti Cheat plugin |
-| [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) |
-| [SpeedLimit](https://www.spigotmc.org/resources/speedlimit-1-20-1-support.75269/) | [GitHub](https://github.com/Loving11ish/SpeedLimit) | [Download](https://github.com/Loving11ish/SpeedLimit/releases) |
+| [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) | ✅ | The good old anticheat |
+| [SpeedLimit](https://www.spigotmc.org/resources/speedlimit-1-20-1-support.75269/) | [GitHub](https://github.com/Loving11ish/SpeedLimit) | [Download](https://github.com/Loving11ish/SpeedLimit/releases) | ✅ | Limit the speed in various ways |
 
 ### Economy
 
@@ -94,15 +94,15 @@ List of popular plugins that are working on supporting Folia or already support 
 | [HuskHomes2](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | [GitHub](https://github.com/WiIIiam278/HuskHomes2) | [Download](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | ✅ | Homes plugin |
 | [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | Closed Source | [Paid](https://www.spigotmc.org/resources/interactiveboard.77114/) | ✅ | Interactive boards using maps |
 | [Lands](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) | Closed Source | [Paid](https://www.spigotmc.org/resources/lands-%E2%AD%95-land-claim-plugin-%E2%9C%85-grief-prevention-protection-gui-management-nations-wars-1-20-support.53313/) | ✅ | Claim lands |
-| [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) | [GitHub](https://github.com/mcMMO-Dev/mcMMO) | [Paid](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) |
-| [MountsX](https://www.spigotmc.org/resources/mountsx.81299/) | Closed Source | [Paid](https://www.spigotmc.org/resources/mountsx.81299/) |
-| [PrismRefracted (Fork)](https://beta.mcbbs.net/resource/servermod/qcnedi83) | [GitHub](https://github.com/Rothes/PrismRefracted) | [Download](https://github.com/Rothes/PrismRefracted/releases) |
-| [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) |
+| [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) | [GitHub](https://github.com/mcMMO-Dev/mcMMO) | [Paid](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) | ✅ | Original MMO |
+| [MountsX](https://www.spigotmc.org/resources/mountsx.81299/) | Closed Source | [Paid](https://www.spigotmc.org/resources/mountsx.81299/) | ✅ | Customizable horse |
+| [PrismRefracted](https://github.com/Rothes/PrismRefracted) | [GitHub](https://github.com/Rothes/PrismRefracted) | [Download](https://github.com/Rothes/PrismRefracted/releases) | ❌ | Rollbacks |
+| [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) | ✅ | PvP manager |
 | [RDQ](https://modrinth.com/plugin/rdq) | Closed Source | [Download](https://modrinth.com/plugin/rdq/versions) |
-| [Residence](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) | [GitHub](https://github.com/Zrips/Residence) | [Paid](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) |
-| [SimpleClaimSystem](https://www.spigotmc.org/resources/simpleclaimsystem-%E2%9C%85-1-18-1-21-fully-configurable-%E2%9A%99%EF%B8%8F-folia-supported-%E2%9A%A1.115568/) | [GitHub](https://github.com/Xyness/SimpleClaimSystem) | [Download](https://www.spigotmc.org/resources/simpleclaimsystem-%E2%9C%85-1-18-1-21-fully-configurable-%E2%9A%99%EF%B8%8F-folia-supported-%E2%9A%A1.115568/) |
-| [Towny](https://www.spigotmc.org/resources/towny-advanced.72694/) | [GitHub](https://github.com/TownyAdvanced/Towny) | [Download](https://github.com/TownyAdvanced/Towny/releases/) |
-| [TownyWaypoints](https://github.com/ewof/TownyWaypoints) | [GitHub](https://github.com/ewof/TownyWaypoints) | [Download](https://github.com/ewof/TownyWaypoints/releases) |
+| [Residence](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) | [GitHub](https://github.com/Zrips/Residence) | [Paid](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) | ✅ | Land protection plugin |
+| [SimpleClaimSystem](https://www.spigotmc.org/resources/simpleclaimsystem-%E2%9C%85-1-18-1-21-fully-configurable-%E2%9A%99%EF%B8%8F-folia-supported-%E2%9A%A1.115568/) | [GitHub](https://github.com/Xyness/SimpleClaimSystem) | [Download](https://www.spigotmc.org/resources/simpleclaimsystem-%E2%9C%85-1-18-1-21-fully-configurable-%E2%9A%99%EF%B8%8F-folia-supported-%E2%9A%A1.115568/) | ✅ | Land protection plugin |
+| [Towny](https://www.spigotmc.org/resources/towny-advanced.72694/) | [GitHub](https://github.com/TownyAdvanced/Towny) | [Download](https://github.com/TownyAdvanced/Towny/releases/) | ✅ | Land protection plugin |
+| [TownyWaypoints](https://github.com/ewof/TownyWaypoints) | [GitHub](https://github.com/ewof/TownyWaypoints) | [Download](https://github.com/ewof/TownyWaypoints/releases) | ✅ | Towny extension |
 
 ### Chat
 
@@ -115,15 +115,15 @@ List of popular plugins that are working on supporting Folia or already support 
 | [CommandSpy](https://www.spigotmc.org/resources/commandspy.67508/) | Closed Source | [Download](https://www.spigotmc.org/resources/commandspy.67508/) | ✅ | Check what commands others are running |
 | [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/) | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Download](https://github.com/YouHaveTrouble/CommandWhitelist/releases) | ✅ | Customize what commands will be available in the chat command suggestions |
 | [FreedomChat](https://modrinth.com/plugin/freedomchat) | [GitHub](https://github.com/e-im/FreedomChat) | [Download](https://modrinth.com/plugin/freedomchat/versions#all-versions) | ✅ | Prevent messages from being available to Mojang |
-| [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://github.com/AlexProgrammerDE/PistonChat/actions) |
-| [PrefiX](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | [GitHub](https://gitlab.com/martijnpu/prefix) | [Download](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) |
+| [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://github.com/AlexProgrammerDE/PistonChat/actions) | ✅ | Chat plugin used to replicate the chat commands of 2b2t |
+| [PrefiX](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | [GitHub](https://gitlab.com/martijnpu/prefix) | [Download](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | ✅ | Prefixes |
 
 ### Security
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) | ✅ | Additional security for servers with AuthMe |
-| [UltimateServerProtector](https://www.spigotmc.org/resources/ultimateserverprotector-admins-operators-security-plugin-lightweight-and-async.105237/) | [GitHub](https://github.com/Overwrite987/UltimateServerProtector) | [Download](https://github.com/Overwrite987/UltimateServerProtector/releases) |
+| [UltimateServerProtector](https://www.spigotmc.org/resources/ultimateserverprotector-admins-operators-security-plugin-lightweight-and-async.105237/) | [GitHub](https://github.com/Overwrite987/UltimateServerProtector) | [Download](https://github.com/Overwrite987/UltimateServerProtector/releases) | ✅ | Additional admin protection commands |
 
 ### Optimisation
 
@@ -132,7 +132,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [GitHub](https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/) | [Download](https://ci.froobworld.com/job/FarmControl/) | ✅ | Control mob spawning |
 | [Kryptonite](https://modrinth.com/plugin/kryptonite/) | [GitHub](https://github.com/lewmc/kryptonite) | [Download](https://modrinth.com/plugin/kryptonite/versions) | ✅ | Brings new methods to prevent lag |
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) | ✅ | Control lag in various ways |
-| [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) |
+| [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) | ✅ | Removes heavy NBT items |
 
 These will be put in the correct categories soon:
 | Name | GitHub | Download |
