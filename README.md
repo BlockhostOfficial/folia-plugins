@@ -210,7 +210,7 @@ Here is a list of servers that use Folia, make a pull request to add yours.
 
 | Name | Website | Gamemode | Player count | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-- 6b6t | [www.6b6t.org](https://www.6b6t.org/) | Anarchy | 150-250 | Biggest anarchy server in the world with 10+ render distance and no queue thanks to Folia |
+| 6b6t | [www.6b6t.org](https://www.6b6t.org/) | Anarchy | 150-250 | Biggest anarchy server in the world with 10+ render distance and no queue thanks to Folia |
 
 ## Our Discord Server:
 
