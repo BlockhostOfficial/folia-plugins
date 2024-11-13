@@ -25,9 +25,10 @@ List of popular plugins that are working on supporting Folia or already support 
 | [Floodgate](https://wiki.geysermc.org/floodgate/) | [GitHub](https://github.com/GeyserMC/Floodgate) | [Download](https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/) | ✅ | Extension for Geyser |
 | [Fancy Npcs](https://modrinth.com/plugin/fancynpcs) | [GitHub](https://github.com/FancyMcPlugins/FancyNpcs) | [Download](https://modrinth.com/plugin/fancynpcs/versions#all-versions) | ✅ | NPCs |
 | [Geyser](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/) | [GitHub](https://github.com/GeyserMC/Geyser) | [Download](https://geysermc.org/download) | ✅ | Add Bedrock edition support |
+| [HuskSync](https://www.spigotmc.org/resources/husksync-sync-inventories-ender-chests-cross-server-advancements-map-art-stats-backups.97144/) | [GitHub](https://github.com/WiIIiam278/HuskSync) | [Paid](https://www.spigotmc.org/resources/husksync-sync-inventories-ender-chests-cross-server-advancements-map-art-stats-backups.97144/) | ✅ | Sync inventories cross servers |
 | [LibertyBans](https://spigotmc.org/resources/81063) | [GitHub](https://github.com/A248/LibertyBans) | [Download](https://ci.hahota.net/job/LibertyBans/) | ✅ | Punishments |
 | [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) | Closed Source | [Paid](https://www.spigotmc.org/resources/litebans.3715/) | ✅ | Punishments
-| [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://hangar.papermc.io/kennytv/Maintenance/versions) | ✅ | Temporarily remove access to your server |
+| [Maintenance](https://github.com/kennytv/Maintenance) | [GitHub](https://github.com/kennytv/Maintenance) | [Download](https://github.com/kennytv/Maintenance/releases) | ✅ | Temporarily remove access to your server |
 | [mclo.gs](https://www.spigotmc.org/resources/mclo-gs.47502/) | [GitHub](https://github.com/aternosorg/mclogs-bukkit) | [Download](https://www.spigotmc.org/resources/mclo-gs.47502/) | ✅ | Advanced Logging system by [Aternos](https://aternos.org/:en/) |
 | [MineStore](https://minestorecms.com) | [GitHub](https://github.com/ChromMob/MineStoreRecode) | [Download](https://js.chrommob.fun/job/MineStore/) | ✅ | Self Hosted Tebex alternative |
 | [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/) | [GitHub](https://github.com/jpenilla/MiniMOTD) | [Download](https://github.com/jpenilla/MiniMOTD/actions) | ✅ | Minimal MOTD plugin |
@@ -40,7 +41,16 @@ List of popular plugins that are working on supporting Folia or already support 
 | [SimpleVoiceChat](https://www.spigotmc.org/resources/simple-voice-chat.93738/) | [GitHub](https://github.com/henkelmax/simple-voice-chat) | [Download](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit) | ✅ | Voice chat plugin |
 | [SkinOverlay](https://www.spigotmc.org/resources/skinoverlay.107967/) | [GitHub](https://github.com/GeorgeV220/SkinOverlay) | [Paid](https://www.spigotmc.org/resources/skinoverlay.107967/) | ✅ | Add overlays to your existing skin |
 | [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) | [GitHub](https://github.com/SkinsRestorer/SkinsRestorerX) | [Download](https://github.com/SkinsRestorer/SkinsRestorerX/releases) | ✅ | Change your skin fully |
+| [TAB](https://github.com/NEZNAMY/TAB) | [GitHub](https://github.com/NEZNAMY/TAB) | [Download](https://github.com/NEZNAMY/TAB/releases) | ✅ | All-in-one TAB plugin |
+| [TAB-Bridge](https://github.com/NEZNAMY/TAB-Bridge) | [GitHub](https://github.com/NEZNAMY/TAB-Bridge) | [Download](https://github.com/NEZNAMY/TAB-Bridge/releases) | ✅ | Neznamy's TAB extension |
 | [TabList](https://www.spigotmc.org/resources/animated-tab-tablist.46229/) | [GitHub](https://github.com/montlikadani/TabList) | [Download](https://github.com/montlikadani/TabList/releases) | ✅ | Lightweight TAB plugin |
+| [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://github.com/ViaVersion/ViaBackwards/releases) | ✅ | Add support backwards to your server to older versions |
+| [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | [Download](https://github.com/ViaVersion/ViaRewind) | ✅ | ViaBackwards extension for very old versions |
+| [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://github.com/ViaVersion/ViaVersion/releases) | ✅ | Add support forward to newer Minecraft versions |
+| [VelocityVanish](https://modrinth.com/plugin/velocityvanish) | [GitHub](https://github.com/Syrent/VelocityVanish) | [Download](https://github.com/Syrent/VelocityVanish/releases) | ✅ | /vanish command |
+| [VoidWorldGenerator](https://github.com/HydrolienF/VoidWorldGenerator) | [GitHub](https://github.com/HydrolienF/VoidWorldGenerator) | [Download](https://github.com/HydrolienF/VoidWorldGenerator/releases) | ✅ | Generate void world |
+| [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/) | [GitHub](https://github.com/BenCodez/VotingPlugin) | [Download](https://www.spigotmc.org/resources/votingplugin.15358/) | ✅ | /vote plugin |
+| [WorldEdit-Folia](https://github.com/Euphillya/WorldEdit-Folia) | [GitHub](https://github.com/Euphillya/WorldEdit-Folia) | [Download](https://github.com/Euphillya/WorldEdit-Folia/releases) | ❌ | World Edit |
 
 ### Anti Cheat
 
@@ -63,6 +73,8 @@ List of popular plugins that are working on supporting Folia or already support 
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | [Download](https://ci.minebench.de/job/ChestShop-3/) | ✅ | Sell items through chests |
 | [JobsReborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) | [GitHub](https://github.com/Zrips/Jobs) | [Download](https://www.spigotmc.org/resources/jobs-reborn.4216/) | ✅ | Make money by working |
 | [LushRewards](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) | [GitHub](https://github.com/OakLoaf/LushRewards) | [Download](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) | ✅ | Playtime and login rewards |
+| [Vault](https://github.com/Geolykt/Vault) | [GitHub](https://github.com/Geolykt/Vault) | [Download](https://github.com/Geolykt/Vault/releases/tag/v1.7.3-folia) | ❌ | Vault
+| [Vault-Folia](https://github.com/SirBlobman/Vault-Folia) | [GitHub](https://github.com/SirBlobman/Vault-Folia) | [Download](https://github.com/SirBlobman/Vault-Folia/releases) | ❌ | Vault
 
 ### Features
 
@@ -86,7 +98,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | [Essence](https://modrinth.com/plugin/essence-plugin/) | [GitHub](https://github.com/lewmc/essence) | [Download](https://modrinth.com/plugin/essence-plugin/versions) | ✅ | Adds many classic commands |
 | [ExplodeAny](https://www.spigotmc.org/resources/explodeany-obsidian-breaker-tnt-explosion-modifier.85537/) | [GitHub](https://github.com/GuilleX7/ExplodeAny) | [Download](https://www.spigotmc.org/resources/explodeany-obsidian-breaker-tnt-explosion-modifier.85537/) | ✅ | Control explosions |
 | [FallAvert](https://www.spigotmc.org/resources/fallavert.40289/) | [GitHub](https://github.com/SirBlobman/FallAvert) | [Download](https://www.spigotmc.org/resources/fallavert.40289/) | ✅ | Prevent certain commands during falling |
-| [FlagsH](https://github.com/HydrolienF/FlagsH) | [GitHub](https://github.com/HydrolienF/FlagsH) | [Download](https://hangar.papermc.io/Hydrolien/FlagsH) | ✅ | Display banners as flags |
+| [FlagsH](https://github.com/HydrolienF/FlagsH) | [GitHub](https://github.com/HydrolienF/FlagsH) | [Download](https://github.com/HydrolienF/FlagsH/releases) | ✅ | Display banners as flags |
 | [FramedImage](https://github.com/JNNGL/framedImage) | [GitHub](https://github.com/JNNGL/framedImage) | [Download](https://github.com/JNNGL/framedImage/releases) | ✅ | Map art plugin |
 | [ForgeMend](https://modrinth.com/plugin/forgemend) | [GitHub](https://github.com/Hynse/ForgeMend) | [Download](https://modrinth.com/plugin/forgemend/versions#all-versions) | ✅ | Repair items with XP points |
 | [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) | ✅ | Sit plugin |
@@ -98,11 +110,13 @@ List of popular plugins that are working on supporting Folia or already support 
 | [MountsX](https://www.spigotmc.org/resources/mountsx.81299/) | Closed Source | [Paid](https://www.spigotmc.org/resources/mountsx.81299/) | ✅ | Customizable horse |
 | [PrismRefracted](https://github.com/Rothes/PrismRefracted) | [GitHub](https://github.com/Rothes/PrismRefracted) | [Download](https://github.com/Rothes/PrismRefracted/releases) | ❌ | Rollbacks |
 | [PvPManager](https://www.spigotmc.org/resources/pvpmanager.10610/) | [GitHub](https://github.com/ChanceSD/PvPManager) | [Download](https://ci.codemc.io/job/ChanceSD/job/PvPManager/) | ✅ | PvP manager |
-| [RDQ](https://modrinth.com/plugin/rdq) | Closed Source | [Download](https://modrinth.com/plugin/rdq/versions) |
 | [Residence](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) | [GitHub](https://github.com/Zrips/Residence) | [Paid](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-20.11480/) | ✅ | Land protection plugin |
 | [SimpleClaimSystem](https://www.spigotmc.org/resources/simpleclaimsystem-%E2%9C%85-1-18-1-21-fully-configurable-%E2%9A%99%EF%B8%8F-folia-supported-%E2%9A%A1.115568/) | [GitHub](https://github.com/Xyness/SimpleClaimSystem) | [Download](https://www.spigotmc.org/resources/simpleclaimsystem-%E2%9C%85-1-18-1-21-fully-configurable-%E2%9A%99%EF%B8%8F-folia-supported-%E2%9A%A1.115568/) | ✅ | Land protection plugin |
 | [Towny](https://www.spigotmc.org/resources/towny-advanced.72694/) | [GitHub](https://github.com/TownyAdvanced/Towny) | [Download](https://github.com/TownyAdvanced/Towny/releases/) | ✅ | Land protection plugin |
 | [TownyWaypoints](https://github.com/ewof/TownyWaypoints) | [GitHub](https://github.com/ewof/TownyWaypoints) | [Download](https://github.com/ewof/TownyWaypoints/releases) | ✅ | Towny extension |
+| [zAuctionHouse](https://www.spigotmc.org/resources/1-8-1-20-zauctionhouse-2000-servers-online.63010/) | Closed Source | [Download](https://www.spigotmc.org/resources/1-8-1-20-zauctionhouse-2000-servers-online.63010/) | ✅ | Auction house |
+| [zEssentials](https://github.com/Maxlego08/zEssentials) | [Github](https://github.com/Maxlego08/zEssentials) | [Download](https://www.spigotmc.org/resources/zessentials-best-essentials-cmi-sunlight-alternative.116293/) | ✅ | Many essential features |
+| [zMenu](https://github.com/Maxlego08/zMenu) | [Github](https://github.com/Maxlego08/zMenu) | [Download](https://www.spigotmc.org/resources/zmenu-ultra-complete-menu-plugin.110402/) | ✅ | Custom GUIs |
 
 ### Chat
 
@@ -122,6 +136,7 @@ List of popular plugins that are working on supporting Folia or already support 
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [AuthMeReloaded](https://github.com/HaHaWTH/AuthMeReReloaded/) | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded/) | [Download](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) | ❌ | The most popular offline mode /login plugin |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) | ✅ | Additional security for servers with AuthMe |
 | [UltimateServerProtector](https://www.spigotmc.org/resources/ultimateserverprotector-admins-operators-security-plugin-lightweight-and-async.105237/) | [GitHub](https://github.com/Overwrite987/UltimateServerProtector) | [Download](https://github.com/Overwrite987/UltimateServerProtector/releases) | ✅ | Additional admin protection commands |
 
@@ -134,61 +149,33 @@ List of popular plugins that are working on supporting Folia or already support 
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) | ✅ | Control lag in various ways |
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) | ✅ | Removes heavy NBT items |
 
-These will be put in the correct categories soon:
-| Name | GitHub | Download |
-| ------------- | ------------- | ------------- |
-| [AuthMeReloaded (Fork)](https://github.com/HaHaWTH/AuthMeReReloaded/) | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded/) | [Download](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) |
-| [AuthMeReloaded (Fork 2)](https://github.com/cavallium/AuthMeFolia) | [GitHub](https://github.com/cavallium/AuthMeFolia) | [Download](https://github.com/cavallium/AuthMeFolia/releases) |
-| [Vault (Fork)](https://github.com/Geolykt/Vault) | [GitHub](https://github.com/Geolykt/Vault) | [Download](https://github.com/Geolykt/Vault/releases/tag/v1.7.3-folia) |
-| [Vault-Folia (Fork)](https://github.com/SirBlobman/Vault-Folia) | [GitHub](https://github.com/SirBlobman/Vault-Folia) | [Download](https://github.com/SirBlobman/Vault-Folia/releases) |
-| [VelocityVanish](https://modrinth.com/plugin/velocityvanish) | [GitHub](https://github.com/Syrent/VelocityVanish) | [Download](https://github.com/Syrent/VelocityVanish/releases) |
-| [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/) | [GitHub](https://github.com/ViaVersion/ViaBackwards) | [Download](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/) |
-| [ViaRewind](https://www.spigotmc.org/resources/viarewind.52109/) | [GitHub](https://github.com/ViaVersion/ViaRewind) | Compile from [GitHub](https://github.com/ViaVersion/ViaRewind) |
-| [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) | [GitHub](https://github.com/ViaVersion/ViaVersion) | [Download](https://ci.viaversion.com/job/ViaVersion-DEV/) |
-| [VoidWorldGenerator](https://github.com/HydrolienF/VoidWorldGenerator) | [GitHub](https://github.com/HydrolienF/VoidWorldGenerator) | [Download](https://hangar.papermc.io/Hydrolien/VoidWorldGenerator) |
-| [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/) | [GitHub](https://github.com/BenCodez/VotingPlugin) | [Download](https://www.spigotmc.org/resources/votingplugin.15358/) |
-| [WorldEdit-Folia (Fork)](https://github.com/Euphillya/WorldEdit-Folia) | [GitHub](https://github.com/Euphillya/WorldEdit-Folia) | [Download](https://github.com/Euphillya/WorldEdit-Folia/releases) |
-| [zAuctionHouse](https://www.spigotmc.org/resources/1-8-1-20-zauctionhouse-2000-servers-online.63010/) | Closed Source | [Download](https://www.spigotmc.org/resources/1-8-1-20-zauctionhouse-2000-servers-online.63010/) |
-| [zEssentials](https://github.com/Maxlego08/zEssentials) | [Github](https://github.com/Maxlego08/zEssentials) | [Download](https://www.spigotmc.org/resources/zessentials-best-essentials-cmi-sunlight-alternative.116293/) |
-| [zMenu](https://github.com/Maxlego08/zMenu) | [Github](https://github.com/Maxlego08/zMenu) | [Download](https://www.spigotmc.org/resources/zmenu-ultra-complete-menu-plugin.110402/) |
-| [zMenu+](https://www.spigotmc.org/resources/zmenu-premium-zmenu-addon.115533/) | Closed Source | [Download](https://www.spigotmc.org/resources/zmenu-premium-zmenu-addon.115533/) |
-| [zScheduler](https://github.com/Maxlego08/zSchedulers) | [Github](https://github.com/Maxlego08/zSchedulers) | [Download](https://www.spigotmc.org/resources/zschedulers.112705/) |
-| [zShop](https://github.com/Maxlego08/zShop) | [Github](https://github.com/Maxlego08/zShop) | [Download](https://www.spigotmc.org/resources/zshop-1-8-1-20-advanced-shop-plugin.74073/) |
-
-#### If you want to obtain more Folia plugins, please use [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
+#### Find more Folia plugins: [Modrinth](https://modrinth.com/plugins?g=categories:%27folia%27).
 
 ### List of plugins that are working on support for Folia
 
-These plugins don't fully support Folia yet but it's in the plans or the development has already started.
+List of plugins that are working on Folia support, however you might find an unofficial version in the list above:
 
 - [AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded/pull/2701)
 - [ebackup](https://github.com/espidev/ebackup/issues/52)
 - [EssentialsX](https://github.com/EssentialsX/Essentials/tree/refactor/folia)
-- [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2171)
-- [HuskSync](https://github.com/WiIIiam278/HuskSync/issues/131)
-- [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API/issues/225)
+- [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2309)
+- [DeluxeMenus](https://github.com/HelpChat/DeluxeMenus/pull/114)
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/pull/3615)
 - [Multiverse-Core](https://github.com/Multiverse/Multiverse-Core/issues/2901)
 - [PacketEvents API](https://github.com/retrooper/packetevents/pull/583)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
-- [Spark](https://github.com/lucko/spark/tree/feat/folia), In the future, it will be built into Folia
-- [TAB](https://github.com/NEZNAMY/TAB/tree/v4), you can also use this [download](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) for semi functional plugin
+- [Spark](https://github.com/lucko/spark/tree/feat/folia)
 
-## Libraries and frameworks
-
-Libraries and frameworks for plugin developers.
-
-### List of libraries and frameworks that support Folia
+### List of libraries and frameworks that support Folia:
 
 - [PacketEvents 2.0](https://github.com/retrooper/packetevents/tree/2.0)
-
-### List of libraries and frameworks that are working on support for Folia
-
+- [PacketEvents API](https://github.com/retrooper/packetevents)
 - [BlueSlimeCore](https://www.spigotmc.org/resources/blueslimecore.83189/)
 - [FurnitureLib](https://github.com/Ste3et/FurnitureLib/tree/folia)
 - [InventoryGUI](https://github.com/Phoenix616/InventoryGui/issues/46)
-- 
+- [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API/)
+
 ## How can I add Folia support to my plugin?
 
 Check out the [README File](https://github.com/PaperMC/Folia) of Folia by PaperMC. You can also check the [PaperMC Documentations](https://docs.papermc.io/folia) for more information.
