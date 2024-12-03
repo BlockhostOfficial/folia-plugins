@@ -193,6 +193,8 @@ Here is a list of servers that use Folia, make a pull request to add yours.
 | Name | Website | Gamemode | Player count | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 6b6t | [www.6b6t.org](https://www.6b6t.org/) | Anarchy | 150-250 | Biggest anarchy server in the world with 10+ render distance and no queue thanks to Folia |
+| 2b2t | [www.2b2t.org](https://www.2b2t.org) | Anarchy | 600-700 | The oldest and most chaotic anarchy server |
+| InvadedLands | [www.invadedlands.net](https://invadedlands.net/) | Survival | 75-100 | A survival server with unique features |
 
 ## Our Discord Server:
 
