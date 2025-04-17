@@ -14,6 +14,7 @@ List of popular plugins that are working on supporting Folia or already support 
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [8b8tCore](https://github.com/XeraPlugins/8b8tCore) | [GitHub](https://github.com/XeraPlugins/8b8tCore) | [Download](https://github.com/XeraPlugins/8b8tCore) | ✅ | Anarchy Server Core Plugin |
 | [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) | ✅ | Server MOTD (Message Of The Day) |
 | [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [Download](https://modrinth.com/plugin/antipopup) | ✅ | Prevents the new 1.19 popup |
 | [BetterBoard](https://www.spigotmc.org/resources/betterboard.96393/) | [GitHub](https://github.com/HSGamer/BetterBoard) | [Download](https://www.spigotmc.org/resources/betterboard.96393/) | ✅ | Simple scoreboard plugin |
@@ -194,6 +195,7 @@ Here is a list of servers that use Folia, make a pull request to add yours.
 
 | Name | Website | Gamemode | Player count | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 8b8t | [www.8b8t.me](https://www.8b8t.me/) | Anarchy | 70-180 | Biggest Non Vanilla Anarchy Server, Folia: YES, Version: 1.7.X TO 1.21.X(1.21.5 Recommended), Since 2016 |
 | 6b6t | [www.6b6t.org](https://www.6b6t.org/) | Anarchy | 150-250 | Biggest anarchy server in the world with 10+ render distance and no queue thanks to Folia |
 | 2b2t | [www.2b2t.org](https://www.2b2t.org) | Semi-Anarchy | 600-700 | One of the oldest servers in Minecraft |
 | InvadedLands | [www.invadedlands.net](https://invadedlands.net/) | Survival | 75-100 | A survival server with unique features |
