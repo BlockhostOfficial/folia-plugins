@@ -1,0 +1,77 @@
+name: "Add Plugin/Library to Folia List"
+description: "Request adding a new plugin or library to the Folia compatibility directory."
+title: "[Plugin/Library] Add: <Name of Project>"
+labels: ["addition", "plugin/library"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Plugin/Library Addition Request
+        Please fill out all sections to ensure we can add your project quickly.
+        **Only Folia-compatible or actively developing Folia support** projects will be accepted.
+
+  - type: input
+    id: name
+    attributes:
+      label: "Name of Plugin/Library"
+      description: "The exact project name as it should appear in the list."
+      placeholder: "Example: TheNewEconomy"
+    validations:
+      required: true
+
+  - type: input
+    id: category
+    attributes:
+      label: "Category"
+      description: "Where should it go? (Utility, Economy, Anti-Cheat, Features, Chat, Security, Optimisation, Libraries)"
+      placeholder: "Example: Economy"
+    validations:
+      required: true
+
+  - type: input
+    id: github
+    attributes:
+      label: "GitHub Repository URL"
+      placeholder: "https://github.com/username/repo"
+    validations:
+      required: true
+
+  - type: input
+    id: download
+    attributes:
+      label: "Download Link"
+      description: "Link to stable releases (Modrinth, SpigotMC, GitHub Releases, etc.)"
+      placeholder: "https://modrinth.com/plugin/example/versions"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: support
+    attributes:
+      label: "Folia Support Status"
+      description: "Select the appropriate support status."
+      options:
+        - "✅ Official"
+        - "🧪 Unofficial/Community Fork"
+        - "❌ No Support (In Progress)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Short Description"
+      description: "One sentence summarizing the project."
+      placeholder: "Multi-currency economy plugin."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "This project is compatible with Folia or actively developing Folia support."
+          required: true
+        - label: "Links provided are correct and accessible."
+          required: true

@@ -1,0 +1,61 @@
+name: "Add Server to Folia List"
+description: "Request adding a new server to the Folia servers section."
+title: "[Server] Add: <Name of Server>"
+labels: ["addition", "server"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Server Addition Request
+        Please fill out all sections accurately.  
+        **Only active servers running Folia** will be listed.
+
+  - type: input
+    id: name
+    attributes:
+      label: "Server Name"
+      placeholder: "Example: 6b6t"
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: "Website or Join Link"
+      placeholder: "https://example.com"
+    validations:
+      required: true
+
+  - type: input
+    id: gamemode
+    attributes:
+      label: "Gamemode"
+      placeholder: "Example: Survival, Anarchy, Skyblock"
+    validations:
+      required: true
+
+  - type: input
+    id: playercount
+    attributes:
+      label: "Typical Player Count"
+      placeholder: "Example: 75-100"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Short Description"
+      placeholder: "A survival server with custom features."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "This server is currently running Folia."
+          required: true
+        - label: "All provided links are correct and accessible."
+          required: true
