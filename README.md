@@ -172,6 +172,7 @@ List of plugins that are working on Folia support, however you might find an uno
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia)
+- [MythicMobs](https://mythiccraft.io/index.php?resources/mythicmobs.1/)
 
 ### List of libraries and frameworks that support Folia:
 
