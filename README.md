@@ -63,6 +63,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/) | [GitHub](https://github.com/GrimAnticheat/Grim) | [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/) | ✅ | Anti Cheat made in a new way |
 | [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) | ✅ | Check the inventory of players |
 | [Matrix](https://matrix.rip) | Closed Source | [Paid](https://builtbybit.com/resources/matrix-anticheat.13999/) | ✅ | Anti Cheat plugin |
+| [Spartan](https://hangar.papermc.io/IdealisticAI/Spartan-AntiCheat) | [GitHub](https://github.com/CheatSolutions/Spartan-AntiCheat) | [Download](https://hangar.papermc.io/IdealisticAI/Spartan-AntiCheat) | ✅ | Anti Cheat plugin |
 | [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) | ✅ | The good old anticheat |
 | [SpeedLimit](https://www.spigotmc.org/resources/speedlimit-1-20-1-support.75269/) | [GitHub](https://github.com/Loving11ish/SpeedLimit) | [Download](https://github.com/Loving11ish/SpeedLimit/releases) | ✅ | Limit the speed in various ways |
 
