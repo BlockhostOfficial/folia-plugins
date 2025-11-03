@@ -36,6 +36,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/) | [GitHub](https://github.com/jpenilla/MiniMOTD) | [Download](https://github.com/jpenilla/MiniMOTD/actions) | ✅ | Minimal MOTD plugin |
 | [MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders) | [GitHub](https://github.com/MiniPlaceholders/MiniPlaceholders/) | [Download](https://modrinth.com/plugin/miniplaceholders/versions#all-versions) | ✅ | New optimized placeholders plugin |
 | [motd.gg](https://www.spigotmc.org/resources/motd-gg.106501/) | [GitHub](https://github.com/aternosorg/motdgg-bukkit/) | [Download](https://www.spigotmc.org/resources/motd-gg.106501/) | ✅ | MOTD plugin |
+| [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [Download](https://github.com/PlaceholderAPI/PlaceholderAPI/releases) | ✅ | Add placeholders to your server |
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) | ✅ | Voice chat plugin |
 | [Pl3xmap](https://modrinth.com/plugin/pl3xmap) | [GitHub](https://github.com/granny/Pl3xMap) | [Download](https://modrinth.com/plugin/pl3xmap/versions) | ✅ | Web map plugin |
 | [PlugManX](https://www.spigotmc.org/resources/plugmanx.88135/) | [GitHub](https://github.com/TheBlackEntity/PlugManX) | [Download](https://github.com/TheBlackEntity/PlugManX/releases) | ✅ | Reload plugins without server restart |
@@ -172,7 +173,6 @@ List of plugins that are working on Folia support, however you might find an uno
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms/pull/3615)
 - [Multiverse-Core](https://github.com/Multiverse/Multiverse-Core/issues/2901)
 - [PacketEvents API](https://github.com/retrooper/packetevents/pull/583)
-- [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia)
 - [MythicMobs](https://mythiccraft.io/index.php?resources/mythicmobs.1/)
