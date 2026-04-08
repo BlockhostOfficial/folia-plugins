@@ -128,6 +128,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | [zAuctionHouse](https://www.spigotmc.org/resources/1-8-1-20-zauctionhouse-2000-servers-online.63010/) | Closed Source | [Download](https://www.spigotmc.org/resources/1-8-1-20-zauctionhouse-2000-servers-online.63010/) | ✅ | Auction house |
 | [zEssentials](https://github.com/Maxlego08/zEssentials) | [Github](https://github.com/Maxlego08/zEssentials) | [Download](https://www.spigotmc.org/resources/zessentials-best-essentials-cmi-sunlight-alternative.116293/) | ✅ | Many essential features |
 | [zMenu](https://github.com/Maxlego08/zMenu) | [Github](https://github.com/Maxlego08/zMenu) | [Download](https://www.spigotmc.org/resources/zmenu-ultra-complete-menu-plugin.110402/) | ✅ | Custom GUIs |
+| [EssentialsLite](https://builtbybit.com/resources/essentialslite.34917/) | Closed Source | [Download](https://builtbybit.com/resources/essentialslite.34917/) | ✅ | Essentials-like commands, homes, warps, kits and economy |
 
 ### Chat
 
@@ -143,6 +144,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | [FlectonePulse](https://modrinth.com/plugin/flectonepulse) | [GitHub](https://github.com/Flectone/FlectonePulse) | [Download](https://modrinth.com/plugin/flectonepulse#download) | ✅ | Big plugin, takes control of chat, messages, and notifications |
 | [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://github.com/AlexProgrammerDE/PistonChat/actions) | ✅ | Chat plugin used to replicate the chat commands of 2b2t |
 | [PrefiX](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | [GitHub](https://gitlab.com/martijnpu/prefix) | [Download](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | ✅ | Prefixes |
+| [DiscordFlow - Role-Sync \| Chat \| Voice](https://builtbybit.com/resources/discordflow-role-sync-chat-voice.79503/) | Closed Source | [Download](https://builtbybit.com/resources/discordflow-role-sync-chat-voice.79503/) | ✅ | Discord integration with role sync, chat sync and voice features |
 
 ### Security
 
@@ -151,6 +153,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | [AuthMeReloaded](https://github.com/HaHaWTH/AuthMeReReloaded/) | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded/) | [Download](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest/) | ❌ | The most popular offline mode /login plugin |
 | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity) | [GitHub](https://github.com/4drian3d/AuthMeVelocity) | [Download](https://modrinth.com/plugin/authmevelocity/versions#all-versions) | ✅ | Additional security for servers with AuthMe |
 | [UltimateServerProtector](https://www.spigotmc.org/resources/ultimateserverprotector-admins-operators-security-plugin-lightweight-and-async.105237/) | [GitHub](https://github.com/Overwrite987/UltimateServerProtector) | [Download](https://github.com/Overwrite987/UltimateServerProtector/releases) | ✅ | Additional admin protection commands |
+| [ExploitFixer - Anti-Crash/Dupe Plugin](https://builtbybit.com/resources/exploitfixer-anti-crash-dupe-plugin.26463/) | Closed Source | [Download](https://builtbybit.com/resources/exploitfixer-anti-crash-dupe-plugin.26463/) | ✅ | Anti-crash, anti-dupe and packet exploit protection |
 
 ### Optimisation
 
@@ -160,6 +163,9 @@ List of popular plugins that are working on supporting Folia or already support 
 | [Kryptonite](https://modrinth.com/plugin/kryptonite/) | [GitHub](https://github.com/lewmc/kryptonite) | [Download](https://modrinth.com/plugin/kryptonite/versions) | ✅ | Brings new methods to prevent lag |
 | [LaggRemoverRemastered](https://github.com/RIvance/LaggRemoverRemastered) | [GitHub](https://github.com/RIvance/LaggRemoverRemastered) | [Download](https://github.com/RIvance/LaggRemoverRemastered/releases) | ✅ | Control lag in various ways |
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) | ✅ | Removes heavy NBT items |
+| [BlockLimiter - Optimize Performance](https://builtbybit.com/resources/blocklimiter-optimize-performance.91119/) | Closed Source | [Download](https://builtbybit.com/resources/blocklimiter-optimize-performance.91119/) | ✅ | Limit block counts per chunk to reduce lag |
+| [EntityLimiter - Optimize Performance](https://builtbybit.com/resources/entitylimiter-optimize-performance.67164/) | Closed Source | [Download](https://builtbybit.com/resources/entitylimiter-optimize-performance.67164/) | ✅ | Limit entities to prevent lag and crashes |
+| [MobStacker - Optimize Server Performance](https://builtbybit.com/resources/mobstacker-optimize-server-performance.23141/) | Closed Source | [Download](https://builtbybit.com/resources/mobstacker-optimize-server-performance.23141/) | ✅ | Stack mobs to reduce entity lag |
 
 ### List of plugins that are working on support for Folia
 
