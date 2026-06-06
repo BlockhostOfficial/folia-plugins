@@ -202,6 +202,7 @@ Here is a list of servers that use Folia, make a pull request to add yours.
 | 2b2t | [www.2b2t.org](https://www.2b2t.org) | Semi-Anarchy | 600-700 | One of the oldest servers in Minecraft |
 | EarthPol | [www.earthpol.com](https://earthpol.com/) | Towny Survival | 75-250 | A geopolitcal Minecraft server |
 | InvadedLands | [www.invadedlands.net](https://invadedlands.net/) | Survival | 75-100 | A survival server with unique features |
+| FoxLand | [loja.foxsrv.net](https://loja.foxsrv.net/) | Semi-Anarchy | 25-100 | Survive, use economy and domine! |
 
 ## Our Discord Server:
 
